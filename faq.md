@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 ---
 
-### Lista Najczęściej Zadawanych Pytań:
+## Lista Najczęściej Zadawanych Pytań:
 
 
 1. <strong>Czy będzie gracz zawodowy na LSG?</strong><br>

@@ -3,6 +3,8 @@ layout: page
 title: Cennik
 ---
 
+## Cennik
+
 <table>
 
 <tr>
