@@ -235,6 +235,11 @@ img {
   border-radius: 5px;
 }
 
+.sponsors img {
+  display: inline;
+  margin-right: 30px;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
