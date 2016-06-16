@@ -38,7 +38,7 @@ title: Cennik
 </tr>
 
 <tr>
-<td>namiot własny (dziecko 4-10 lat)    </td>
+<td>namiot własny (dziecko 4--10 lat)    </td>
 <td>6,5 pln                             </td>
 <td>80 pln                              </td>
 </tr>
@@ -81,8 +81,8 @@ Uwagi:
 
 Zniżki (dotyczą tylko osób zarejestrowanych do dnia 1.07.2016):
 
-- za rejestrację i opłacenie należności do 20 maja: 10% zniżki (za rejestrację i opłacenie należności pomiędzy 20 maja a 15 czerwca - 5% zniżki)
-- opłata za LSG dla dzieci i osób niegrających: -50%
+- za rejestrację i opłacenie należności do 20 maja: 10% zniżki (za rejestrację i opłacenie należności pomiędzy 20 maja a 15 czerwca 5% zniżki)
+- opłata za LSG dla dzieci i osób niegrających: 50%
 - opłatę za LSG wnosi **tylko pierwszych dwoje członków rodziny**
 
 Zniżki się sumują!

@@ -20,13 +20,13 @@ Pobliskie miejscowości:
 Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe ŁośTaxi. W celu rezerwacji proszę dzwonić pod numer 530 907 709 (najlepiej dzień wcześniej).  
 Koszt za samochód (niezależnie od ilości przewożonych osób)  
 
-- Miastko - 50zł
-- Bytów - 40zł
-- Tuchomie, Lipnica - 20zł
+- Miastko -- 50zł
+- Bytów -- 40zł
+- Tuchomie, Lipnica -- 20zł
 
 Jak tu dotrzeć:
 
-1. PKP do Chojnic lub Miastka - następnie PKS do Lipnicy (z Chojnic) lub Tuchomia (z Miastka)
+1. PKP do Chojnic lub Miastka -- następnie PKS do Lipnicy (z Chojnic) lub Tuchomia (z Miastka)
 2. PKS do Lipnicy (przez Bydgoszcz)
 
 <img src="http://www.alaska.sundar.pl/mapa1.jpg">
