@@ -1,7 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
 
 # Setup
-title:            'LSG 2016'
-description:      'Wszystko Będzie (Dobrze)'
+title: 'LSG 2016'
+description: 'Wszystko Będzie (Dobrze)'
