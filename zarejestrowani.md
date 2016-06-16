@@ -55,3 +55,11 @@ Zarejestrowani uczestnicy (wg daty zapisu, no ew. siły):
 - Łukasz Pater -- 2k
 - Marta Kołodziej -- 15k
 - Marcin Kulczycki -- 5k
+- Marcin Kulczycki -- 5k
+- Mariusz Klimczak -- 14k
+- Adam Lis -- nie gra
+- Tomasz Bogdziewicz -- 13-15k
+- Maciej Mazurek -- 4k
+- Robert Bugaj z rodziną ... byc moze :-)
+
+stan 15 czerwca
