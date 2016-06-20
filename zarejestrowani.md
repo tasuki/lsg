@@ -60,6 +60,11 @@ Zarejestrowani uczestnicy (wg daty zapisu, no ew. siły):
 - Adam Lis -- nie gra
 - Tomasz Bogdziewicz -- 13-15k
 - Maciej Mazurek -- 4k
-- Robert Bugaj z rodziną ... byc moze :-)
+- Robert Bugaj -- 9k
+- Joanna Bugaj -- 10k
+- Antoni Bugaj -- 20k
+- Zofia Bugaj -- 30k (rodzinka, te mlodsze to 8 i 6 lat )
+- Stanislaw Szczesniak -- 20k  (kumpel Sasia)
+- Kamil Chwedyna (o matko, ile Fiszu ma dan? -- wpadnie na lykend z zona :-)
 
-stan 15 czerwca
+stan 20 czerwca
