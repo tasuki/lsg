@@ -78,7 +78,7 @@ title: Cennik
 Uwagi:  
 1. Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
 2. Zniżki i promocje nie dotyczą pokoju VIP.  
-3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę 2 pln na dzień / 20 pln na całość.
+3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę **2 pln na dzień / 20 pln na całość**. Ci którzy już zapłacili dostaną refund!
 
 Zniżki (dotyczą tylko osób zarejestrowanych do dnia 1.07.2016):
 
