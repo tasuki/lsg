@@ -21,8 +21,8 @@ title: Cennik
 
 <tr>
 <td>domek    </td>
-<td>25 pln*  </td>
-<td>270 pln* </td>
+<td>25 pln <sup>[1]</sup></td>
+<td>270 pln <sup>[1]</sup></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ title: Cennik
 <tr>
 <td>pokoj VIP (2 osobowy)   </td>
 <td>nie dotyczy</td>
-<td>650 pln**</td>
+<td>650 pln <sup>[2]</sup></td>
 </tr>
 
 <tr>
@@ -69,16 +69,16 @@ title: Cennik
 
 <tr>
 <td>opłata za LSG   </td>
-<td>7 pln***</td>
-<td>70 pln***</td>
+<td>7 pln <sup>[3]</sup></td>
+<td>70 pln <sup>[3]</sup></td>
 </tr>
  
 </table>
 
 Uwagi:  
-* Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
-** Zniżki i promocje nie dotyczą pokoju VIP.  
-*** [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę 2 pln na dzień / 20 pln na całość.
+1. Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
+2. Zniżki i promocje nie dotyczą pokoju VIP.  
+3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę 2 pln na dzień / 20 pln na całość.
 
 Zniżki (dotyczą tylko osób zarejestrowanych do dnia 1.07.2016):
 
