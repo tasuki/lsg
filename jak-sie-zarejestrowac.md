@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jak
+title: Jak się zarejestrować
 ---
 
 ## Jak się zarejestrować?
