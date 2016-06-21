@@ -69,15 +69,16 @@ title: Cennik
 
 <tr>
 <td>opłata za LSG   </td>
-<td>7 pln</td>
-<td>70 pln</td>
+<td>7 pln***</td>
+<td>70 pln***</td>
 </tr>
  
 </table>
 
 Uwagi:  
-* warunkiem rezerwacji miejsca jest przedpłata na konto bankowe  
-** zniżki i promocje nie dotyczą pokoju VIP
+* Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
+** Zniżki i promocje nie dotyczą pokoju VIP.  
+*** [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę 2 pln na dzień / 20 pln na całość.
 
 Zniżki (dotyczą tylko osób zarejestrowanych do dnia 1.07.2016):
 
