@@ -9,7 +9,6 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (wg daty zapisu, no ew. siły):
 
-- Mateusz Surma -- PROS!
 - Stanisław Frejlak (Siasio) -- 6d
 - Vit Brunner (Tasuki) -- 4d
 - Marcin Ma -- 3d
