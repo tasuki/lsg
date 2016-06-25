@@ -42,6 +42,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Noga -- 6k
 - Marek Gutkowski -- 6k
 - Paulina Skibińska -- 6k
+- Wojciech Kaśków -- 'Oro ze mną wygrywa' 6k
 - Wojciech Cieślak -- 8k
 - Wojciech Ślusarczyk (Oro) -- 8k
 - Janusz Rudnicki -- 8k
@@ -57,12 +58,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mariusz Klimczak -- 14k
 - Tomasz Bogdziewicz -- 13-15k
 - Marta Kołodziej -- 15k
+- Magdalena Walkiewicz -- 17k
 - Czifo -- 18 k
 - Krystian Dobek -- niby bezsilny 
-- Rafał Bzoma (Bzyku) --  bezsilny ale mnie dupę złoi jak nic -- mam mu wpisać siłę MU
+- Rafał Bzoma (Bzyku) -- bezsilny ale mnie dupę złoi jak nic -- mam mu wpisać siłę MU
 - Magdalena Zaremba 
-- Magdalena Walkiewicz -- 17k
-- Wojciech Kaśków --  'Oro ze mną wygrywa'
 - Adam Lis -- nie gra
 - Antoni Bugaj -- 20k
 - Stanislaw Szczesniak -- 20k  (kumpel Sasia)
