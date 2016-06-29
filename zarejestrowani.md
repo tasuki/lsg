@@ -14,10 +14,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kamil Chwedyna (o matko, ile Fiszu ma dan? -- wpadnie na lykend z zona :-)
 - Vit Brunner (Tasuki) -- 4d
 - Marcin Majka (Higaki) -- 3d
+- Michał Parkoła -- 2d
 - Karol Cieślak (KaC) -- 1d
 - Anna Sośnicka-Cieśla (Sosna) -- 1d
 - Maksym Wałaszewki -- 1d
 - Jakub Majnusz (Gimlix) -- 1d
+- Kasia Mazurek (kotasia) -- 1k
 - Kacper Cieśla (Comboy) -- 2k
 - Paweł Obrok (Yapi)-- 2k
 - Piotr Andryszek (Hitech) -- 2k
@@ -38,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Artur Barcicki -- 5k
 - Tymoteusz i Kacper Barciccy -- młodociani niegrający (jeszcze)
 - Ignacy Przech -- 6k
+- Łukasz Korczewski -- 6k
 - Paweł Noga -- 5k
 - Joanna Noga -- 6k
 - Marek Gutkowski -- 6k
@@ -46,10 +49,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Cieślak -- 8k
 - Wojciech Ślusarczyk (Oro) -- 8k
 - Janusz Rudnicki -- 8k
+- Daria Kwietniewska -- 8k
+- Krystian Dobek -- 8k
 - Robert Bugaj -- 9k
 - Joanna Bugaj -- 10k
 - Piotr Markiewicz -- 10k
-- Ela Kochanowska -- 10 k (?) dawno nie grała
+- Ela Kochanowska -- 10k (?) dawno nie grała
 - Anna Cieślak -- 11k
 - Adam Walkiewicz -- 11k
 - Ania Krzywolak (Pixel) -- 12k
@@ -57,15 +62,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (Grasiu) -- 12k
 - Mariusz Klimczak -- 14k
 - Tomasz Bogdziewicz -- 13-15k
+- Karol Krause (ambak) -- 15k
 - Marta Kołodziej -- 15k
 - Magdalena Walkiewicz -- 17k
-- Czifo -- 18 k
-- Krystian Dobek -- niby bezsilny 
+- Czifo -- 18k
+- Antoni Bugaj -- 20k
+- Michał Mazur -- 20k
+- Stanislaw Szczesniak -- 20k (kumpel Sasia)
+- Zofia Bugaj -- 30k (rodzinka, te mlodsze to 8 i 6 lat )
 - Rafał Bzoma (Bzyku) -- bezsilny ale mnie dupę złoi jak nic -- mam mu wpisać siłę MU
 - Magdalena Zaremba 
 - Adam Lis -- nie gra
-- Antoni Bugaj -- 20k
-- Stanislaw Szczesniak -- 20k  (kumpel Sasia)
-- Zofia Bugaj -- 30k (rodzinka, te mlodsze to 8 i 6 lat )
 
-stan 25 czerwca
+stan 29 czerwca
