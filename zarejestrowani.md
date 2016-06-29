@@ -45,7 +45,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Noga -- 6k
 - Marek Gutkowski -- 6k
 - Paulina Skibińska -- 6k
-- Wojciech Kaśków -- 'Oro ze mną wygrywa' 6k
+- Wojciech Kaśków -- 6k
 - Wojciech Cieślak -- 8k
 - Wojciech Ślusarczyk (Oro) -- 8k
 - Janusz Rudnicki -- 8k
