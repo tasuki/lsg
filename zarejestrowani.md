@@ -32,7 +32,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Patryk Jełowicki (kolorek) -- 3k
 - Maciej Mazurek -- 4k
 - Filip Domański -- 4k
-- Łukasz Fajfrowski - 4k
+- Łukasz Fajfrowski -- 4k
 - Adam Białożyt -- 5k
 - Małgorzata Palej (Shaa) -- 5k
 - Grzegorz Sobański (Silk) -- 5k
