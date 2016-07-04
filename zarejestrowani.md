@@ -32,6 +32,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Patryk Jełowicki (kolorek) -- 3k
 - Maciej Mazurek -- 4k
 - Filip Domański -- 4k
+- Łukasz Fajfrowski - 4k
 - Adam Białożyt -- 5k
 - Małgorzata Palej (Shaa) -- 5k
 - Grzegorz Sobański (Silk) -- 5k
@@ -64,14 +65,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Bogdziewicz -- 13-15k
 - Karol Krause (ambak) -- 15k
 - Marta Kołodziej -- 15k
+- Mikołaj Szustakiewicz -- 15k
 - Magdalena Walkiewicz -- 17k
 - Czifo -- 18k
 - Antoni Bugaj -- 20k
 - Michał Mazur -- 20k
+- January Chlebowicz -- 25k
 - Stanislaw Szczesniak -- 20k (kumpel Sasia)
 - Zofia Bugaj -- 30k (rodzinka, te mlodsze to 8 i 6 lat )
 - Rafał Bzoma (Bzyku) -- bezsilny ale mnie dupę złoi jak nic -- mam mu wpisać siłę MU
 - Magdalena Zaremba 
 - Adam Lis -- nie gra
 
-stan 29 czerwca
+stan 4 lipca
