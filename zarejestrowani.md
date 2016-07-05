@@ -7,7 +7,7 @@ title: Zarejestrowani
 
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): palaska@poczta.onet.pl
 
-Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **67**):
+Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
 
 - Stanisław Frejlak (Siasio) -- 6d
 - Tomas Kozelek (Tomík) -- 4d
@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **67**):
 - Paweł Stepnowski -- 2k
 - Andrzej Drzystek -- 2k
 - Łukasz Pater -- 2k
+- Malgorzata Kaczorowska -- 2k
 - Marcin Tomczyk (Emtom) -- 3k
 - Monika Sas-Tomczyk plus Zosia 
 - Dariusz Bednarczyk -- 3k
@@ -47,6 +48,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **67**):
 - Marek Gutkowski -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśków -- 6k
+- Marcelina Chojnacka -- 8k
 - Wojciech Cieślak -- 8k
 - Wojciech Ślusarczyk (Oro) -- 8k
 - Janusz Rudnicki -- 8k
