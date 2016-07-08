@@ -14,7 +14,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
 - Kamil Chwedyna (o matko, ile Fiszu ma dan? -- wpadnie na lykend z zona :-)
 - Vit Brunner (Tasuki) -- 4d
 - Marcin Majka (Higaki) -- 3d
-- Michał Parkoła -- 2d
 - Karol Cieślak (KaC) -- 1d
 - Anna Sośnicka-Cieśla (Sosna) -- 1d
 - Maksym Wałaszewki -- 1d
@@ -58,6 +57,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
 - Joanna Bugaj -- 10k
 - Piotr Markiewicz -- 10k
 - Ela Kochanowska -- 10k (?) dawno nie grała
+- Jan Rowiński -- 10k
 - Anna Cieślak -- 11k
 - Adam Walkiewicz -- 11k
 - Ania Krzywolak (Pixel) -- 12k
@@ -79,4 +79,4 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
 - Magdalena Zaremba 
 - Adam Lis -- nie gra
 
-stan 4 lipca
+stan 8 lipca
