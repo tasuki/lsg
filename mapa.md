@@ -17,7 +17,7 @@ Pobliskie miejscowości:
 - Lipnica 10km 
 - Tuchomie 6km
 
-Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe ŁośTaxi. W celu rezerwacji proszę dzwonić pod numer 530 907 709 (najlepiej dzień wcześniej).  
+Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe ŁośTaxi. W celu rezerwacji proszę dzwonić pod numer 666 836 917 (najlepiej dzień wcześniej).  
 Koszt za samochód (niezależnie od ilości przewożonych osób)  
 
 - Miastko -- 50zł
