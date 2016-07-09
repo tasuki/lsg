@@ -9,10 +9,10 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
 
-- Stanisław Frejlak (Siasio) -- 6d
-- Tomas Kozelek (Tomík) -- 4d
+- Ondřej Kruml (Scurge) -- 5d
+- Tomáš Kozelek (Tomík) -- 4d
 - Kamil Chwedyna (o matko, ile Fiszu ma dan? -- wpadnie na lykend z zona :-)
-- Vit Brunner (Tasuki) -- 4d
+- Vít Brunner (Tasuki) -- 4d
 - Marcin Majka (Higaki) -- 3d
 - Karol Cieślak (KaC) -- 1d
 - Anna Sośnicka-Cieśla (Sosna) -- 1d
