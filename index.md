@@ -17,7 +17,7 @@ Sponsorami LSG 2016 są:<br>
 </p>
 -->
 
-Czas mija a my spotykamy się już 17. raz. Od wielu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich. 
+Od wielu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich. 
 
 ![przystanek alaska](public/palaska.jpg)
 
