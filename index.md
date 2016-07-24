@@ -3,17 +3,19 @@ layout: page
 title: Wstęp
 ---
 
-## Letnia Szkoła Go 2016<br>XVII Memoriał im. Jerzego Sacharewicza 
+## Letnia Szkoła Go 2017<br>XVIII Memoriał im. Jerzego Sacharewicza
 
 **MIEJSCE**: [Przystanek Alaska](http://www.alaska.sundar.pl/) -- Gliśno -- Bory Tucholskie  
-**TERMIN**: 11--24 Lipca 2016 
+**TERMIN**: ??? 2017
 
+<!--
 <p class="sponsors">
 Sponsorami LSG 2016 są:<br>
 <a href="https://internetgoschool.com/"><img src="public/GJIGS_logo.png"></a>
 <a href="http://psg.go.art.pl/"><img src="public/psg_logo.png"></a>
 <a href="http://www.factorio.com/"><img src="public/factorio_logo.png"></a>
 </p>
+-->
 
 Czas mija a my spotykamy się już 17. raz. Od wielu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich. 
 
