@@ -3,6 +3,8 @@ layout: page
 title: Rezultaty LSG 2016
 ---
 
+# Rezultaty LSG 2016
+
 ## Zapoznawczy
 
 1. Higaki
