@@ -7,76 +7,8 @@ title: Zarejestrowani
 
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): palaska@poczta.onet.pl
 
-Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **69**):
+Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **1**):
 
-- Ondřej Kruml (Scurge) -- 5d
-- Tomáš Kozelek (Tomík) -- 4d
-- Kamil Chwedyna (o matko, ile Fiszu ma dan? -- wpadnie na lykend z zona :-)
 - Vít Brunner (Tasuki) -- 4d
-- Marcin Majka (Higaki) -- 3d
-- Karol Cieślak (KaC) -- 1d
-- Anna Sośnicka-Cieśla (Sosna) -- 1d
-- Maksym Wałaszewki -- 1d
-- Jakub Majnusz (Gimlix) -- 1d
-- Kasia Mazurek (kotasia) -- 1k
-- Kacper Cieśla (Comboy) -- 2k
-- Paweł Obrok (Yapi)-- 2k
-- Piotr Andryszek (Hitech) -- 2k
-- Paweł Stepnowski -- 2k
-- Andrzej Drzystek -- 2k
-- Łukasz Pater -- 2k
-- Malgorzata Kaczorowska -- 2k
-- Marcin Tomczyk (Emtom) -- 3k
-- Monika Sas-Tomczyk plus Zosia 
-- Dariusz Bednarczyk -- 3k
-- Patryk Jełowicki (kolorek) -- 3k
-- Maciej Mazurek -- 4k
-- Filip Domański -- 4k
-- Łukasz Fajfrowski -- 4k
-- Adam Białożyt -- 5k
-- Małgorzata Palej (Shaa) -- 5k
-- Grzegorz Sobański (Silk) -- 5k
-- Marcin Kulczycki -- 5k
-- Sylwia Barcicka (Paskuda) -- 5k niby niegrające
-- Artur Barcicki -- 5k
-- Tymoteusz i Kacper Barciccy -- młodociani niegrający (jeszcze)
-- Ignacy Przech -- 6k
-- Łukasz Korczewski -- 6k
-- Paweł Noga -- 5k
-- Joanna Noga -- 6k
-- Marek Gutkowski -- 6k
-- Paulina Skibińska -- 6k
-- Wojciech Kaśków -- 6k
-- Marcelina Chojnacka -- 8k
-- Wojciech Cieślak -- 8k
-- Wojciech Ślusarczyk (Oro) -- 8k
-- Janusz Rudnicki -- 8k
-- Daria Kwietniewska -- 8k
-- Krystian Dobek -- 8k
-- Robert Bugaj -- 9k
-- Joanna Bugaj -- 10k
-- Piotr Markiewicz -- 10k
-- Ela Kochanowska -- 10k (?) dawno nie grała
-- Jan Rowiński -- 10k
-- Anna Cieślak -- 11k
-- Adam Walkiewicz -- 11k
-- Ania Krzywolak (Pixel) -- 12k
-- Filip Tokarski -- 12k
-- Łukasz Grabowski (Grasiu) -- 12k
-- Mariusz Klimczak -- 14k
-- Tomasz Bogdziewicz -- 13-15k
-- Karol Krause (ambak) -- 15k
-- Marta Kołodziej -- 15k
-- Mikołaj Szustakiewicz -- 15k
-- Magdalena Walkiewicz -- 17k
-- Czifo -- 18k
-- Antoni Bugaj -- 20k
-- Michał Mazur -- 20k
-- January Chlebowicz -- 25k
-- Stanislaw Szczesniak -- 20k (kumpel Sasia)
-- Zofia Bugaj -- 30k (rodzinka, te mlodsze to 8 i 6 lat )
-- Rafał Bzoma (Bzyku) -- bezsilny ale mnie dupę złoi jak nic -- mam mu wpisać siłę MU
-- Magdalena Zaremba 
-- Adam Lis -- nie gra
 
-stan 8 lipca
+Stan 8. sierpnia
