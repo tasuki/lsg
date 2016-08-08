@@ -3,8 +3,6 @@ layout: page
 title: Wstęp
 ---
 
-# LSG 2017 -- będzie!
-
 ## Letnia Szkoła Go 2017<br>XVIII Memoriał im. Jerzego Sacharewicza
 
 **MIEJSCE**: [Przystanek Alaska](http://www.alaska.sundar.pl/) -- Gliśno -- Bory Tucholskie  
