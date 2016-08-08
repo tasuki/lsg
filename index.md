@@ -8,7 +8,7 @@ title: Wstęp
 ## Letnia Szkoła Go 2017<br>XVIII Memoriał im. Jerzego Sacharewicza
 
 **MIEJSCE**: [Przystanek Alaska](http://www.alaska.sundar.pl/) -- Gliśno -- Bory Tucholskie  
-**TERMIN**: ??? 2017
+**TERMIN**: 10.--23.7. 2017
 
 <!--
 <p class="sponsors">
