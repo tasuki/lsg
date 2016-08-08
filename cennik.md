@@ -20,55 +20,55 @@ title: Cennik
 </tr>
 
 <tr>
-<td>domek    </td>
+<td>domek</td>
 <td>25 pln <sup>[1]</sup></td>
 <td>270 pln <sup>[1]</sup></td>
 </tr>
 
 <tr>
-<td>domek (ED)  </td>
-<td>20 pln      </td>
-<td>200 pln     </td>
+<td>domek (ED)</td>
+<td>20 pln</td>
+<td>200 pln</td>
 </tr>
 
 <tr>
-<td>namiot własny (dziecko do 4 lat)    </td>
-<td>0 pln                               </td>
-<td>0 pln                               </td>
+<td>namiot własny (dziecko do 4 lat)</td>
+<td>0 pln</td>
+<td>0 pln</td>
 </tr>
 
 <tr>
-<td>namiot własny (dziecko 4--10 lat)    </td>
-<td>6,5 pln                             </td>
-<td>80 pln                              </td>
+<td>namiot własny (dziecko 4--10 lat)</td>
+<td>6,5 pln</td>
+<td>80 pln</td>
 </tr>
 
 <tr>
-<td>namiot własny (uczen / student) </td>
+<td>namiot własny (uczen / student)</td>
 <td>11,5 pln</td>
 <td>145 pln</td>
 </tr>
 
 <tr>
-<td>namiot własny (dorosly) </td>
+<td>namiot własny (dorosly)</td>
 <td>13,5 pln</td>
 <td>160 pln</td>
 </tr>
 
 <tr>
-<td>pokoj VIP (2 osobowy)   </td>
+<td>pokoj VIP (2 osobowy)</td>
 <td>nie dotyczy</td>
 <td>650 pln <sup>[2]</sup></td>
 </tr>
 
 <tr>
-<td>samochód    </td>
+<td>samochód</td>
 <td>3 pln</td>
 <td>21 pln</td>
 </tr>
 
 <tr>
-<td>opłata za LSG   </td>
+<td>opłata za LSG</td>
 <td>7 pln <sup>[3]</sup></td>
 <td>70 pln <sup>[3]</sup></td>
 </tr>
