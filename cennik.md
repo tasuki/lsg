@@ -82,9 +82,9 @@ Uwagi:
 3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę **2 pln na dzień / 20 pln na całość**. Ci którzy już zapłacili dostaną refund!
 -->
 
-Zniżki (dotyczą tylko osób zarejestrowanych do dnia 1.07.2016):
+Zniżki (dotyczą tylko osób zarejestrowanych do 31. maja 2017):
 
-- za rejestrację i opłacenie należności do 20 maja: 10% zniżki (za rejestrację i opłacenie należności pomiędzy 20 maja a 15 czerwca 5% zniżki)
+- za rejestrację i opłacenie należności do 30. kwietnia: 10% zniżki (za rejestrację i opłacenie należności do 31. maja 5% zniżki)
 - opłata za LSG dla dzieci i osób niegrających: 50%
 - opłatę za LSG wnosi **tylko pierwszych dwoje członków rodziny**
 
