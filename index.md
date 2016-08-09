@@ -10,7 +10,7 @@ title: Wstęp
 
 <!--
 <p class="sponsors">
-Sponsorami LSG 2016 są:<br>
+Sponsorami LSG 2017 są:<br>
 <a href="https://internetgoschool.com/"><img src="public/GJIGS_logo.png"></a>
 <a href="http://psg.go.art.pl/"><img src="public/psg_logo.png"></a>
 <a href="http://www.factorio.com/"><img src="public/factorio_logo.png"></a>
