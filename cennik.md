@@ -58,7 +58,7 @@ Uwagi:
 <table>
 
 <tr>
-<th>lsg/wyżywienie/samochody/zwierzęta</th>
+<th>LSG/Wyżywienie/Samochody/Zwierzęta/Inne</th>
 <th>cena za 1 dzien</th>
 <th>cena za 13 dni</th>
 </tr>
