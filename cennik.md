@@ -96,7 +96,7 @@ Uwagi:
 <tr>
 <td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
 <td>10 zł</td>
-<td>100 zł</td>
+<td>120 zł</td>
 </tr>
 
 </table>
