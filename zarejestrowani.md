@@ -13,7 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **4**):
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Artur Iwanowski (animal) -- sila nieznana
-- czifo tessstuje
+- czifo tessstuje albo  i nie testtuje
 
 
 Stan 6. lutego
