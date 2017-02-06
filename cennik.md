@@ -3,83 +3,105 @@ layout: page
 title: Cennik
 ---
 
-## Cennik
+## Cenniki
 
 <table>
 
 <tr>
-<th>pozycja</th>
+<th>Noclegi</th>
 <th>cena za 1 dzien</th>
 <th>cena za 13 dni</th>
 </tr>
 
 <tr>
-<td>wyżywienie (śniadanie, obiad, kolacja)</td>
-<td>36 pln (9+18+9)</td>
-<td>430 pln</td>
-</tr>
-
-<tr>
 <td>domek</td>
-<td>25 pln <sup>[1]</sup></td>
-<td>270 pln <sup>[1]</sup></td>
-</tr>
-
-<tr>
-<td>domek (ED)</td>
-<td>20 pln</td>
-<td>200 pln</td>
+<td>25 zł <sup>[1]</sup></td>
+<td>270 zł <sup>[1]</sup></td>
 </tr>
 
 <tr>
 <td>namiot własny (dziecko do 4 lat)</td>
-<td>0 pln</td>
-<td>0 pln</td>
+<td>0 zł</td>
+<td>0 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dziecko 4--10 lat)</td>
-<td>6,5 pln</td>
-<td>80 pln</td>
+<td>7 zł</td>
+<td>90 zł</td>
 </tr>
 
 <tr>
-<td>namiot własny (uczen / student)</td>
-<td>11,5 pln</td>
-<td>145 pln</td>
+<td>namiot własny (uczeń / student do 25 lat)</td>
+<td>12 zł</td>
+<td>155 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dorosly)</td>
-<td>13,5 pln</td>
-<td>160 pln</td>
+<td>14 zł</td>
+<td>180 zł</td>
 </tr>
 
 <tr>
 <td>pokoj VIP (2 osobowy)</td>
 <td>nie dotyczy</td>
-<td>650 pln <sup>[2]</sup></td>
+<td>650 zł <sup>[2]</sup></td>
 </tr>
 
-<tr>
-<td>samochód</td>
-<td>3 pln</td>
-<td>21 pln</td>
-</tr>
-
-<tr>
-<td>opłata za LSG</td>
-<td>7 pln</td>
-<td>70 pln</td>
-</tr>
- 
 </table>
 
 Uwagi:  
 1. Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
 2. Zniżki i promocje nie dotyczą pokoju VIP.  
+
+<table>
+
+<tr>
+<th>lsg/wyżywienie/samochody/zwierzęta</th>
+<th>cena za 1 dzien</th>
+<th>cena za 13 dni</th>
+</tr>
+
+<tr>
+<td>opłata za LSG (niegrający / dziecko / uczeń / student do 25 lat)</td>
+<td>4 zł</td>
+<td>40 zł</td>
+</tr>
+
+<tr>
+<td>opłata za LSG (dorosły)</td>
+<td>8 zł</td>
+<td>80 zł</td>
+</tr>
+
+<tr>
+<td>wyżywienie (śniadanie, obiad, kolacja)</td>
+<td>36 zł (9+18+9)</td>
+<td>430 zł</td>
+</tr>
+
+<tr>
+<td>motor/samochód</td>
+<td>3 zł</td>
+<td>21 zł</td>
+</tr>
+
+<tr>
+<td>zwierzaki, łącznie ze słoniami i wielorybami</td>
+<td>0 zł</td>
+<td>0 zł</td>
+</tr>
+
+<tr>
+<td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
+<td>10 zł</td>
+<td>100 zł</td>
+</tr>
+
+</table>
 <!--
-3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę **2 pln na dzień / 20 pln na całość**. Ci którzy już zapłacili dostaną refund!
+3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę **2 zł na dzień / 20 zł na całość**
 -->
 
 Zniżki (dotyczą tylko osób zarejestrowanych do 31. maja 2017):
