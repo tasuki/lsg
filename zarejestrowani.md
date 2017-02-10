@@ -12,10 +12,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły; jest ich **4**):
 - Vít Brunner (tasuki) -- 4d
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
-- Grzegorz Sobański (silk) - 5k
-- Michał Mazur - 10k
-- Robert Cylwik - 15k
-- Artur Iwanowski (animal) -- sila nieznana
+- Grzegorz Sobański (silk) -- 5k
+- Artur Iwanowski (animal) -- 5k
+- Michał Mazur -- 10k
+- Robert Cylwik -- 15k
 
 Stan 8. lutego
 
