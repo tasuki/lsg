@@ -12,10 +12,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
+- Marcin Tomczyk i familia (emtom) -- 4k
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
+- Jacek Chroboczek (czifo) -- 20k
+- Monika Sas-Tomczyk i familia --?
 
 Stan 8. lutego
 
