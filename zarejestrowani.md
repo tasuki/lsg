@@ -10,16 +10,18 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Kuba Straszewski (juggler)-- 2d
+- Katarzyna Straszewska (iskierka) - 1k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
-- Marcin Tomczyk i familia (emtom) -- 4k
+- Marcin Tomczyk (emtom) -- 4k
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
-- Monika Sas-Tomczyk i familia --?
+- Monika Sas-Tomczyk -- bs
 
-Stan 8. lutego
+Stan 10. kwietnia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
