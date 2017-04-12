@@ -11,9 +11,9 @@ title: Wstęp
 <!--
 <p class="sponsors">
 Sponsorami LSG 2017 są:<br>
-<a href="https://internetgoschool.com/"><img src="public/GJIGS_logo.png"></a>
-<a href="http://psg.go.art.pl/"><img src="public/psg_logo.png"></a>
-<a href="http://www.factorio.com/"><img src="public/factorio_logo.png"></a>
+<a href="https://internetgoschool.com/"><img src="{{ site.baseurl }}public/GJIGS_logo.png"></a>
+<a href="http://psg.go.art.pl/"><img src="{{ site.baseurl }}public/psg_logo.png"></a>
+<a href="http://www.factorio.com/"><img src="{{ site.baseurl }}public/factorio_logo.png"></a>
 </p>
 -->
 
@@ -34,7 +34,7 @@ Na wyposażeniu gospodarstwa znajdują się:
 
 Klimat tego miejsca jest stylizowany na serial "Przystanek Alaska" -- a polityka właścicieli to zapewnienie wysokiej klasy obsługi z elementami survivalu i relaksu. 
 
-![przystanek alaska](public/karaoke.jpg)
+![przystanek alaska]({{ site.baseurl }}public/karaoke.jpg)
 
 Bliższe informacje można znaleźć na [stronie Alaski](http://www.alaska.sundar.pl/), gdzie jest dużo zdjęć i dodatkowych informacji.  
 Jest to naprawdę niezwykłe miejsce i polecam je każdemu.
