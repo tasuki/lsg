@@ -19,13 +19,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) -- 5k
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
+- Artur Barcicki -- 5k
 - Mariusz Klimczak -- 8k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
 - Monika Sas-Tomczyk -- ?
 - Sylwia Barcicka (pasqda) -- ?
-- Artur Barcicki --?
+
 
 Stan 15. kwietnia
 
