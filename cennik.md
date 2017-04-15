@@ -52,7 +52,7 @@ title: Cennik
 </table>
 
 Uwagi:  
-1. Warunkiem rezerwacji miejsca jest przedpłata na konto bankowe.  
+1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe. Zapisy dla pobytu mimimum tygodniowego, krótszy pobyt- info u Czifa
 2. Zniżki i promocje nie dotyczą pokoju VIP.  
 
 <table>
