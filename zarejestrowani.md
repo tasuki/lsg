@@ -20,8 +20,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
-- Monika Sas-Tomczyk -- bs
-
+- Monika Sas-Tomczyk -- ?
+- Sylwia Barcicka (pasqda) -- ?
+- Artur Barcicki --?
 Stan 10. kwietnia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
