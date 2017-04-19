@@ -11,7 +11,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
 - Kuba Straszewski (juggler)-- 2d
-- Katarzyna Straszewska (iskierka) - 1k
+- Mateusz Chojnacki -- 1d
+- Katarzyna Straszewska (iskierka) -- 1k
+- Paweł Stepnowski -- 1k
 - Paweł Obrok (yapi) -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -26,8 +28,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jacek Chroboczek (czifo) -- 20k
 - Monika Sas-Tomczyk -- ?
 - Sylwia Barcicka (pasqda) -- ?
+- Marta Kopińska -- ? 
 
 
-Stan 15. kwietnia
+Stan 19. kwietnia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
