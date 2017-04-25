@@ -12,6 +12,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Kuba Straszewski (juggler)-- 2d
 - Mateusz Chojnacki -- 1d
+- Karol Cieślak (KaC) -- 1d
 - Katarzyna Straszewska (iskierka) -- 1k
 - Paweł Stepnowski -- 1k
 - Paweł Obrok (yapi) -- 2k
@@ -22,9 +23,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
 - Artur Barcicki -- 5k
+- Wojciech Cieślak (koszatek) -- 6k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
 - Michał Mazur -- 10k
+- January Chlebowicz -- 14/15 k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
 - Monika Sas-Tomczyk -- ?
