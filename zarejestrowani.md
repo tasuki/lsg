@@ -23,6 +23,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Artur Iwanowski (animal) -- 5k
 - Artur Barcicki -- 5k
 - Mariusz Klimczak -- 8k
+- Janusz Rudnicki -- 8k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
