@@ -35,6 +35,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Kopińska -- ? 
 
 
-Stan 19. kwietnia
+Stan 24. kwietnia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
