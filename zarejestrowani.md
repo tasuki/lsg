@@ -19,10 +19,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Marcin Tomczyk (emtom) -- 4k
+- Filip Domański (kurczak) -- 4k
 - Małgorzata Palej (shaa) -- 5k
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
 - Artur Barcicki -- 5k
+- Marcin Kulczycki -- 5k
 - Wojciech Cieślak (koszatek) -- 6k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
@@ -35,6 +37,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Kopińska -- ? 
 
 
-Stan 24. kwietnia
+Stan 3. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
