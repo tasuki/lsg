@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Artur Iwanowski (animal) -- 5k
 - Artur Barcicki -- 5k
 - Marcin Kulczycki -- 5k
+- Maciek Mazurek -- 5k
 - Wojciech Cieślak (koszatek) -- 6k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
@@ -37,6 +38,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Kopińska -- ? 
 
 
-Stan 3. maja
+Stan 18. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
