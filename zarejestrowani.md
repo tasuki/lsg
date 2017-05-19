@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Cieślak (koszatek) -- 6k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
+- Ela Kochanowska -- 8k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 14/15 k
 - Robert Cylwik -- 15k
@@ -36,8 +37,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Sas-Tomczyk -- ?
 - Sylwia Barcicka (pasqda) -- ?
 - Marta Kopińska -- ? 
+- Joanna Noga --?
+- Paweł Noga (benerit) --?
 
 
-Stan 18. maja
+Stan 19. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
