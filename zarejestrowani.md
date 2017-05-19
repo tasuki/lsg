@@ -10,6 +10,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Marcin Majka (higaki) -- 3d
 - Kuba Straszewski (juggler)-- 2d
 - Mateusz Chojnacki -- 1d
 - Karol Cieślak (KaC) -- 1d
