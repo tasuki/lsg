@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kuba Straszewski (juggler)-- 2d
 - Mateusz Chojnacki -- 1d
 - Karol Cieślak (KaC) -- 1d
+- Maksym Wałaszewski -- 1d
 - Katarzyna Straszewska (iskierka) -- 1k
 - Paweł Stepnowski -- 1k
 - Paweł Obrok (yapi) -- 2k
