@@ -17,6 +17,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Chojnacki -- 1d
 - Karol Cieślak (KaC) -- 1d
 - Maksym Wałaszewski -- 1d
+- Jan Frejlak -- 1d
 - Katarzyna Straszewska (iskierka) -- 1k
 - Paweł Stepnowski -- 1k
 - Paweł Obrok (yapi) -- 2k
@@ -45,8 +46,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Noga --?
 - Paweł Noga (benerit) --?
 - Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
-- Małgorzata Frejlak -- 
-- Jan Frejlak -- 
+- Małgorzata Frejlak -- nie gra
+
 
 
 Stan 21. maja
