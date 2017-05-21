@@ -9,6 +9,8 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
+- Stanisław Frejlak (sasio) -- 5d
+- Tomislaw Kozelek -- 4d
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 3d
 - Kuba Straszewski (juggler)-- 2d
@@ -33,6 +35,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
 - Michał Mazur -- 10k
+- Marta Kołodziej -- 13k
 - January Chlebowicz -- 14/15 k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
@@ -41,8 +44,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Kopińska -- ? 
 - Joanna Noga --?
 - Paweł Noga (benerit) --?
+- Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
 
 
-Stan 19. maja
+Stan 21. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
