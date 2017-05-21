@@ -45,6 +45,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Noga --?
 - Paweł Noga (benerit) --?
 - Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
+- Małgorzata Frejlak -- 
+- Jan Frejlak -- 
 
 
 Stan 21. maja
