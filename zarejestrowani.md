@@ -37,9 +37,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ela Kochanowska -- 8k
 - Michał Mazur -- 10k
 - Marta Kołodziej -- 13k
-- January Chlebowicz -- 14/15 k
+- January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
 - Jacek Chroboczek (czifo) -- 20k
+- Agnieszka Szkwarek -- 23k
 - Monika Sas-Tomczyk -- ?
 - Sylwia Barcicka (pasqda) -- ?
 - Marta Kopińska -- ? 
@@ -50,6 +51,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 21. maja
+Stan 23. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
