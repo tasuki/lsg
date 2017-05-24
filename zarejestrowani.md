@@ -32,6 +32,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Kulczycki -- 5k
 - Maciek Mazurek -- 5k
 - Wojciech Cieślak (koszatek) -- 6k
+- Wojciech Kaśków -- 6k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
@@ -51,6 +52,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 23. maja
+Stan 25. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
