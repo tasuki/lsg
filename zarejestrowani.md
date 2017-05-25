@@ -37,6 +37,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
 - Michał Mazur -- 10k
+- Filip Tokarski -- 10k
 - Marta Kołodziej -- 13k
 - January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
