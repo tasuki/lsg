@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 3d
 - Kuba Straszewski (juggler)-- 2d
+- Mariusz Pabich (delit) --2d
 - Mateusz Chojnacki -- 1d
 - Karol Cieślak (KaC) -- 1d
 - Maksym Wałaszewski -- 1d
@@ -52,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Noga (benerit) --?
 - Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
 - Małgorzata Frejlak -- nie gra
+- Marta Pabich -- nie gra
 
 
 
