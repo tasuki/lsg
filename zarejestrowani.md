@@ -36,11 +36,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
+- Marcelina Chojnacka --8k
 - Michał Mazur -- 10k
 - Filip Tokarski -- 10k
 - Marta Kołodziej -- 13k
 - January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
+- Ewa Biernot --17k
 - Jacek Chroboczek (czifo) -- 20k
 - Agnieszka Szkwarek -- 23k
 - Monika Sas-Tomczyk -- ?
@@ -53,6 +55,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 25. maja
+Stan 30. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
