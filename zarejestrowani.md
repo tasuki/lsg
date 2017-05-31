@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jan Frejlak -- 1d
 - Katarzyna Straszewska (iskierka) -- 1k
 - Paweł Stepnowski -- 1k
+- Stefan Wrocławski -- 1k
 - Paweł Obrok (yapi) -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -34,6 +35,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Maciek Mazurek -- 5k
 - Wojciech Cieślak (koszatek) -- 6k
 - Wojciech Kaśków -- 6k
+- Tomasz Bogdziewicz -- 7k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
@@ -57,6 +59,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 30. maja
+Stan 31. maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
