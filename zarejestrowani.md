@@ -57,6 +57,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
 - Małgorzata Frejlak -- nie gra
 - Marta Pabich -- nie gra
+- Magda Nowicka -- nie gra
 
 
 
