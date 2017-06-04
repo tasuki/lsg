@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomislaw Kozelek -- 4d
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 3d
+- Cezary Czernecki -- 3d
 - Kuba Straszewski (juggler)-- 2d
 - Mariusz Pabich (delit) --2d
 - Mateusz Chojnacki -- 1d
@@ -59,6 +60,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 31. maja
+Stan 4 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
