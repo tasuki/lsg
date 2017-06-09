@@ -43,24 +43,27 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcelina Chojnacka --8k
 - Michał Mazur -- 10k
 - Filip Tokarski -- 10k
+- Bartłomiej Lisiecki (hino)-- 10k
+- Piotr Chojnacki (prometeusz) -- 11k
 - Marta Kołodziej -- 13k
 - January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
 - Ewa Biernot --17k
 - Jacek Chroboczek (czifo) -- 20k
 - Agnieszka Szkwarek -- 23k
-- Monika Sas-Tomczyk -- ?
-- Sylwia Barcicka (pasqda) -- ?
-- Marta Kopińska -- ? 
-- Joanna Noga --?
-- Paweł Noga (benerit) --?
-- Rafał Bzoma (bzyku) -- byś się określił gamoniu :-)
+- Monika Sas-Tomczyk -- nie gra
+- Sylwia Barcicka (pasqda) -- nie gra
+- Marta Kopińska -- nie gra 
+- Joanna Noga -- nie gra
+- Paweł Noga (benerit) -- nie gra
+- Rafał Bzoma (bzyku) -- gra - byś się określił gamoniu :-)
 - Małgorzata Frejlak -- nie gra
 - Marta Pabich -- nie gra
 - Magda Nowicka -- nie gra
+- Kinga Lisiecka-Garbaczewska -- nie gra
 
 
 
-Stan 4 czerwca
+Stan 9 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
