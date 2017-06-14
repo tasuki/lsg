@@ -40,7 +40,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
-- Marcelina Chojnacka --8k
+- Marcelina Chojnacka -- 8k
+- Wojciech Ślusarczyk (oro) -- 9k
 - Michał Mazur -- 10k
 - Filip Tokarski -- 10k
 - Bartłomiej Lisiecki (hino)-- 10k
@@ -61,9 +62,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Pabich -- nie gra
 - Magda Nowicka -- nie gra
 - Kinga Lisiecka-Garbaczewska -- nie gra
+- Magdalena Zaremba -- nie gra
 
 
 
-Stan 9 czerwca
+Stan 12 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
