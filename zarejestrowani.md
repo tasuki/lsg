@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Maciek Mazurek -- 5k
 - Wojciech Cieślak (koszatek) -- 6k
 - Wojciech Kaśków -- 6k
+- Marek Gutkowski -- 6k
 - Tomasz Bogdziewicz -- 7k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
@@ -47,6 +48,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Bartłomiej Lisiecki (hino)-- 10k
 - Piotr Chojnacki (prometeusz) -- 11k
 - Marta Kołodziej -- 13k
+- Mikołaj Szustakiewicz -- 14k
 - January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
 - Ewa Biernot --17k
@@ -66,6 +68,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 12 czerwca
+Stan 16 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
