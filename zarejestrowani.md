@@ -23,6 +23,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Katarzyna Straszewska (iskierka) -- 1k
 - Paweł Stepnowski -- 1k
 - Stefan Wrocławski -- 1k
+- Marcin Sokół -- 1k
 - Paweł Obrok (yapi) -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -65,9 +66,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magda Nowicka -- nie gra
 - Kinga Lisiecka-Garbaczewska -- nie gra
 - Magdalena Zaremba -- nie gra
+- Łukasz Grabowski (grasiu) -- nie gra
 
 
 
-Stan 16 czerwca
+Stan 20 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
