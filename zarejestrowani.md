@@ -9,7 +9,7 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
-- Stanisław Frejlak (sasio) -- 5d
+- Stanisław Frejlak (sasio) -- 6d
 - Tomislaw Kozelek -- 4d
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 3d
