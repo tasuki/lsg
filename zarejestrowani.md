@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Patryk Jełowicki (kolorek) -- 3k
 - Marcin Tomczyk (emtom) -- 4k
 - Filip Domański (kurczak) -- 4k
+- Paweł Skibiński -- 4k
 - Małgorzata Palej (shaa) -- 5k
 - Grzegorz Sobański (silk) -- 5k
 - Artur Iwanowski (animal) -- 5k
@@ -48,6 +49,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Filip Tokarski -- 10k
 - Bartłomiej Lisiecki (hino)-- 10k
 - Piotr Chojnacki (prometeusz) -- 11k
+- Maria Dudek -- 12k
 - Marta Kołodziej -- 13k
 - Mikołaj Szustakiewicz -- 14k
 - January Chlebowicz -- 14/15k
@@ -70,6 +72,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 20 czerwca
+Stan 23 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
