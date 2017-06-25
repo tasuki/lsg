@@ -69,6 +69,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kinga Lisiecka-Garbaczewska -- nie gra
 - Magdalena Zaremba -- nie gra
 - Łukasz Grabowski (grasiu) -- nie gra
+- Dariusz Kępowicz -- nie gra
 
 
 
