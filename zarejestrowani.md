@@ -27,6 +27,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapi) -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
+- Dariusz Bednarczyk -- 3k
 - Marcin Tomczyk (emtom) -- 4k
 - Filip Domański (kurczak) -- 4k
 - Paweł Skibiński -- 4k
@@ -39,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Cieślak (koszatek) -- 6k
 - Wojciech Kaśków -- 6k
 - Marek Gutkowski -- 6k
+- Paulina Skibińska -- 6k
 - Tomasz Bogdziewicz -- 7k
 - Mariusz Klimczak -- 8k
 - Janusz Rudnicki -- 8k
@@ -73,6 +75,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 23 czerwca
+Stan 26 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
