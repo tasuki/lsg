@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Stefan Wrocławski -- 1k
 - Marcin Sokół -- 1k
 - Paweł Obrok (yapi) -- 2k
+- Łukasz Pater (fan) -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
@@ -72,9 +73,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magdalena Zaremba -- nie gra
 - Łukasz Grabowski (grasiu) -- nie gra
 - Dariusz Kępowicz -- nie gra
+- Barbara Skalska-Pater -- nie gra
 
 
 
-Stan 26 czerwca
+Stan 27 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
