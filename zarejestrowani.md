@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Cezary Czernecki -- 3d
 - Kuba Straszewski (juggler)-- 2d
 - Mariusz Pabich (delit) --2d
+- Anna Sośnicka-Cieśla (sosna) -- 1d
 - Mateusz Chojnacki -- 1d
 - Karol Cieślak (KaC) -- 1d
 - Maksym Wałaszewski -- 1d
@@ -24,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Stepnowski -- 1k
 - Stefan Wrocławski -- 1k
 - Marcin Sokół -- 1k
+- Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 2k
 - Łukasz Pater (fan) -- 2k
 - Adam Białożyt (kapitan) -- 3k
@@ -51,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Mazur -- 10k
 - Filip Tokarski -- 10k
 - Bartłomiej Lisiecki (hino)-- 10k
+- Michał Świętek -- 10k
 - Piotr Chojnacki (prometeusz) -- 11k
 - Maria Dudek -- 12k
 - Marta Kołodziej -- 13k
@@ -77,6 +80,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 27 czerwca
+Stan 29 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
