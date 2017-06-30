@@ -55,6 +55,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Bartłomiej Lisiecki (hino)-- 10k
 - Michał Świętek -- 10k
 - Piotr Chojnacki (prometeusz) -- 11k
+- Marcel Mroczek -- 11k
 - Maria Dudek -- 12k
 - Marta Kołodziej -- 13k
 - Mikołaj Szustakiewicz -- 14k
@@ -62,6 +63,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Cylwik -- 15k
 - Ewa Biernot --17k
 - Jacek Chroboczek (czifo) -- 20k
+- Adrian Kulhawik -- 20k
+- Julita Dzienis -- 20k
 - Agnieszka Szkwarek -- 23k
 - Monika Sas-Tomczyk -- nie gra
 - Sylwia Barcicka (pasqda) -- nie gra
@@ -77,9 +80,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (grasiu) -- nie gra
 - Dariusz Kępowicz -- nie gra
 - Barbara Skalska-Pater -- nie gra
+- Mateusz Hryniewicki -- nie gra
 
 
 
-Stan 29 czerwca
+Stan 30 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
