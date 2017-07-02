@@ -28,6 +28,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 2k
 - Łukasz Pater (fan) -- 2k
+- Piotr Andryszek -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
@@ -84,6 +85,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 30 czerwca
+Stan 2 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
