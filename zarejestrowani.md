@@ -51,10 +51,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ela Kochanowska -- 8k
 - Marcelina Chojnacka -- 8k
 - Wojciech Ślusarczyk (oro) -- 9k
+- Marcin Malinowski -- 9k
 - Michał Mazur -- 10k
 - Filip Tokarski -- 10k
 - Bartłomiej Lisiecki (hino)-- 10k
 - Michał Świętek -- 10k
+- Małgorzata Biniecka -- między 10 a 20 k :-)
 - Piotr Chojnacki (prometeusz) -- 11k
 - Marcel Mroczek -- 11k
 - Maria Dudek -- 12k
@@ -62,6 +64,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mikołaj Szustakiewicz -- 14k
 - January Chlebowicz -- 14/15k
 - Robert Cylwik -- 15k
+- Jakub Miłkowski -- 15k
 - Ewa Biernot --17k
 - Jacek Chroboczek (czifo) -- 20k
 - Adrian Kulhawik -- 20k
@@ -82,9 +85,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Dariusz Kępowicz -- nie gra
 - Barbara Skalska-Pater -- nie gra
 - Mateusz Hryniewicki -- nie gra
+- Adam Lis -- nie gra
 
 
 
-Stan 2 lipca
+Stan 4 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
