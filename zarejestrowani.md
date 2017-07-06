@@ -86,7 +86,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Barbara Skalska-Pater -- nie gra
 - Mateusz Hryniewicki -- nie gra
 - Adam Lis -- nie gra
-- Piotr Miściur - siła nieokreślona, przerwa w graniu
+- Piotr Miściur (ared)- siła nieokreślona, przerwa w graniu
 
 
 
