@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapi) -- 2k
 - Łukasz Pater (fan) -- 2k
 - Piotr Andryszek -- 2k
+- Małgorzata Kaczorowska -- 2k
 - Adam Białożyt (kapitan) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
