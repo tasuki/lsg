@@ -86,9 +86,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Barbara Skalska-Pater -- nie gra
 - Mateusz Hryniewicki -- nie gra
 - Adam Lis -- nie gra
+- Piotr Miściur - siła nieokreślona, przerwa w graniu
 
 
 
-Stan 4 lipca
+Stan 7 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
