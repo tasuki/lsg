@@ -51,6 +51,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Janusz Rudnicki -- 8k
 - Ela Kochanowska -- 8k
 - Marcelina Chojnacka -- 8k
+- Robert Bugaj -- 8k
+- Antoni Bugaj -- 9k
 - Wojciech Ślusarczyk (oro) -- 9k
 - Marcin Malinowski -- 9k
 - Michał Mazur -- 10k
