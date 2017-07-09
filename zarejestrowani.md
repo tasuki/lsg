@@ -52,6 +52,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ela Kochanowska -- 8k
 - Marcelina Chojnacka -- 8k
 - Robert Bugaj -- 8k
+- Maksymilian Grab -- 8k
 - Antoni Bugaj -- 9k
 - Wojciech Ślusarczyk (oro) -- 9k
 - Marcin Malinowski -- 9k
@@ -93,6 +94,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 7 lipca
+Stan 9 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
