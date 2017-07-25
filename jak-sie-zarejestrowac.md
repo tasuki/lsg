@@ -9,7 +9,7 @@ Wyślij do organizatora: palaska@poczta.onet.pl e-mail, wklejając i uzupełniaj
 > Imię i nazwisko:  
 > Kyu/Dan:   
 > Miasto:  
-> Data pobytu: (od 10.07.2017 (poniedziałek) do 23.07.2017 (niedziela))  
+> Data pobytu: (od 16.07.2018 (poniedziałek) do 29.07.2018 (niedziela))  
 > Nocleg: (domek, ED (domek o niskim standardzie), namiot własny)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege)  
 > Samochod: tak/nie  

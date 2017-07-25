@@ -3,14 +3,14 @@ layout: page
 title: Wstęp
 ---
 
-## Letnia Szkoła Go 2017<br>XVIII Memoriał im. Jerzego Sacharewicza
+## Letnia Szkoła Go 2018<br>XIX Memoriał im. Jerzego Sacharewicza
 
 **MIEJSCE**: [Przystanek Alaska](http://www.alaska.sundar.pl/) -- Gliśno -- Bory Tucholskie  
-**TERMIN**: 10.--23.7. 2017
+**TERMIN**: 16.--29.7. 2018
 
 <!--
 <p class="sponsors">
-Sponsorami LSG 2017 są:<br>
+Sponsorami LSG 2018 są:<br>
 <a href="https://internetgoschool.com/"><img src="{{ site.baseurl }}public/GJIGS_logo.png"></a>
 <a href="http://psg.go.art.pl/"><img src="{{ site.baseurl }}public/psg_logo.png"></a>
 <a href="http://www.factorio.com/"><img src="{{ site.baseurl }}public/factorio_logo.png"></a>
