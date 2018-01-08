@@ -46,13 +46,13 @@ title: Cennik
 <tr>
 <td>pokoj VIP (2 osobowy)</td>
 <td>nie dotyczy</td>
-<td>650 zł <sup>[2]</sup></td>
+<td>dużo <sup>[2]</sup></td>
 </tr>
 
 </table>
 
 Uwagi:  
-1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe. Zapisy dla pobytu mimimum tygodniowego, krótszy pobyt- info u Czifa
+1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców . Zapisy w domku dla pobytu mimimum tygodniowego, krótszy pobyt- dogadaj z  Czifem
 2. Zniżki i promocje nie dotyczą pokoju VIP.  
 
 <table>
