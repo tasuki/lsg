@@ -11,7 +11,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 - Vít Brunner (tasuki) -- 4d
-
+- Patryk Jełowicki (kolorek) -- 3k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 
@@ -19,6 +19,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 8 stycznia
+Stan 18 stycznia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
