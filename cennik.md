@@ -10,13 +10,13 @@ title: Cennik
 <tr>
 <th>Noclegi</th>
 <th>cena za 1 dzien</th>
-<th>cena za 13 dni</th>
+<th>cena za 14 dni</th>
 </tr>
 
 <tr>
 <td>domek</td>
 <td>25 zł <sup>[1]</sup></td>
-<td>270 zł <sup>[1]</sup></td>
+<td>290 zł <sup>[1]</sup></td>
 </tr>
 
 <tr>
@@ -28,25 +28,25 @@ title: Cennik
 <tr>
 <td>namiot własny (dziecko 4--10 lat)</td>
 <td>7 zł</td>
-<td>90 zł</td>
+<td>95 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (uczeń / student do 25 lat)</td>
 <td>12 zł</td>
-<td>155 zł</td>
+<td>160 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dorosly)</td>
 <td>14 zł</td>
-<td>180 zł</td>
+<td>190 zł</td>
 </tr>
 
 <tr>
 <td>pokoj VIP (2 osobowy)</td>
 <td>nie dotyczy</td>
-<td>dużo <sup>[2]</sup></td>
+<td>worek złota <sup>[2]</sup></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Uwagi:
 
 <tr>
 <td>wyżywienie (śniadanie, obiad, kolacja)</td>
-<td>36 zł (9+18+9)</td>
-<td>430 zł</td>
+<td>38 zł (9+19+10)</td>
+<td>470 zł</td>
 </tr>
 
 <tr>
@@ -96,12 +96,12 @@ Uwagi:
 <tr>
 <td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
 <td>10 zł</td>
-<td>120 zł</td>
+<td>130 zł</td>
 </tr>
 
 </table>
 <!--
-3. [Członkowie Polskiego Stowarzyszenia Go](http://psg.go.art.pl/lista_czlonkow) mają zniżkę **2 zł na dzień / 20 zł na całość**
+
 -->
 
 Zniżki (dotyczą tylko osób zarejestrowanych do 31. maja 2018):
