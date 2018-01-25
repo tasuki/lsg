@@ -9,7 +9,7 @@ title: Cennik
 
 <tr>
 <th>Noclegi</th>
-<th>cena za 1 dzien</th>
+<th>cena za 1 dzień</th>
 <th>cena za 14 dni</th>
 </tr>
 
@@ -59,8 +59,8 @@ Uwagi:
 
 <tr>
 <th>LSG/Wyżywienie/Samochody/Zwierzęta/Inne</th>
-<th>cena za 1 dzien</th>
-<th>cena za 13 dni</th>
+<th>cena za 1 dzień</th>
+<th>cena za 14 dni</th>
 </tr>
 
 <tr>
