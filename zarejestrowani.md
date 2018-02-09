@@ -15,11 +15,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Sobański (silk) -- 4k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
+- Marcin Dzieżyc -- 15k
 
 
 
 
 
-Stan 27 stycznia
+Stan 09 lutego
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
