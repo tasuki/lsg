@@ -11,11 +11,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 - Vít Brunner (tasuki) -- 4d
+- Adam Białożyt -- 1k
 - Patryk Jełowicki (kolorek) -- 3k
 - Grzegorz Sobański (silk) -- 4k
+- Łukasz Pater (fan) -- k
+- Marcin Tomczyk -- k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
-- Marcin Dzieżyc -- 15k
+- Marcin Dzieżyc -- 15
+- Basia Skalska-Pater -- nie grająca
+- Monika Sas-Tomczyk -- nie grająca
 
 
 
