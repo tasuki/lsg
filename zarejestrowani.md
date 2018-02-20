@@ -12,9 +12,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
 - Adam Białożyt -- 1k
+- Łukasz Pater (fan) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
 - Grzegorz Sobański (silk) -- 4k
-- Łukasz Pater (fan) -- k
 - Marcin Tomczyk -- k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
