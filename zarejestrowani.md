@@ -30,6 +30,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 09 lutego
+Stan 21 luty
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
