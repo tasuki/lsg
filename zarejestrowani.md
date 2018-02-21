@@ -11,16 +11,20 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 - Vít Brunner (tasuki) -- 4d
+- Anna Sośnicka-Cieśla (sosna) -- 1d
 - Adam Białożyt -- 1k
 - Łukasz Pater (fan) -- 2k
+- Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
 - Grzegorz Sobański (silk) -- 4k
-- Marcin Tomczyk -- k
+- Marcin Tomczyk -- 4k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15
 - Basia Skalska-Pater -- nie grająca
-- Monika Sas-Tomczyk -- nie grająca
+- Monika Sas-Tomczyk -- ng
+- Paweł Noga (benerit) -- ng
+- Joanna Noga -- ng
 
 
 
