@@ -12,10 +12,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
+- Jan Frejlak -- 1d
 - Adam Białożyt -- 1k
 - Łukasz Pater (fan) -- 2k
 - Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
+- Małgorzata Palej (shaa) -- 3k
+- Paweł Obrok -- 4k
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk -- 4k
 - Michał Mazur -- 10k
@@ -25,11 +28,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Sas-Tomczyk -- ng
 - Paweł Noga (benerit) -- ng
 - Joanna Noga -- ng
+- Małgorzata Frejlak -- ng
+- Jan Rowiński -- ng
 
 
 
 
 
-Stan 21 luty
+Stan 28 marca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
