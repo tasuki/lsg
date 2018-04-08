@@ -18,9 +18,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 3k
-- Paweł Obrok -- 4k
+- Paweł Obrok (yapi) -- 4k
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk -- 4k
+- Marcin Kulczycki -- 5k
 - Michał Mazur -- 10k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15
@@ -35,6 +36,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 28 marca
+Stan 8 kwietnia
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
