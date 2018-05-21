@@ -35,7 +35,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Dzieżyc -- 15k
 - Joanna Długosz -- 20k
 - Tymek Barcicki -- 20k
-- Basia Skalska-Pater -- nie grająca
+- Sylwia Barcicka (pasqda) -- ng
+- Basia Skalska-Pater -- ng
 - Monika Sas-Tomczyk -- ng
 - Paweł Noga (benerit) -- ng
 - Joanna Noga -- ng
