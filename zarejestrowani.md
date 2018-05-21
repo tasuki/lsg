@@ -22,7 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) -- 3k
 - Paweł Obrok (yapi) -- 4k
 - Grzegorz Sobański (silk) -- 4k
-- Marcin Tomczyk -- 4k
+- Marcin Tomczyk (emtom) -- 4k
 - Marcin Kulczycki -- 5k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 7k
@@ -43,6 +43,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jan Rowiński -- ng
 - Magdalena Zaremba -- ng
 - Rafał Bzoma (bzyku) -- ng
+- Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
+- pies Emtoma - nie gra ale może szczeknąć jak co
 
 
 
