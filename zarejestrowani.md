@@ -24,13 +24,17 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk -- 4k
 - Marcin Kulczycki -- 5k
+- Artur Barcicki -- 5k
 - Mateusz Szeląg -- 7k
 - Ela Kochanowska -- 8k
+- Wojciech Ślusarczyk (oro) -- 8k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
 - Robert Cylwik -- 15k
-- Marcin Dzieżyc -- 15
+- Marcin Dzieżyc -- 15k
+- Joanna Długosz -- 20k
+- Tymek Barcicki -- 20k
 - Basia Skalska-Pater -- nie grająca
 - Monika Sas-Tomczyk -- ng
 - Paweł Noga (benerit) -- ng
