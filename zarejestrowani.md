@@ -23,6 +23,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapi) -- 4k
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
+- Dawid Libront -- 4k
 - Marcin Kulczycki -- 5k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 7k
