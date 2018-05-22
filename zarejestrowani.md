@@ -9,7 +9,7 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
-
+- Stanisław Frejlak (sasio) -- 7d
 - Vít Brunner (tasuki) -- 4d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frejlak -- 1d
@@ -45,6 +45,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jan Rowiński -- ng
 - Magdalena Zaremba -- ng
 - Rafał Bzoma (bzyku) -- ng
+- Adam Lis -- ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
