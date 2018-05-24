@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frejlak -- 1d
 - Jakub Majnusz (gimlix) -- 1d
+- Maksym Wałaszewski -- 1d
 - Adam Białożyt(kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
 - Łukasz Pater (fan) -- 2k
