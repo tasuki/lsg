@@ -15,7 +15,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jan Frejlak -- 1d
 - Jakub Majnusz (gimlix) -- 1d
 - Adam Białożyt(kapitan) -- 1k
-- Paweł Frączak -- 1k
+- Paweł Frączak (alvar) -- 1k
 - Łukasz Pater (fan) -- 2k
 - Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Szeląg -- 7k
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
+- Daria Kwietniewska -- 8k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
@@ -53,6 +54,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 21 maja
+Stan 24 maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
