@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
+- Ewa Biernot -- 13k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15k
 - Joanna Długosz -- 20k
