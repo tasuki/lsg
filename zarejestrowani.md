@@ -15,7 +15,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jan Frejlak -- 1d
 - Jakub Majnusz (gimlix) -- 1d
 - Maksym Wałaszewski -- 1d
-- Adam Białożyt(kapitan) -- 1k
+- Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
 - Łukasz Pater (fan) -- 2k
 - Kacper Cieśla (comboy) -- 2k
@@ -25,12 +25,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
 - Dawid Libront -- 4k
+- Paweł Skibiński -- 4k
 - Marcin Kulczycki -- 5k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 7k
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Daria Kwietniewska -- 8k
+- Jakub Miłkowski -- 9k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
