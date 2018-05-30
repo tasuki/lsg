@@ -61,6 +61,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 24 maja
+Stan 30 maja
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
