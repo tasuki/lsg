@@ -23,6 +23,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 3k
+- Darek Bednarczyk -- 3k
 - Paweł Obrok (yapi) -- 4k
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
@@ -31,6 +32,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Kulczycki -- 5k
 - Artur Barcicki -- 5k
 - Wojciech Cieślak (koszatek) -- 5k
+- Adam Kawczyński -- 5k
+- Paulina Skibińska -- 6k
 - Mateusz Szeląg -- 7k
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
@@ -54,6 +57,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magdalena Zaremba -- ng
 - Rafał Bzoma (bzyku) -- ng
 - Adam Lis -- ng
+- Małgorzata Maksymowicz -- ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
