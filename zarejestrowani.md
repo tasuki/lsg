@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Kawczyński -- 5k
 - Paulina Skibińska -- 6k
 - Mateusz Szeląg -- 7k
+- Bartłomiej Lisiecki -- 7k
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Daria Kwietniewska -- 8k
@@ -58,6 +59,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Rafał Bzoma (bzyku) -- ng
 - Adam Lis -- ng
 - Małgorzata Maksymowicz -- ng
+- Kinga Lisiecka-Garbaczewska -- ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
