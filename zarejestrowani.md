@@ -39,13 +39,17 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Daria Kwietniewska -- 8k
+- Maksymilian Grab -- 8k
+- Mariusz Klimczak -- 8k
 - Jakub Miłkowski -- 9k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
 - Ewa Biernot -- 13k
+- Mikołaj Szustakiewicz -- 13k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15k
+- Magdalena Walkiewicz -- 17k
 - Joanna Długosz -- 20k
 - Tymek Barcicki -- 20k
 - Sylwia Barcicka (pasqda) -- ng
@@ -60,6 +64,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Lis -- ng
 - Małgorzata Maksymowicz -- ng
 - Kinga Lisiecka-Garbaczewska -- ng
+- Dariusz Kępowicz -- ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
@@ -67,6 +72,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 30 maja
+Stan 1 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
