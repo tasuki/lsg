@@ -24,6 +24,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 3k
 - Darek Bednarczyk -- 3k
+- Tomasz Warniełło -- 3k
 - Paweł Obrok (yapi) -- 4k
 - Grzegorz Sobański (silk) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
@@ -36,6 +37,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paulina Skibińska -- 6k
 - Mateusz Szeląg -- 7k
 - Bartłomiej Lisiecki -- 7k
+- Jakub Gauza -- 7k
 - Ela Kochanowska -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Daria Kwietniewska -- 8k
@@ -65,6 +67,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Maksymowicz -- ng
 - Kinga Lisiecka-Garbaczewska -- ng
 - Dariusz Kępowicz -- ng
+- Anna Cichocka -- ng
+- Inga Gauza -- ng
+- Rufin Gauza -- ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
@@ -72,6 +77,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 1 czerwca
+Stan 13 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
