@@ -19,6 +19,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
 - Paweł Stepnowski -- 1k
+- Katarzyna Mazurek (kotasia) - 1k
 - Łukasz Pater (fan) -- 2k
 - Kacper Cieśla (comboy) -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -77,6 +78,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 13 czerwca
+Stan 18 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
