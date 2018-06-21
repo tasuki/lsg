@@ -55,6 +55,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magdalena Walkiewicz -- 17k
 - Joanna Długosz -- 20k
 - Tymek Barcicki -- 20k
+- Cyprian Doruch --20-25k - poczatkujacy goista
 - Sylwia Barcicka (pasqda) -- ng
 - Basia Skalska-Pater -- ng
 - Monika Sas-Tomczyk -- ng
@@ -78,6 +79,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 18 czerwca
+Stan 21 czerwca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
