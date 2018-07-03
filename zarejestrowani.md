@@ -22,6 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Katarzyna Mazurek (kotasia) - 1k
 - Łukasz Pater (fan) -- 2k
 - Kacper Cieśla (comboy) -- 2k
+- Piotr Andryszek -- 2k
 - Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 3k
 - Darek Bednarczyk -- 3k
@@ -79,6 +80,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 21 czerwca
+Stan 3 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
