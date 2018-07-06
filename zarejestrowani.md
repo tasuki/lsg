@@ -53,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mikołaj Szustakiewicz -- 13k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15k
+- Jakub Stasiński -- 15k
 - Magdalena Walkiewicz -- 17k
 - Joanna Długosz -- 20k
 - Tymek Barcicki -- 20k
@@ -80,6 +81,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 3 lipca
+Stan 6 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
