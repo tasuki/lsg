@@ -45,6 +45,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Daria Kwietniewska -- 8k
 - Maksymilian Grab -- 8k
 - Mariusz Klimczak -- 8k
+- Marcelina Chojnacka -- 8k
 - Jakub Miłkowski -- 9k
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
@@ -81,6 +82,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 6 lipca
+Stan 8 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
