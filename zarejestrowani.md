@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jakub Majnusz (gimlix) -- 1d
 - Maksym Wałaszewski -- 1d
 - Karol Cieślak (kac) -- 1d
+- Artur Chmielewski -- 1d
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
 - Paweł Stepnowski -- 1k
