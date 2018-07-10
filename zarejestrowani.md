@@ -50,12 +50,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Mazur -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
+- Marta Kołodziej -- 12k
 - Ewa Biernot -- 13k
 - Mikołaj Szustakiewicz -- 13k
 - Robert Cylwik -- 15k
 - Marcin Dzieżyc -- 15k
 - Jakub Stasiński -- 15k
 - Magdalena Walkiewicz -- 17k
+- Łukasz Wojnarowski -- 17k 
 - Joanna Długosz -- 20k
 - Tymek Barcicki -- 20k
 - Cyprian Doruch --20-25k - poczatkujacy goista
