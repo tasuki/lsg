@@ -85,6 +85,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 8 lipca
+Stan 10 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
