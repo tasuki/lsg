@@ -64,7 +64,7 @@ Uwagi:
 </tr>
 
 <tr>
-<td>opłata za LSG (niegrający / dziecko / uczeń / student do 25 lat)</td>
+<td>opłata za LSG (dziecko / student do 25 lat)</td>
 <td>4 zł</td>
 <td>40 zł</td>
 </tr>
@@ -100,14 +100,9 @@ Uwagi:
 </tr>
 
 </table>
-<!--
 
--->
+Zniżki:
 
-Zniżki (dotyczą tylko osób zarejestrowanych do 31. maja 2018):
-
-- za rejestrację i opłacenie należności do 30. kwietnia: 10% zniżki (za rejestrację i opłacenie należności do 31. maja 5% zniżki)
-- opłata za LSG dla dzieci i osób niegrających: 50%
-- opłatę za LSG wnosi **tylko pierwszych dwoje członków rodziny**
-
-Zniżki się sumują!
+- za rejestrację i opłacenie należności do 30. kwietnia: 10% zniżki
+- za rejestrację i opłacenie należności do 31. maja: 5% zniżki
+- dla członków PSG: 50% niższa opłata za LSG
