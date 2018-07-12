@@ -5,7 +5,7 @@ title: Polish Summer Go School 2019
 
 ## Polish Summer Go School 2019
 
-**When?** 29 June -- 14 July 2019  
+**When?** 10th -- 25th August 2019  
 **Where?** [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Poland  
 **I'm in, how do I get there?** By car or fly to Gdańsk or Warsaw and take a train/bus/catch a ride with someone!  
 
