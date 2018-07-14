@@ -1,0 +1,29 @@
+.content {
+  padding-top: 2rem;
+}
+
+@media (max-width: 48em) {
+  #hamburger {
+    position: absolute;
+    left: 2rem;
+    top: 2.7rem;
+    font-size: 2.5rem;
+    margin-right: 1rem;
+  }
+  .sidebar img,
+  .sidebar nav {
+    display: none;
+  }
+  .sidebar nav.show {
+    display: block;
+  }
+}
+
+@media (min-width: 48em) {
+  #hamburger {
+    display: none;
+  }
+  .sidebar {
+    min-height: 1200px;
+  }
+}
