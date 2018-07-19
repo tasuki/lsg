@@ -38,6 +38,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Cieślak (koszatek) -- 5k
 - Adam Kawczyński -- 5k
 - Paulina Skibińska -- 6k
+- Tomasz Bogdziewicz -- 6k
 - Mateusz Szeląg -- 7k
 - Bartłomiej Lisiecki -- 7k
 - Jakub Gauza -- 7k
@@ -48,7 +49,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mariusz Klimczak -- 8k
 - Marcelina Chojnacka -- 8k
 - Jakub Miłkowski -- 9k
+- Jeoman Okonkwo -- 9k
 - Michał Mazur -- 10k
+- Kamil Świercz -- 10k
 - January Chlebowicz -- 11k
 - Kamil Łopuszański (banan) -- 12k
 - Marta Kołodziej -- 12k
@@ -78,6 +81,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Cichocka -- ng
 - Inga Gauza -- ng
 - Rufin Gauza -- ng
+- Michał Ślusarczyk --ng
 - Jacek Chroboczek (czifu) - nie gra ale może zagrać 13-kę albo szczeknąć jak co
 - pies Emtoma - nie gra ale może szczeknąć jak co
 
@@ -85,6 +89,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 
 
-Stan 10 lipca
+Stan 19 lipca
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
