@@ -1,3 +1,6 @@
+.sidebar {
+  text-align: left;
+}
 .content {
   padding-top: 2rem;
 }
@@ -5,17 +8,17 @@
 @media (max-width: 48em) {
   #hamburger {
     position: absolute;
-    left: 2rem;
-    top: 3rem;
     cursor: pointer;
+    right: 2rem;
+    top: 3rem;
   }
   #hamburger span {
     display: block;
     background-color: #999;
-    width: 2.3rem;
-    height: .33rem;
+    width: 2rem;
+    height: .25rem;
     margin-bottom: .5rem;
-    border-radius: .2rem;
+    border-radius: .1rem;
   }
   .sidebar img,
   .sidebar nav {
