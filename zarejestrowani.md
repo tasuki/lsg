@@ -10,6 +10,9 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Adam Białożyt (kapitan) -- 1k
+- Marcin Dzieżyc -- 8k
+- Michał Mazur -- 
 
 
 
