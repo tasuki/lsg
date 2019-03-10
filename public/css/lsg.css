@@ -12,6 +12,12 @@ html {
 .content {
   padding-top: 2rem;
 }
+th, td {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
 
 @media (max-width: 48em) {
   #hamburger {

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Linki
+title: Dawniej
 ---
-
-### <a href="http://www.facebook.com/letniaszkolago" target="_blank"> LSG na portalu facebook </a>
 
 <strong>Linki do zdjęć sprzed roku 2015:</strong> 
 
@@ -24,5 +22,7 @@ title: Linki
 - <a href="http://picasaweb.google.pl/adziu.lsg" target="_blank"> X LSG -- Gliśno 2009 (galeria Adzia) </a> 
 - <a href="http://picasaweb.google.pl/kacper.ciesla/MiniLsg2009" target="_blank"> X LSG -- Gliśno 2009 (galeria Kacpra) </a> 
 - <a href="http://blog.tasuki.org/lsg-2010/#photos" target="_blank"> XI LSG -- Zbiór Galerii </a>
+- <a href="http://gallery.tasuki.org/2010/08-lsg" target="_blank"> XI LSG -- Gliśno 2010 (galeria Tasukiego)</a>
+- <a href="http://gallery.tasuki.org/2011/08-lsg" target="_blank"> XII LSG -- Gliśno 2011 (galeria Tasukiego)</a>
 - <a href="https://picasaweb.google.com/101344519657364273322/2012Go?noredirect=1" target="_blank">XIII LSG</a>
 - <a href="https://picasaweb.google.com/101344519657364273322/2012?noredirect=1" target="_blank">XIII LSG </a>

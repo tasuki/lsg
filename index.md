@@ -5,8 +5,8 @@ title: Wstęp
 
 ## Letnia Szkoła Go 2019<br>XX Memoriał im. Jerzego Sacharewicza
 
-**Kiedy** 11. -- 25. sierpnia 2019  
-**Gdzie?** [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
+*Kiedy?* 11. -- 25. sierpnia 2019  
+*Gdzie?* [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
 
 <!--
 <p class="sponsors">
@@ -25,12 +25,12 @@ Na wyposażeniu gospodarstwa znajdują się:
 
 - Domki z łóżkami polowymi do noclegu
 - Pole namiotowe -- trzy polany (wzgórze, las przy drodze nad jezioro, polana za domkami)
-- **Kuchnia** -- powszechnie dostępna; woda, prąd, czajnik, lodówka, garnki i talerze, miejsce do przygotowania posiłku
-- **Sklepik** o standardowych cenach bez horrendalnych narzutów
+- *Kuchnia* -- powszechnie dostępna; woda, prąd, czajnik, lodówka, garnki i talerze, miejsce do przygotowania posiłku
+- *Sklepik* o standardowych cenach bez horrendalnych narzutów
 - Czyste toalety
 - Prysznic z ciepłą wodą dostępny w godzinach rannych i wieczornych, sauna
-- Ogromna **stodoła przerobiona na salę do tanców, zajęć, gier** i innych (na 100 osób)
-- wiele innych atrakcji (miedzy innymi: **stadnina** (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), jezioro (1 klasa czystości z prywatną plażą), kajaki, pole golfowe, **siatkówka**, koszykówka, ściana wspinaczkowa, strzelnica, szlaki wycieczkowe, kamienne kręgi) 
+- Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych (na 100 osób)
+- Wiele innych atrakcji (miedzy innymi: stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), jezioro *(1 klasa czystości z prywatną plażą)*, kajaki, pole golfowe, siatkówka, koszykówka, ściana wspinaczkowa, strzelnica, szlaki wycieczkowe, kamienne kręgi) 
 
 ![przystanek alaska](/public/karaoke.jpg)
 
