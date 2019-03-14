@@ -3,7 +3,7 @@ layout: page
 title: Dawniej
 ---
 
-<strong>Linki do zdjęć sprzed roku 2015:</strong> 
+## Sprzed roku 2015:
 
 - <a href="http://yosh.hosted.pl/" target="_blank"> VI LSG -- Gliśno 2005 </a> 
 - <a href="http://shadow.uwm.edu.pl/%7Eyoshi/LSG2006/" target="_blank"> VII LSG (galeria yosha) -- Gliśno 2006 </a> 

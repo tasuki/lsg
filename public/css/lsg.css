@@ -1,13 +1,26 @@
 html {
   font-family: "Alegreya Sans", sans-serif;
 }
-.sidebar-about h1, h2 {
+.sidebar-about h1, h1, h2, h3 {
   font-family: "Alegreya", serif;
   font-weight: bold;
 }
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+h2 {
+  font-size: 2rem;
+}
+h1 + h3 {
+  margin-top: 0rem;
+}
 
 .sidebar {
-  text-align: left;
+  padding: 20px;
+}
+.sidebar-about {
+  position: relative;
 }
 .content {
   padding-top: 2rem;
@@ -23,8 +36,8 @@ th, td {
   #hamburger {
     position: absolute;
     cursor: pointer;
-    right: 2rem;
-    top: 3rem;
+    right: 0rem;
+    top: 1rem;
   }
   #hamburger span {
     display: block;
@@ -33,6 +46,13 @@ th, td {
     height: .25rem;
     margin-bottom: .5rem;
     border-radius: .1rem;
+  }
+  .sidebar {
+    text-align: left;
+  }
+  .sidebar h1 {
+    padding-right: 2.5rem;
+    margin-bottom: 0;
   }
   .sidebar img,
   .sidebar nav {
@@ -49,5 +69,9 @@ th, td {
   }
   .sidebar {
     min-height: 1200px;
+    text-align: right;
+  }
+  .sidebar h1 {
+    display: none;
   }
 }

@@ -3,10 +3,12 @@ layout: page
 title: Wstęp
 ---
 
-## Letnia Szkoła Go 2019<br>XX Memoriał im. Jerzego Sacharewicza
+# Letnia Szkoła Go 2019
 
-*Kiedy?* 10. -- 25. sierpnia 2019  
-*Gdzie?* [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
+### XX memoriał im. Jerzego Sacharewicza
+
+*Kiedy?* &nbsp; 10. -- 25. sierpnia 2019  
+*Gdzie?* &nbsp; [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
 
 <!--
 <p class="sponsors">
