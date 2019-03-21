@@ -18,7 +18,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Cylwik -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
-- Kacper Barcicki -- 28k?
+- Kacper Barcicki -- 30k
 - Sylwia Barcicka -- ng
 
 
