@@ -7,7 +7,7 @@ title: Wstęp
 
 ### XX memoriał im. Jerzego Sacharewicza
 
-*Kiedy?* &nbsp; 10. -- 25. sierpnia 2019  
+*Kiedy?* &nbsp; 10. -- 25. sierpnia 2019  (to nie pomyłka, tym razem startujemy w sobotę!)
 *Gdzie?* &nbsp; [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
 
 <!--
