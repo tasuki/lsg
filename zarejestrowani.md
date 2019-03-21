@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Kulczycki -- 4k
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
+- Robert Cylwik -- 13k
 - Joanna Żebrowska -- 20k
 
 
