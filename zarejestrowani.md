@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Białożyt (kapitan) -- 1k
 - Marcin Kulczycki -- 4k
 - Artur Barcicki -- 5k
+- Mateusz Szeląg -- 6k
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Robert Cylwik -- 13k
