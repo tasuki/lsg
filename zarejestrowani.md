@@ -10,7 +10,11 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Anna Sośnicka-Cieśla (sosna) -- 1d
 - Adam Białożyt (kapitan) -- 1k
+- Kacper Cieśla (comboy) -- 2k
+- Paweł Obrok (yapi) -- 3k
+- Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
@@ -20,6 +24,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
 - Kacper Barcicki -- 30k
+- Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
 
 
