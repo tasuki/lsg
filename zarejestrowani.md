@@ -16,6 +16,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapi) -- 3k
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
+- Wojciech Szychowiak -- 4k
+- Marianna Szychowiak -- 8k 
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
 - Marcin Dzieżyc -- 8k
@@ -24,6 +26,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
 - Kacper Barcicki -- 30k
+- Grzegorz Papaj -- 30k
+- Ludwik Papaj -- 30k
 - Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
 
