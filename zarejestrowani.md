@@ -17,11 +17,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
-- Marianna Szychowiak -- 8k 
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
+- Marianna Szychowiak -- 8k 
 - Robert Cylwik -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
