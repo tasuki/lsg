@@ -22,6 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Marianna Szychowiak -- 8k 
+- Ewa Biernot -- 10k
 - Robert Cylwik -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
