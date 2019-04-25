@@ -10,6 +10,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Marcin Majka (higaki) -- 4d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Adam Białożyt (kapitan) -- 1k
