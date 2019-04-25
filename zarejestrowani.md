@@ -20,6 +20,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
+- Marcin Tomczyk (emtom) -- 4k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
 - Jakub Miłkowski -- 7k
@@ -36,6 +37,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ludwik Papaj -- 30k
 - Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
+- Monika Sas-Tomczyk -- ng
+- Zosia Tomczyk -- ng
 
 
 
