@@ -15,15 +15,18 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Białożyt (kapitan) -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 3k
+- Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
+- Jakub Miłkowski -- 7k
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Marianna Szychowiak -- 8k 
 - Ewa Biernot -- 10k
+- Cyprian Doruch -- 10k
 - Robert Cylwik -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
