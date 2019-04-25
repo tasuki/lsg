@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Majka (higaki) -- 4d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
+- Jan Frejlak -- 1d
 - Adam Białożyt (kapitan) -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 3k
@@ -39,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Sylwia Barcicka -- ng
 - Monika Sas-Tomczyk -- ng
 - Zosia Tomczyk -- ng
+- Małgorzata Frejlak -- ng
 
 
 
