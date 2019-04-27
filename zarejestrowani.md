@@ -11,6 +11,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 4d
+- Andrew Kay -- 3d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frejlak -- 1d
@@ -30,6 +31,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Marianna Szychowiak -- 8k 
+- January Chlebowicz -- 8k
+- Marcelina Chojnacka -- 8k
+- Kathryn Ball -- 8k
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Robert Cylwik -- 13k
