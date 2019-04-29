@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frejlak -- 1d
 - Adam Białożyt (kapitan) -- 1k
+- Paweł Frączak (alvar) -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -34,11 +35,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - January Chlebowicz -- 8k
 - Marcelina Chojnacka -- 8k
 - Kathryn Ball -- 8k
+- Janusz Rudnicki -- 8k
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Robert Cylwik -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
+- Agnieszka Szkwarek -- 20k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
