@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Szeląg -- 6k
 - Paulina Skibińska -- 6k
 - Jakub Miłkowski -- 7k
+- Jakub Gauza -- 7k
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Marianna Szychowiak -- 8k 
