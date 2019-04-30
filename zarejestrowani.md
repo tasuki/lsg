@@ -40,9 +40,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Robert Cylwik -- 13k
+- Łukasz Wojnarowski -- 13k
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
 - Agnieszka Szkwarek -- 20k
+- Izabela Karczewska -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
