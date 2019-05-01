@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
 - Marcin Tomczyk (emtom) -- 4k
+- Dawid Libront -- 4k
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
 - Paulina Skibińska -- 6k
