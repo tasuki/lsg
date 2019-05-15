@@ -40,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Janusz Rudnicki -- 8k
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
+- Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
 - Tymek Barcicki -- 18k
