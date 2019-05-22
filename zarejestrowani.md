@@ -46,6 +46,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tymek Barcicki -- 18k
 - Joanna Żebrowska -- 20k
 - Agnieszka Szkwarek -- 20k
+- Anna Seget -- 20k
 - Izabela Karczewska -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
