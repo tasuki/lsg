@@ -35,7 +35,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Dzieżyc -- 8k
 - Michał Mazur -- 8k
 - Marianna Szychowiak -- 8k 
-- January Chlebowicz -- 8k
 - Marcelina Chojnacka -- 8k
 - Kathryn Ball -- 8k
 - Janusz Rudnicki -- 8k
