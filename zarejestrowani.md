@@ -44,6 +44,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
 - Tymek Barcicki -- 18k
+- Michał Sliwicki -- 19k
 - Joanna Żebrowska -- 20k
 - Agnieszka Szkwarek -- 20k
 - Anna Seget -- 20k
