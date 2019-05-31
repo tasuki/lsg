@@ -22,6 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapi) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
+- Grzegorz Sobański (silk) -- 3k
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
