@@ -45,6 +45,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
+- Rafał Bzoma (bzyk) -- 15k
 - Tymek Barcicki -- 18k
 - Michał Sliwicki -- 19k
 - Joanna Żebrowska -- 20k
@@ -59,6 +60,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Sas-Tomczyk -- ng
 - Zosia Tomczyk -- ng
 - Małgorzata Frejlak -- ng
+- Magdalena Soczawa -- ng
 
 
 
