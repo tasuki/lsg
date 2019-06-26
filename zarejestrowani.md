@@ -47,6 +47,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
+- Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
 - Tymek Barcicki -- 18k
 - Michał Sliwicki -- 19k
