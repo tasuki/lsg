@@ -32,6 +32,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Artur Barcicki -- 5k
 - Mateusz Szeląg -- 6k
 - Paulina Skibińska -- 6k
+- Wojciech Kaśków -- 6k
 - Jakub Miłkowski -- 7k
 - Jakub Gauza -- 7k
 - Marcin Dzieżyc -- 8k
