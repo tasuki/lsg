@@ -15,6 +15,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Andrew Kay -- 3d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
+- Jan Frączak -- 1d
 - Jan Frejlak -- 1k
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
