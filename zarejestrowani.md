@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 4d
 - Andrew Kay -- 3d
+- Oleksandr Yeroshkin -- 3d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frączak -- 1d
@@ -54,6 +55,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Żebrowska -- 20k
 - Agnieszka Szkwarek -- 20k
 - Anna Seget -- 20k
+- Svitlana Saltan -- 20k
 - Izabela Karczewska -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
