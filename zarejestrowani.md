@@ -61,9 +61,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Seget -- 20k
 - Svitlana Saltan -- 20k
 - Izabela Karczewska -- 25k
+- Maria Przybylak -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
+- Klaudia Srul -- 30k
 - Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
 - Monika Sas-Tomczyk -- ng
