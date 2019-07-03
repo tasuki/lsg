@@ -12,14 +12,17 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Stanisław Frejlak (sasio) -- 7d
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 4d
+- Søren Ohlenbusch -- 4d
 - Andrew Kay -- 3d
 - Oleksandr Yeroshkin -- 3d
 - Maksym Wałaszewski -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frączak -- 1d
+- Martin Lamprecht -- 1d
 - Jan Frejlak -- 1k
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
+- Nils Hanebeck -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Paweł Obrok (yapi) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -50,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Wojnarowski -- 13k
 - Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
+- Christina Schramm --16k
 - Tymek Barcicki -- 18k
 - Michał Sliwicki -- 19k
 - Joanna Żebrowska -- 20k
