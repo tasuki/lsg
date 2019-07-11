@@ -104,6 +104,6 @@ Uwagi:
 
 Zniżki:
 
-- za rejestrację i opłacenie należności do końca kwietnia: 10% zniżki
-- za rejestrację i opłacenie należności do końca maja: 5% zniżki
-- dla członków PSG: 50% niższa opłata za LSG
+- za rejestrację do końca kwietnia: 10% zniżki na pobyt
+- za rejestrację i opłacenie należności do końca maja: 5% zniżki na pobyt
+- dla członków PSG: 50% niższa opłata rejestracyjna za LSG
