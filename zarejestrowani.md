@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Andrew Kay -- 3d
 - Oleksandr Yeroshkin -- 3d
 - Maksym Wałaszewski -- 2d
+- Dawid Jurkiewicz (deejay) -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frączak -- 1d
 - Martin Lamprecht -- 1d
@@ -51,7 +52,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
-- Jakub Stasiński -- 13k
+- Jakub Stasiński (ryan) -- 13k
 - Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
 - Christina Schramm --16k
@@ -63,6 +64,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Svitlana Saltan -- 20k
 - Izabela Karczewska -- 25k
 - Maria Przybylak -- 25k
+- Justyna Jurkiewicz -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
