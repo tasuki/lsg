@@ -56,7 +56,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
 - Christina Schramm --16k
-- Maria Kluziak -- 178k
+- Maria Kluziak -- 17k
 - Tymek Barcicki -- 18k
 - Michał Sliwicki -- 19k
 - Joanna Żebrowska -- 20k
