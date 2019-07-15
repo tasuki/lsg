@@ -86,6 +86,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Tytus -- ng
 - Marta Szeredy-Kolińska -- ng
 - Antoni Koliński -- ng
+- Kinga Lisiecka-Garbaczewska -- ng
 
 
 
