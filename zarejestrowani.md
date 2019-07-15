@@ -20,6 +20,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frączak -- 1d
 - Martin Lamprecht -- 1d
+- Karol Cieślak (kac) -- 1d
 - Jan Frejlak -- 1k
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
@@ -35,6 +36,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Tomczyk (emtom) -- 4k
 - Dawid Libront -- 4k
 - Artur Barcicki -- 5k
+- Wojciech Cieślak (koszatek) -- 5k
 - Mateusz Szeląg -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśków -- 6k
