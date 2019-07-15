@@ -48,6 +48,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcelina Chojnacka -- 8k
 - Kathryn Ball -- 8k
 - Janusz Rudnicki -- 8k
+- Marcel Mroczek -- 8k
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Bartłomiej Lisiecki (hino) -- 10k
@@ -57,6 +58,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jakub Stasiński (ryan) -- 13k
 - Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
+- Leszek Koliński -- 15k
 - Christina Schramm --16k
 - Maria Kluziak -- 17k
 - Tymek Barcicki -- 18k
@@ -74,6 +76,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
 - Klaudia Srul -- 30k
+- Natalia Kolińska -- 30k
 - Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
 - Monika Sas-Tomczyk -- ng
@@ -81,6 +84,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Frejlak -- ng
 - Magdalena Soczawa -- ng
 - Monika Tytus -- ng
+- Marta Szeredy-Kolińska -- ng
+- Antoni Koliński -- ng
 
 
 
