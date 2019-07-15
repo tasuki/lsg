@@ -66,6 +66,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Izabela Karczewska -- 25k
 - Maria Przybylak -- 25k
 - Justyna Jurkiewicz -- 25k
+- Aleksander Tytus -- 25k
+- Wojtek Wajda -- 25k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
@@ -76,6 +78,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Zosia Tomczyk -- ng
 - Małgorzata Frejlak -- ng
 - Magdalena Soczawa -- ng
+- Monika Tytus -- ng
 
 
 
