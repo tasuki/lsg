@@ -52,12 +52,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Bartłomiej Lisiecki (hino) -- 10k
+
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
 - Jakub Stasiński (ryan) -- 13k
 - Piotr Miściur (ared) -- 14k
 - Rafał Bzoma (bzyk) -- 15k
+- Leszek Koliński -- 15k
 - Christina Schramm --16k
 - Maria Kluziak -- 17k
 - Tymek Barcicki -- 18k
@@ -75,6 +77,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
 - Klaudia Srul -- 30k
+- Natalia Kolińska -- 30k
 - Tomasz Cieśla -- 500k 
 - Sylwia Barcicka -- ng
 - Monika Sas-Tomczyk -- ng
@@ -83,6 +86,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magdalena Soczawa -- ng
 - Monika Tytus -- ng
 - Kinga Lisiecka-Garbaczewska -- ng
+- Marta Szeredy-Kolińska -- ng
+- Antoni Koliński -- ng
 
 
 
