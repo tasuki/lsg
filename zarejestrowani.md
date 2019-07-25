@@ -88,6 +88,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kinga Lisiecka-Garbaczewska -- ng
 - Marta Szeredy-Kolińska -- ng
 - Antoni Koliński -- ng
+- Anna Krzywolak (pixel) -- ng
 
 
 
