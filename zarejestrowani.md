@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Frączak (alvar) -- 1k
 - Nils Hanebeck -- 1k
 - Kacper Cieśla (comboy) -- 2k
+- Piotr Andryszek -- 2k
 - Paweł Obrok (yapi) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
