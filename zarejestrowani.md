@@ -13,9 +13,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 4d
 - Søren Ohlenbusch -- 4d
-- Andrew Kay -- 3d
+- Andrew Kay (palladin) -- 3d
 - Oleksandr Yeroshkin -- 3d
-- Maksym Wałaszewski -- 2d
+- Maksym Wałaszewski (magzym) -- 2d
 - Dawid Jurkiewicz (deejay) -- 2d
 - Karol Cieślak (kac) -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
@@ -26,25 +26,25 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Frączak (alvar) -- 1k
 - Nils Hanebeck -- 1k
 - Kacper Cieśla (comboy) -- 2k
-- Piotr Andryszek -- 2k
+- Piotr Andryszek (hicio) -- 2k
 - Paweł Obrok (yapi) -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
 - Dariusz Bednarczyk -- 3k
 - Grzegorz Sobański (silk) -- 3k
-- Małgorzata Palej (shaa) -- 4k
+- Małgorzata Palej (shaaaaaaaaaa) -- 4k
 - Marcin Kulczycki -- 4k
 - Wojciech Szychowiak -- 4k
 - Marcin Tomczyk (emtom) -- 4k
-- Dawid Libront -- 4k
+- Dawid Libront (lipa) -- 4k
 - Artur Barcicki -- 5k
 - Wojciech Cieślak (koszatek) -- 5k
-- Mateusz Szeląg -- 6k
+- Mateusz Szeląg (szeląg) -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśków -- 6k
 - Jakub Miłkowski -- 7k
 - Jakub Gauza -- 7k
 - Marcin Dzieżyc -- 8k
-- Michał Mazur -- 8k
+- Michał Mazur (mazur!) -- 8k
 - Marianna Szychowiak -- 8k 
 - Marcelina Chojnacka -- 8k
 - Kathryn Ball -- 8k
@@ -53,7 +53,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Bartłomiej Lisiecki (hino) -- 10k
-
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
@@ -80,17 +79,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Klaudia Srul -- 30k
 - Natalia Kolińska -- 30k
 - Tomasz Cieśla -- 500k 
-- Sylwia Barcicka -- ng
+- Sylwia Barcicka (pasqda) -- ng (ng???)
 - Monika Sas-Tomczyk -- ng
 - Zosia Tomczyk -- ng
 - Małgorzata Frejlak -- ng
 - Magdalena Soczawa -- ng
 - Monika Tytus -- ng
-- Kinga Lisiecka-Garbaczewska -- ng
+- Kinga Lisiecka-Garbaczewska -- ng (ng?)
 - Marta Szeredy-Kolińska -- ng
 - Antoni Koliński -- ng
-- Anna Krzywolak (pixel) -- ng
-
+- Anna Krzywolak (pixla) -- ng (jak ng jak gra?)
 
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
