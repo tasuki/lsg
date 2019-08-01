@@ -53,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ewa Biernot -- 10k
 - Cyprian Doruch -- 10k
 - Bartłomiej Lisiecki (hino) -- 10k
+- Anna Cieślak -- 10k
 - Julia Bednarska -- 11k
 - Robert Cylwik -- 13k
 - Łukasz Wojnarowski -- 13k
