@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Szychowiak -- 4k
 - Marcin Tomczyk (emtom) -- 4k
 - Dawid Libront (lipa) -- 4k
+- Tomasz Warniełło -- 4k
 - Artur Barcicki -- 5k
 - Wojciech Cieślak (koszatek) -- 5k
 - Mateusz Szeląg (szeląg) -- 6k
