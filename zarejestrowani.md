@@ -75,6 +75,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Justyna Jurkiewicz -- 25k
 - Aleksander Tytus -- 25k
 - Wojtek Wajda -- 25k
+- Michał Dominiak -- 26k
 - Kacper Barcicki -- 30k
 - Grzegorz Papaj -- 30k
 - Ludwik Papaj -- 30k
@@ -91,6 +92,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Szeredy-Kolińska -- ng
 - Antoni Koliński -- ng
 - Anna Krzywolak (pixla) -- ng (jak ng jak gra?)
+- Kasia Zelek -- ng
+- Marek Zelek -- ng
+- Dariusz Opyd -- ng
+- Klara Świerczyńska -- ng
 
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
