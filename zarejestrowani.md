@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jan Frączak -- 1d
 - Martin Lamprecht -- 1d
+- Artur Chmielewski -- 1d
 - Jan Frejlak -- 1k
 - Adam Białożyt (kapitan) -- 1k
 - Paweł Frączak (alvar) -- 1k
