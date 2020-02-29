@@ -10,7 +10,7 @@ title: Cennik
 <tr>
 <th>Noclegi</th>
 <th class="right">cena za 1 dzień</th>
-<th class="right">cena za 14-15 dni</th>
+<th class="right">cena za calość</th>
 </tr>
 
 <tr>
@@ -28,19 +28,19 @@ title: Cennik
 <tr>
 <td>namiot własny (dziecko 4-10 lat)</td>
 <td class="right">8 zł</td>
-<td class="right">110 zł</td>
+<td class="right">95 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (uczeń / student do 25 lat)</td>
 <td class="right">13 zł</td>
-<td class="right">170 zł</td>
+<td class="right">160 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dorosly)</td>
 <td class="right">16 zł</td>
-<td class="right">210 zł</td>
+<td class="right">195zł</td>
 </tr>
 
 <tr>
@@ -61,7 +61,7 @@ Uwagi:
 <tr>
 <th>LSG/Wyżywienie/Samochody/Zwierzęta</th>
 <th class="right">cena za 1 dzień</th>
-<th class="right">cena za 14 dni</th>
+<th class="right">cena za całość</th>
 </tr>
 
 <tr>
@@ -79,7 +79,8 @@ Uwagi:
 <tr>
 <td>wyżywienie (śniadanie + obiad + kolacja)</td>
 <td class="right">(9 + 19 + 10) = 38 zł</td>
-<td class="right">520 zł</td>
+<td>wyżywienie całość (śniadanie + obiad + kolacja)</td>
+<td class="right">460 zł</td>
 </tr>
 
 <tr>
