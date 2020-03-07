@@ -12,6 +12,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Kacper Cieśla (comboy) -- 2k
+- Łukasz Pater (fan) -- 2k
 - Martin Dzieżyc -- 3k
 - Paweł Obrok (yapee)-- 3k
 - Marianna Szychowiak -- 3k
@@ -23,13 +24,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
 - Bartek Lisiecki (hino) -- 10k
-- Tymek Barcicki -- 18k
+- Tymek Barcicki -- 12k
 - Joanna Żebrowska -- 20k
+- Joanna Długosz -- 20k
 - Kacper Barcicki -- 30k
 - Kinga Lisiecka-Garbaczewska -- ng
 - Magda Ślusarczyk -- ng
 - Monika Sas-Tomczyk -- ng
 - Sylwia Barcicka (pasqda) -- ng
+- Barbara Skalska-Pater -- ng
+- Zofia Pater -- ng
 - Jacek Chroboczek (czifo) -- ng
 
 
