@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julia Bednarska -- 8k
 - Bartek Lisiecki (hino) -- 10k
 - Tymek Barcicki -- 12k
+- Robert Cylwik -- 14k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Kacper Barcicki -- 30k
