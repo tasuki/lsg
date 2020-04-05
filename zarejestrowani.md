@@ -10,6 +10,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
+- Karol Cieślak (kac) -- 3d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Kacper Cieśla (comboy) -- 2k
 - Łukasz Pater (fan) -- 2k
@@ -19,11 +20,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
 - Wojciech Szychowiak -- 4k
+- Wojciech Cieślak (koszatek) -- 4k
 - Artur Barcicki -- 5k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
 - Bartek Lisiecki (hino) -- 10k
+- Anna Cieślak -- 10k
 - Tymek Barcicki -- 12k
 - Robert Cylwik -- 14k
 - Joanna Żebrowska -- 20k
