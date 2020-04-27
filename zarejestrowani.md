@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
+- Marcelina Chojnacka -- 8k
 - Bartek Lisiecki (hino) -- 10k
 - Anna Cieślak -- 10k
 - Tymek Barcicki -- 12k
