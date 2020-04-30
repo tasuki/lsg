@@ -17,11 +17,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Martin Dzieżyc -- 3k
 - Paweł Obrok (yapee)-- 3k
 - Marianna Szychowiak -- 3k
+- Patryk Jełowicki (kolorek) -- 3k
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
 - Wojciech Szychowiak -- 4k
 - Wojciech Cieślak (koszatek) -- 4k
+- Mateusz Szeląg -- 4k
 - Artur Barcicki -- 5k
+- Marcin Kulczycki -- 5k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
