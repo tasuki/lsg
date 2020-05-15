@@ -29,8 +29,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
 - Marcelina Chojnacka -- 8k
+- Ela Kochanowska -- 8k
 - Bartek Lisiecki (hino) -- 10k
 - Anna Cieślak -- 10k
+- Marcel Mroczek -- 10k
 - Tymek Barcicki -- 12k
 - Robert Cylwik -- 14k
 - Joanna Żebrowska -- 20k
