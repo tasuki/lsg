@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcel Mroczek -- 10k
 - Tymek Barcicki -- 12k
 - Robert Cylwik -- 14k
+- Maria Kluziak -- 14k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Kacper Barcicki -- 30k
