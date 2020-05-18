@@ -12,6 +12,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) -- 4d
 - Karol Cieślak (kac) -- 3d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
+- Grzegorz Leszczyński -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Łukasz Pater (fan) -- 2k
 - Martin Dzieżyc -- 3k
