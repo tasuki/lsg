@@ -9,6 +9,7 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
+- Stanisław Frejlak (siasio) -- 7d
 - Vít Brunner (tasuki) -- 4d
 - Karol Cieślak (kac) -- 3d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
@@ -26,6 +27,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Szeląg -- 4k
 - Artur Barcicki -- 5k
 - Marcin Kulczycki -- 5k
+- Cyprian Doruch -- 6k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
@@ -40,6 +42,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Kacper Barcicki -- 30k
+- Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
 - Kinga Lisiecka-Garbaczewska -- ng
 - Magda Ślusarczyk -- ng
 - Monika Sas-Tomczyk -- ng
