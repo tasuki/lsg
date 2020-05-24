@@ -21,18 +21,25 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Leszczyński -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Łukasz Pater (fan) -- 2k
+- Piotr Andryszek (hicio) -- 2k
 - Martin Dzieżyc -- 3k
 - Paweł Obrok (yapee)-- 3k
 - Marianna Szychowiak -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
+- Darek Bednarczyk -- 3k
 - Małgorzata Palej (shaa) -- 4k
 - Marcin Tomczyk (emtom) -- 4k
 - Wojciech Szychowiak -- 4k
 - Wojciech Cieślak (koszatek) -- 4k
 - Mateusz Szeląg -- 4k
+- Dawid Libront (lipa) -- 4k
+- Paweł Skibiński -- 4k
 - Artur Barcicki -- 5k
 - Marcin Kulczycki -- 5k
+- Jakub Miłkowski -- 5k
 - Cyprian Doruch -- 6k
+- Paulina Skibińska -- 6k
+- Wojciech Kaśkow -- 6k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
@@ -47,6 +54,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Maria Kluziak -- 14k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
+- Klaudia Srul -- 20k
+- Maria Przybylak -- 20 k
 - Kacper Barcicki -- 30k
 - Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
 - Kinga Lisiecka-Garbaczewska -- ng
@@ -55,6 +64,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Sylwia Barcicka (pasqda) -- ng
 - Barbara Skalska-Pater -- ng
 - Zofia Pater -- ng
+- Michał Ślusarczyk -- ng
+- Martyna Włodarczyk -- ng
 - Jacek Chroboczek (czifo) -- ng
 
 
