@@ -40,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Cyprian Doruch -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśkow -- 6k
+- Daria Kwietniewska -- 7k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
@@ -52,10 +53,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tymek Barcicki -- 12k
 - Robert Cylwik -- 14k
 - Maria Kluziak -- 14k
+- Magda Walkiewicz -- 17k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Klaudia Srul -- 20k
 - Maria Przybylak -- 20 k
+- Michał Śliwicki -- 20 k
 - Kacper Barcicki -- 30k
 - Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
 - Kinga Lisiecka-Garbaczewska -- ng
