@@ -61,6 +61,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Śliwicki -- 20 k
 - Kacper Barcicki -- 30k
 - Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
+- Leszek Koliński -- 30k
+- Natalia Kolińska -- 30k
+- Marta Szeredy-Kolińska -- ng
+- Antoni Koliński
+- Staś Koliński -- ng
 - Kinga Lisiecka-Garbaczewska -- ng
 - Magda Ślusarczyk -- ng
 - Monika Sas-Tomczyk -- ng
