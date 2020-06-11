@@ -51,6 +51,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Cieślak -- 10k
 - Marcel Mroczek -- 10k
 - Tymek Barcicki -- 12k
+- Piotr Chojnacki -- 13k
 - Robert Cylwik -- 14k
 - Maria Kluziak -- 14k
 - Magda Walkiewicz -- 17k
