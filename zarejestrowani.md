@@ -12,11 +12,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Stanisław Frejlak (siasio) -- 7d
 - Vít Brunner (tasuki) -- 4d
 - Marcin Majka (higaki) -- 4d
+- Andrew Kay (paladyn) -- 4d
 - Maksym Wałaszewski (magzym) -- 3d
 - Karol Cieślak (kac) -- 3d
 - Jan Frączak -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jakub Majnusz (gimlix) -- 1d
+- Mateusz Chojnacki (myszcz) -- 1d
 - Paweł Frączak(alvar) -- 1k
 - Grzegorz Leszczyński -- 1k
 - Kacper Cieśla (comboy) -- 2k
