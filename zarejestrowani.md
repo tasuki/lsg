@@ -37,7 +37,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Dawid Libront (lipa) -- 4k
 - Paweł Skibiński -- 4k
 - Artur Barcicki -- 5k
-- Marcin Kulczycki -- 5k
 - Jakub Miłkowski -- 5k
 - Cyprian Doruch -- 6k
 - Paulina Skibińska -- 6k
@@ -77,6 +76,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Zofia Pater -- ng
 - Michał Ślusarczyk -- ng
 - Martyna Włodarczyk -- ng
+- Malgorzata Frejlak -- ng
+- Jan Frejlak -- ng
+- Agnieszka Sztolcman  --ng
+- Albi Pacewicz -- ng
 - Jacek Chroboczek (czifo) -- ng
 
 
