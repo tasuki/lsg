@@ -39,6 +39,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Skibiński -- 4k
 - Artur Barcicki -- 5k
 - Jakub Miłkowski -- 5k
+- Achim Schultze -- 5k
+- Klaus Blumberg -- 5k
 - Cyprian Doruch -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśkow -- 6k
