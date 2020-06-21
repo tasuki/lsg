@@ -15,6 +15,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Andrew Kay (paladyn) -- 4d
 - Maksym Wałaszewski (magzym) -- 3d
 - Karol Cieślak (kac) -- 3d
+- Dawid Jurkiewicz (deejay) -- 3d
 - Jan Frączak -- 2d
 - Anna Sośnicka-Cieśla (sosna) -- 1d
 - Jakub Majnusz (gimlix) -- 1d
@@ -63,6 +64,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Śliwicki -- 20 k
 - Kacper Barcicki -- 30k
 - Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
+- Justyna Jurkiewicz -- 25k
 - Leszek Koliński -- 30k
 - Natalia Kolińska -- 30k
 - Marta Szeredy-Kolińska -- ng
