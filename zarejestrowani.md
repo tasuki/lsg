@@ -46,6 +46,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paulina Skibińska -- 6k
 - Wojciech Kaśkow -- 6k
 - Daria Kwietniewska -- 7k
+- Jakub Gauda (marmez) -- 7k
 - Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
