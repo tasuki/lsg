@@ -22,6 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Chojnacki (myszcz) -- 1d
 - Paweł Frączak(alvar) -- 1k
 - Grzegorz Leszczyński -- 1k
+- Adam Białożyt (kapitan) -- 1k
 - Kacper Cieśla (comboy) -- 2k
 - Łukasz Pater (fan) -- 2k
 - Piotr Andryszek (hicio) -- 2k
