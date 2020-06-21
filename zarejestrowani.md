@@ -60,6 +60,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Cylwik -- 14k
 - Maria Kluziak -- 14k
 - Magda Walkiewicz -- 17k
+- Jan Opawski -- 18k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Klaudia Srul -- 20k
