@@ -52,6 +52,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julia Bednarska -- 8k
 - Marcelina Chojnacka -- 8k
 - Ela Kochanowska -- 8k
+- Mariusz Klimczak -- 8k
 - Ewa Biernot -- 9k
 - Bartek Lisiecki (hino) -- 10k
 - Anna Cieślak -- 10k
