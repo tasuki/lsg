@@ -61,12 +61,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Cylwik -- 14k
 - Maria Kluziak -- 14k
 - Magda Walkiewicz -- 17k
+- Aleksander Tytus -- 17k
 - Jan Opawski -- 18k
 - Joanna Żebrowska -- 20k
 - Joanna Długosz -- 20k
 - Klaudia Srul -- 20k
-- Maria Przybylak -- 20 k
-- Michał Śliwicki -- 20 k
+- Maria Przybylak -- 20k
+- Michał Śliwicki -- 20k
+- Wojtek Wajda -- 20k
 - Kacper Barcicki -- 30k
 - Samuel Kozłowski --  15-30 k (okaze sie na miejscu)
 - Justyna Jurkiewicz -- 25k
