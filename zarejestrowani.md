@@ -26,7 +26,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) -- 2k
 - Łukasz Pater (fan) -- 2k
 - Piotr Andryszek (hicio) -- 2k
-- Martin Dzieżyc -- 3k
 - Paweł Obrok (yapee)-- 3k
 - Marianna Szychowiak -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
@@ -42,12 +41,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jakub Miłkowski -- 5k
 - Achim Schultze -- 5k
 - Klaus Blumberg -- 5k
+- Adam Kawczyński -- 5k
 - Cyprian Doruch -- 6k
 - Paulina Skibińska -- 6k
 - Wojciech Kaśkow -- 6k
 - Daria Kwietniewska -- 7k
 - Jakub Gauda (marmez) -- 7k
-- Michal Mazur (mazur) -- 8k
 - Wojciech Ślusarczyk (oro) -- 8k
 - Julia Bednarska -- 8k
 - Marcelina Chojnacka -- 8k
@@ -59,7 +58,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcel Mroczek -- 10k
 - Tymek Barcicki -- 12k
 - Piotr Chojnacki -- 13k
-- Robert Cylwik -- 14k
 - Maria Kluziak -- 14k
 - Magda Walkiewicz -- 17k
 - Aleksander Tytus -- 17k
@@ -83,7 +81,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Sas-Tomczyk -- ng
 - Sylwia Barcicka (pasqda) -- ng
 - Barbara Skalska-Pater -- ng
-- Zofia Pater -- ng
 - Michał Ślusarczyk -- ng
 - Martyna Włodarczyk -- ng
 - Malgorzata Frejlak -- ng
