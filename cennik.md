@@ -79,7 +79,7 @@ Uwagi:
 <tr>
 <td>wyżywienie (śniadanie + obiad + kolacja)</td>
 <td class="right">(9 + 19 + 10) = 38 zł</td>
-<td>wyżywienie całość (śniadanie + obiad + kolacja) = 460 zł</td>
+<td class="right">460 zł</td>
 
 </tr>
 
