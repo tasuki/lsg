@@ -27,6 +27,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Pater (fan) -- 2k
 - Piotr Andryszek (hicio) -- 2k
 - Andrzej Drzystek -- 2k
+- Kasia Mazurek (kotasia) -- 2k
 - Paweł Obrok (yapee)-- 3k
 - Marianna Szychowiak -- 3k
 - Patryk Jełowicki (kolorek) -- 3k
