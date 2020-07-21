@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Polish Summer Go School 2020
+title: Polish Summer Go School 2021
 ---
 
-# Polish Summer Go School 2020
+# Polish Summer Go School 2021
 
-*When?* &nbsp; 6--19 July 2020  
+*When?* &nbsp; 10--25 July 2021  
 *Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Poland  
 *I'm in, how do I get there?* &nbsp; By car or fly to Gdańsk or Warsaw and take a train/bus/catch a ride with someone!  
 
@@ -21,11 +21,15 @@ There's a beautiful lake to swim in, forests to stroll in, horses to ride, and b
 
 ## Pricelist
 
-... is [available in Polish](/cennik)! It's dirt cheap though -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in under 200 eur.
+... the [pricelist is available in Polish](/cennik)! It's dirt cheap -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in under 200 eur.
+
+## Schedule
+
+... the [schedule is available in Polish](/kalendarz).
 
 ## How to register
 
-Send an email to: vit.brunner@gmail.com with the following information:
+Send an email to: palaska@poczta.onet.pl with the following information:
 
 > Full name:  
 > Kyu/Dan:   

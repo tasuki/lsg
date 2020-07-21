@@ -9,7 +9,7 @@ Wyślij do organizatora: palaska@poczta.onet.pl e-mail, wklejając i uzupełniaj
 > Imię i nazwisko:  
 > Kyu/Dan:   
 > Miasto:  
-> Data pobytu: (od 6.7.2020 (niedziela, lipiec!) do 19.7.2020 (niedziela))  
+> Data pobytu: (od 10.7.2021 (sobota, lipiec!) do 25.7.2021 (niedziela))  
 > Nocleg: (domek, ED (domek o niskim standardzie), namiot własny)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege)  
 > Samochod: tak/nie  

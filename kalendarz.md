@@ -5,5 +5,10 @@ title: Kalendarz
 
 ## Kalendarz Letniej Szkoły Go
 
-<iframe src="https://calendar.google.com/calendar/embed?hl=pl&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=MONTH&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=uirf47negpete5p9l4lf8jqtn4%40group.calendar.google.com&amp;ctz=Europe%2FPrague&amp;dates=20200705/20200716"
-    style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+[Pełny kalendarz na Goog Docs](https://docs.google.com/spreadsheets/d/1zqeLUAC0c34vmwEVIWEqjazz4dP8o4prH9LtU7y9KxQ/edit?usp=sharing) (z którym też możecie tasukiemu pomóc)
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl4kaYLdKvnTRJ9oOWiSh-qbLwFpmsd4EIs9ARGRMj3ZQXabCRjhSUWHN11rVyKAkTPXfMIJXAwkhs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+    style="border-width:0" width="100%" height="570" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl4kaYLdKvnTRJ9oOWiSh-qbLwFpmsd4EIs9ARGRMj3ZQXabCRjhSUWHN11rVyKAkTPXfMIJXAwkhs/pubhtml?gid=1041573295&amp;single=true&amp;widget=true&amp;headers=false"
+    style="border-width:0" width="100%" height="570" frameborder="0" scrolling="no"></iframe>

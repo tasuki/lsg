@@ -3,23 +3,14 @@ layout: page
 title: Wstęp
 ---
 
-# Letnia Szkoła Go 2020
+# Letnia Szkoła Go 2021
 
-### XX memoriał im. Jerzego Sacharewicza
+### Memoriał Marcina Zgirskiego
 
-*Kiedy?* &nbsp; 6. -- 19. lipca 2020  
+*Kiedy?* &nbsp; 10. -- 25. lipca 2021  
 *Gdzie?* &nbsp; [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
 
-<!--
-<p class="sponsors">
-Sponsorami LSG 2018 są:<br>
-<a href="https://internetgoschool.com/"><img src="/public/GJIGS_logo.png"></a>
-<a href="http://psg.go.art.pl/"><img src="/public/psg_logo.png"></a>
-<a href="http://www.factorio.com/"><img src="/public/factorio_logo.png"></a>
-</p>
--->
-
-Od ponad dziesięciu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich. 
+Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
 
 ![przystanek alaska](/public/palaska.jpg)
 
@@ -32,12 +23,12 @@ Na wyposażeniu gospodarstwa znajdują się:
 - Czyste toalety
 - Prysznic z ciepłą wodą dostępny w godzinach rannych i wieczornych, sauna
 - Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych (na 100 osób)
-- Wiele innych atrakcji (miedzy innymi: stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), jezioro *(1 klasa czystości z prywatną plażą)*, kajaki, pole golfowe, siatkówka, koszykówka, ściana wspinaczkowa, strzelnica, szlaki wycieczkowe, kamienne kręgi) 
+- Wiele innych atrakcji (miedzy innymi: stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), jezioro *(1 klasa czystości z prywatną plażą)*, kajaki, pole golfowe, siatkówka, koszykówka, ściana wspinaczkowa, strzelnica, szlaki wycieczkowe, kamienne kręgi)
 
 ![przystanek alaska](/public/karaoke.jpg)
 
-Klimat tego miejsca jest stylizowany na serial "Przystanek Alaska" -- a polityka właścicieli to zapewnienie wysokiej klasy obsługi z elementami survivalu i relaksu. 
+Klimat tego miejsca jest stylizowany na serial "Przystanek Alaska" -- polityką właścicieli to zapewnienie wysokiej klasy obsługi z elementami survivalu i relaksu.
 
-Bliższe informacje można znaleźć na [stronie Alaski](http://www.alaska.sundar.pl/), gdzie jest dużo zdjęć i dodatkowych informacji.  
+Bliższe informacje można znaleźć na [stronie Alaski](http://www.alaska.sundar.pl/), gdzie jest dużo zdjęć i dodatkowych informacji.
 
 Jest to naprawdę niezwykłe miejsce i polecam je każdemu.
