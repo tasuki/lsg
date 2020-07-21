@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cennik
+title: Cennik 2020
 ---
 
 ## Cenniki
@@ -16,7 +16,7 @@ title: Cennik
 <tr>
 <td>domek</td>
 <td class="right"><sup>[1]</sup> 25 zł</td>
-<td class="right"><sup>[1]</sup> 290 zł</td>
+<td class="right"><sup>[1]</sup> 340 zł</td>
 </tr>
 
 <tr>
@@ -28,19 +28,19 @@ title: Cennik
 <tr>
 <td>namiot własny (dziecko 4-10 lat)</td>
 <td class="right">8 zł</td>
-<td class="right">95 zł</td>
+<td class="right">112 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (uczeń / student do 25 lat)</td>
 <td class="right">13 zł</td>
-<td class="right">160 zł</td>
+<td class="right">182 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dorosly)</td>
 <td class="right">16 zł</td>
-<td class="right">195zł</td>
+<td class="right">225zł</td>
 </tr>
 
 <tr>
@@ -66,27 +66,27 @@ Uwagi:
 
 <tr>
 <td>opłata za LSG (dziecko / student do 25 lat)</td>
-<td class="right">4 zł</td>
-<td class="right">40 zł</td>
+<td class="right">6 zł</td>
+<td class="right">60 zł</td>
 </tr>
 
 <tr>
 <td>opłata za LSG (dorosły)</td>
-<td class="right">8 zł</td>
-<td class="right">80 zł</td>
+<td class="right">12 zł</td>
+<td class="right">120 zł</td>
 </tr>
 
 <tr>
 <td>wyżywienie (śniadanie + obiad + kolacja)</td>
-<td class="right">(9 + 19 + 10) = 38 zł</td>
-<td class="right">460 zł</td>
+<td class="right">(nieznana, zalezna od cen - aktualizacja 1 maja 2021</td>
+<td class="right">? zł</td>
 
 </tr>
 
 <tr>
 <td>motor/samochód</td>
-<td class="right">3 zł</td>
-<td class="right">21 zł</td>
+<td class="right">4 zł</td>
+<td class="right">40 zł</td>
 </tr>
 
 <tr>
@@ -97,14 +97,12 @@ Uwagi:
 
 <tr>
 <td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
-<td class="right">10 zł</td>
-<td class="right">130 zł</td>
+<td class="right">12 zł</td>
+<td class="right">160 zł</td>
 </tr>
 
 </table>
 
 Zniżki:
 
-- za rejestrację do końca kwietnia: 10% zniżki na pobyt
-- za rejestrację i opłacenie należności do końca maja: 5% zniżki na pobyt
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
