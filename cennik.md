@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cennik 2020
+title: wstępny cennik 2021
 ---
 
 ## Cenniki
