@@ -5,20 +5,18 @@ title: Turnieje
 
 ![przystanek alaska](/public/go.jpg)
 
-## Turnieje główne
+## Turnieje rankingowe
 
 **Turniej Zapoznawczy** (na początku)  
-zasady: klasa B (Fischer 30 min + 10 sekund za ruch), 4 rundy, McMahon, gry równe
+Klasa B (Fischer 30 min + 10 sekund za ruch), 4 rundy, McMahon, gry równe
 
 **Maraton** (1 gra dziennie gdy nie ma innych turniejów)  
-zasady: klasa A (Fischer 45 min + 15 sekund za ruch), 8--10 rund, McMahon, gry równe
+Klasa A (Fischer 45 min + 15 sekund za ruch), 8--10 rund, McMahon, gry równe
 
 **Memoriał Jerzego Sacharewicza** (w środkowy weekend)  
-zasady: klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
+Klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
 
-![przystanek alaska](/public/go_natura.jpg)
-
-## Turnieje niezaliczane do EGF
+## Turnieje rozrywkowe
 
 Turnieje poniżej są rozgrywane systemem 'podwójnej drabinki'. Zaletą tego systemu jest to, iż każda rozegrana gra jest ważna, oraz unika się remisów, które tak często pojawiały się w fazach grupowych.
 

@@ -25,3 +25,10 @@ Tak. LSG oferuje dużo niegoistycznych atrakcji. Dlatego też członkowie rodzin
 
 1. <strong>Czy muszę się rejestrować?</strong><br>
 TAK, KONIECZNIE. Organizator bardzo lubi wiedzieć ile osób może się spodziewać -- dzieki czemu łatwiej mu zorganizować atrakcje i budżet. 
+
+1. **Czy będzie ognisko?**  
+Tak.
+
+1. **A z kiełbaskami?**
+
+![ognisko](/public/ognisko.jpg)

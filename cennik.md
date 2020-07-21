@@ -40,7 +40,7 @@ title: wstępny cennik 2021
 <tr>
 <td>namiot własny (dorosly)</td>
 <td class="right">16 zł</td>
-<td class="right">225zł</td>
+<td class="right">225 zł</td>
 </tr>
 
 <tr>
@@ -78,7 +78,7 @@ Uwagi:
 
 <tr>
 <td>wyżywienie (śniadanie + obiad + kolacja)</td>
-<td class="right">(nieznana, zalezna od cen - aktualizacja 1 maja 2021</td>
+<td class="right">(zależy od cen<br>żywności 1 maja 2021)</td>
 <td class="right">? zł</td>
 
 </tr>
@@ -106,3 +106,5 @@ Uwagi:
 Zniżki:
 
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
+
+![licytacja](/public/licytacja.jpg)

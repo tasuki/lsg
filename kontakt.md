@@ -3,16 +3,18 @@ layout: page
 title: Kontakt
 ---
 
-## Kontakt:
+![simul](/public/simul.jpg)
 
-Główny koordynator rozrywek goistycznych i innych, webmaster:  
+## Kontakty
+
+Główny koordynator programu, rozrywek goistycznych i innych, webmaster:  
 Vít "tasuki" Brunner  
 e-mail: vit.brunner@gmail.com
 
-Główny koordynator noclegów i wyżywienia:  
+Główny koordynator rejestracji, noclegów, i wyżywienia:  
 Jacek "Czifu" Chroboczek  
 e-mail: palaska@poczta.onet.pl
 
-## Bugi i pull requesty:
+## Bugi i pull requesty
 
 [https://github.com/tasuki/lsg](https://github.com/tasuki/lsg)

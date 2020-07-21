@@ -24,3 +24,5 @@ Koszt za samochód (niezależnie od ilości przewożonych osób):
 - Miastko -- 50zł
 - Bytów -- 40zł
 - Tuchomie, Lipnica -- 20zł
+
+![spiwor](/public/spiwor.jpg)

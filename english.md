@@ -17,7 +17,7 @@ The Polish Summer Go Camp is one of the biggest Go events in Europe. It has quit
 
 There's a beautiful lake to swim in, forests to stroll in, horses to ride, and beers to drink. You can sleep in your tent, military tents, or in a cottage. The camp provides an almost-modern kitchen, a big barn rebuilt to a general meeting place and dancing room, clean toilets, showers, audio and karaoke hardware, parking. You can also [see some photos](https://facebook.com/pg/przystanek.alaska.5/photos/).
 
-![przystanek alaska](/public/karaoke.jpg)
+![karaoke](/public/karaoke.jpg)
 
 ## Pricelist
 
@@ -25,7 +25,9 @@ There's a beautiful lake to swim in, forests to stroll in, horses to ride, and b
 
 ## Schedule
 
-... the [schedule is available in Polish](/kalendarz).
+... the [schedule is also available in Polish](/kalendarz).
+
+![balony](/public/balony.jpg)
 
 ## How to register
 
