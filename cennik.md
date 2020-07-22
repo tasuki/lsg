@@ -16,7 +16,7 @@ title: wstępny cennik 2021
 <tr>
 <td>domek</td>
 <td class="right"><sup>[1]</sup> 25 zł</td>
-<td class="right"><sup>[1]</sup> 340 zł</td>
+<td class="right"><sup>[1]</sup> 375 zł</td>
 </tr>
 
 <tr>
@@ -28,19 +28,19 @@ title: wstępny cennik 2021
 <tr>
 <td>namiot własny (dziecko 4-10 lat)</td>
 <td class="right">8 zł</td>
-<td class="right">112 zł</td>
+<td class="right">120 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (uczeń / student do 25 lat)</td>
 <td class="right">13 zł</td>
-<td class="right">182 zł</td>
+<td class="right">195 zł</td>
 </tr>
 
 <tr>
 <td>namiot własny (dorosly)</td>
 <td class="right">16 zł</td>
-<td class="right">225 zł</td>
+<td class="right">240 zł</td>
 </tr>
 
 <tr>
@@ -78,7 +78,7 @@ Uwagi:
 
 <tr>
 <td>wyżywienie (śniadanie + obiad + kolacja)</td>
-<td class="right">(zależy od cen<br>żywności 1 maja 2021)</td>
+<td class="right">(40-44 zł??? -zależy od cen<br>żywności 1 maja 2021)</td>
 <td class="right">? zł</td>
 
 </tr>
@@ -98,13 +98,14 @@ Uwagi:
 <tr>
 <td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
 <td class="right">12 zł</td>
-<td class="right">160 zł</td>
+<td class="right">150 zł</td>
 </tr>
 
 </table>
 
 Zniżki:
-
+-  10% zniżki dla tych co zarejestrują się do 15 maja
+- 5% zniżki dla zarejestrowanych do 15 czerwca
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
 
 ![licytacja](/public/licytacja.jpg)
