@@ -7,10 +7,8 @@ title: Jak się zarejestrować
 Wyślij do organizatora: palaska@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
 > Imię i nazwisko:  
-> Kyu/Dan:   
-> Miasto:  
 > Data pobytu: (od 10.7.2021 (sobota, lipiec!) do 25.7.2021 (niedziela))  
-> Nocleg: (domek, ED (domek o niskim standardzie), namiot własny)  
+> Nocleg: (domek, namiot własny)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege)  
 > Samochod: tak/nie  
 > Inne uwagi: (np nazwiska osób z którymi chce się zająć domek)  
