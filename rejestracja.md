@@ -4,6 +4,9 @@ title: Jak się zarejestrować
 ---
 
 ## Jak się zarejestrować?
+
+Rejestracja od marca 2021!
+
 Wyślij do organizatora: palaska@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
 > Imię i nazwisko:  
