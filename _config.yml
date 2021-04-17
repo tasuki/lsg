@@ -1,3 +1,4 @@
 # Setup
 title: 'LSG 2021'
 description: 'Wszystko Będzie (Dobrze)'
+exclude: vendor
