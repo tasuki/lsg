@@ -3,6 +3,10 @@ layout: page
 title: Jak się zarejestrować
 ---
 
+## A kto tam będzie?
+
+Dla ciekawych, [lista zarejestrowanych](/zarejestrowani)!
+
 ## Jak się zarejestrować?
 
 Rejestracja od marca 2021!
