@@ -104,7 +104,7 @@ Uwagi:
 </table>
 
 Zniżki:
--  10% zniżki dla tych co zarejestrują się do 15 maja
+-  10% zniżki dla tych co zarejestrują się do 25 maja
 - 5% zniżki dla zarejestrowanych do 15 czerwca
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
 
