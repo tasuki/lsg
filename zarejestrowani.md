@@ -13,8 +13,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) -- 4d
 - Marcelina Chojnacka -- 8k
+- Martin Dzieżyc - 8k
 - Hana Bobas Brunner -- 31k
 - Jacek Chroboczek (czifo) -- ng
--srutututu gacie z drutu
+-
 
 Nie ma Cię na liście?  Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
