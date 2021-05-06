@@ -1,6 +1,6 @@
 ---
 layout: page
-title: wstępny cennik 2021
+title:  cennik 2021
 ---
 
 ## Cenniki
@@ -49,6 +49,12 @@ title: wstępny cennik 2021
 <td class="right">worek złota <sup>[2]</sup></td>
 </tr>
 
+<tr>
+<td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
+<td class="right">10 zł</td>
+<td class="right">150 zł</td>
+</tr>
+
 </table>
 
 Uwagi:  
@@ -77,9 +83,15 @@ Uwagi:
 </tr>
 
 <tr>
-<td>wyżywienie (śniadanie + obiad + kolacja)</td>
-<td class="right">(40-44 zł??? -zależy od cen<br>żywności 1 maja 2021)</td>
-<td class="right">? zł</td>
+<td>wyżywienie 42 zł dziennie(śniadanie 10 zł + obiad 21 zł + kolacja 11 zł)</td>
+<td class="right">42 zł</td>
+<td class="right">ca. 600 zł </td>
+
+</tr>
+<tr>
+<td>wyżywienie dzieci  24 zł dziennie(śniadanie 6 zł + obiad  12 zł + kolacja 6 zł)</td>
+<td class="right">24 zł</td>
+<td class="right">ca. 330 zł </td>
 
 </tr>
 
@@ -95,17 +107,13 @@ Uwagi:
 <td class="right">0 zł</td>
 </tr>
 
-<tr>
-<td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
-<td class="right">10 zł</td>
-<td class="right">150 zł</td>
-</tr>
+
 
 </table>
 
 Zniżki:
--  10% zniżki za pobyt dla tych co zarejestrują się do 25 maja
-- 5% zniżki za pobyt dla zarejestrowanych do 15 czerwca
+-  10% zniżki za POBYT dla tych co zarejestrują się do 25 maja
+- 5% zniżki za POBYT dla zarejestrowanych do 15 czerwca
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
 
 ![licytacja](/public/licytacja.jpg)
