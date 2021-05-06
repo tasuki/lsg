@@ -14,7 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
 - Dawid Jurkiewicz (dj) - 3d
-- Anna Sośnicka - Cieśla - 1d
+- Anna Sośnicka - Cieślaj (sosna) - 1d
 - Kacper Cieśla (comboy) - 2k
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
