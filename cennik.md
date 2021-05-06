@@ -53,7 +53,7 @@ title: wstępny cennik 2021
 
 Uwagi:  
 
-1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego, krótszy pobyt -- dogadaj z Czifem.
+1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
 2. Zniżki i promocje nie dotyczą pokoju VIP.
 
 <table>
@@ -104,8 +104,8 @@ Uwagi:
 </table>
 
 Zniżki:
--  10% zniżki dla tych co zarejestrują się do 25 maja
-- 5% zniżki dla zarejestrowanych do 15 czerwca
+-  10% zniżki za pobyt dla tych co zarejestrują się do 25 maja
+- 5% zniżki za pobyt dla zarejestrowanych do 15 czerwca
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
 
 ![licytacja](/public/licytacja.jpg)
