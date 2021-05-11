@@ -31,6 +31,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Wojnarowski - 12k
 - Tomasz Dec - 14k
 - Leszek Koliński - 15k
+- Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
 - Kacper Barcicki - 30k
 - Natalia Kolińska - 30k
@@ -44,7 +45,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Monika Sas- Tomczyk - ng
 - Zosia Tomczyk - ng
 - Staś Jurkiewicz - ng
+- Michał Ślusarczyk - ng
 - Jacek Chroboczek (czifo) - ng
+
 - Aleksander Tytus - ?
 - Wojtek Wajda - ?
 
