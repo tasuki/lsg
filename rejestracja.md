@@ -11,7 +11,7 @@ Dla ciekawych, [lista zarejestrowanych](/zarejestrowani)!
 
 Rejestracja od marca 2021!
 
-Wyślij do organizatora: palaska@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
+Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
 > Imię i nazwisko:  
 > Data pobytu: (od 10.7.2021 (sobota, lipiec!) do 25.7.2021 (niedziela))  
