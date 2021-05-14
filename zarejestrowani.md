@@ -35,6 +35,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Piotr Chojnacki - 12k
 - Tomasz Dec - 14k
 - Leszek Koliński - 15k
+- Aleksander Tytus - 15k
+- Wojtek Wajda - 18k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
 - Kacper Barcicki - 30k
@@ -56,8 +58,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Chojnacka - ng
 - Jacek Chroboczek (czifo) - ng
 
-- Aleksander Tytus - ?
-- Wojtek Wajda - ?
 
 Twoja siła się nie zgadza ? 
 Albo o zgrozo nie ma Cię na liście?   Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
