@@ -14,7 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
 - Cezary Czernecki - 4d
-- Dawid Jurkiewicz (dj) - 3d
+- Dawid Jurkiewicz (dj) - 4d
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
 - Adam Białożyt (kapitan) - 1k
