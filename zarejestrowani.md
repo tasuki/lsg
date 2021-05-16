@@ -14,8 +14,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Stanisław Frejlak (siasio) - 7d
 -  Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
-- Cezary Czernecki (niklas) - 4d
-- Dawid Jurkiewicz (dj) - 3d
+- Cezary Czernecki - 4d
+- Dawid Jurkiewicz (dj) - 4d
 - Jan Frejlak - 1d
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
