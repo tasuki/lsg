@@ -11,10 +11,12 @@ Rejestracja od marca 2021!
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
-- Vít Brunner (tasuki) - 4d
+- Stanisław Frejlak (siasio) - 7d
+-  Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
 - Cezary Czernecki - 4d
 - Dawid Jurkiewicz (dj) - 4d
+- Jan Frejlak - 1d
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
 - Adam Białożyt (kapitan) - 1k
@@ -44,6 +46,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Siwy - 30k
 - Bruno Jadach - 30k
 - Hana Bobas Brunner - 31k
+- Małgorzata Frejlak - ng
 - Magda Ślusarczyk - ng
 - Stanisław Ślusarczyk - ng
 - Sylwia Barcicka (pasqda) - ng
