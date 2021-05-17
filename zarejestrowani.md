@@ -15,7 +15,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 -  Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
 - Cezary Czernecki - 4d
-- Dawid Jurkiewicz (dj) - 4d
+- Dawid Jurkiewicz (didżej) - 4d
+- Marcin Majka (higaki) - 4d
+- Maksym Wałaszewski - 3d
 - Jan Frejlak - 1d
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
@@ -23,22 +25,28 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) - 2k
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
+- Mateusz Szeląg - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Klaus Blumberg - 5k
 - Achim Schultze - 5k
 - Tymek Barcicki - 5k
+- Cyprian Doruch - 5k
+- Wojtek Kaśków - 7k
+- Julia Bednarska - 8k
 - Marcelina Chojnacka - 8k
 - Martin Dzieżyc - 8k
 - Bartek Lisiecki (hino) - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Ewa Biernot - 9k
 - Łukasz Wojnarowski - 12k
 - Piotr Chojnacki - 12k
 - Tomasz Dec - 14k
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
 - Wojtek Wajda - 18k
+- Michał Śliwicki - 20k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
 - Kacper Barcicki - 30k
@@ -59,6 +67,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Ślusarczyk - ng
 - Dorota Chojnacka - ng
 - Marta Chojnacka - ng
+- Orian Rohde - ng
+- Ela Kochanowska - ng
 - Jacek Chroboczek (czifo) - ng
 
 
