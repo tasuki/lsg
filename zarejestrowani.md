@@ -53,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Natalia Kolińska - 30k
 - Adam Siwy - 30k
 - Bruno Jadach - 30k
+- Orian Rohde (orest) - 30k
 - Hana Bobas Brunner - 31k
 - Małgorzata Frejlak - ng
 - Magda Ślusarczyk - ng
@@ -67,7 +68,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Ślusarczyk - ng
 - Dorota Chojnacka - ng
 - Marta Chojnacka - ng
-- Orian Rohde - ng
+
 - Ela Kochanowska - ng
 - Jacek Chroboczek (czifo) - ng
 
