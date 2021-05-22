@@ -15,9 +15,9 @@ Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełnia
 
 > Imię i nazwisko:  
 > Data pobytu: (od 10.7.2021 (sobota, lipiec!) do 25.7.2021 (niedziela))  
-> Siła gracza:
 > Nocleg: (domek, namiot własny,inne)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)  
+> Siła gracza:
 > Samochod: tak/nie  
 > Inne uwagi: (np nazwiska osób z którymi chce się zająć domek)  
 
