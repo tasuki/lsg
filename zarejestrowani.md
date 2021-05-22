@@ -22,6 +22,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
 - Adam Białożyt (kapitan) - 1k
+- Grzegorz Leszczyński - 1k
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
 - Patryk Jełowicki (kolorek) - 3k
@@ -52,6 +53,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojtek Wajda - 18k
 - Zofia Bugaj - 18k
 - Michał Śliwicki - 20k
+- Cyprian Leszczyński - 21k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
 - Kacper Barcicki - 30k
@@ -73,7 +75,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Ślusarczyk - ng
 - Dorota Chojnacka - ng
 - Marta Chojnacka - ng
-
 - Ela Kochanowska - ng
 - Jacek Chroboczek (czifo) - ng
 
