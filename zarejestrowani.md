@@ -25,12 +25,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Leszczyński - 1k
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
+- Łukasz Pater (fan)- 2k
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
 - Mateusz Szeląg - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Pawel Skibiński - 4k
 - Klaus Blumberg - 5k
 - Achim Schultze - 5k
 - Tymek Barcicki - 5k
@@ -38,6 +40,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
 - Wojtek Kaśków - 7k
+- Jakub Gauza (marmez) - 7k
+- Marcel Mroczek - 7k
 - Julia Bednarska - 8k
 - Marcelina Chojnacka - 8k
 - Martin Dzieżyc - 8k
@@ -50,9 +54,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Dec - 14k
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
+- Maria Kluziak - 16k
 - Wojtek Wajda - 18k
 - Zofia Bugaj - 18k
 - Michał Śliwicki - 20k
+- Rufin Gauza (rufin) - 20k
 - Cyprian Leszczyński - 21k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
@@ -76,6 +82,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Dorota Chojnacka - ng
 - Marta Chojnacka - ng
 - Ela Kochanowska - ng
+- Ania C. - ng
+- Inga Gauza - ng
+- Basia Skalska- Pater - ng
 - Jacek Chroboczek (czifo) - ng
 
 
