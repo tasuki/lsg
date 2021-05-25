@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
 - Łukasz Pater (fan)- 2k
+- Grzegorz Sobański (silku) - 2k
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
 - Mateusz Szeląg - 3k
@@ -85,6 +86,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Ania C. - ng
 - Inga Gauza - ng
 - Basia Skalska- Pater - ng
+- Rafal Bzoma (bzyku) - ng
+- Magda Bzoma - ng
 - Jacek Chroboczek (czifo) - ng
 
 
