@@ -18,6 +18,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Dawid Jurkiewicz (didżej) - 4d
 - Marcin Majka (higaki) - 4d
 - Maksym Wałaszewski - 3d
+- Jan Frączak - 2d
 - Jan Frejlak - 1d
 - Anna Sośnicka - Cieślaj (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
@@ -56,8 +57,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
 - Maria Kluziak - 16k
+- Antoni Machowski - 16k
+- Anna Seget - 17k
 - Wojtek Wajda - 18k
 - Zofia Bugaj - 18k
+- Magda Walkiewicz - 18k
 - Michał Śliwicki - 20k
 - Rufin Gauza (rufin) - 20k
 - Cyprian Leszczyński - 21k
