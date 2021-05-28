@@ -24,6 +24,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Mateusz Chojnacki (myszcz) - 1d
 - Adam Białożyt (kapitan) - 1k
 - Grzegorz Leszczyński - 1k
+- Katarzyna Mazurek (kotasia) - 1k albo leniwa buła zalezy czy bedzie grac
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
 - Łukasz Pater (fan)- 2k
@@ -64,14 +65,18 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magda Walkiewicz - 18k
 - Michał Śliwicki - 20k
 - Rufin Gauza (rufin) - 20k
+- Karol Jurkiewicz - 20k
 - Cyprian Leszczyński - 21k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
+- Maria Przybylak - 25k
 - Kacper Barcicki - 30k
 - Natalia Kolińska - 30k
 - Adam Siwy - 30k
 - Bruno Jadach - 30k
 - Orian Rohde (orest) - 30k
+- Jolanta Jurkiewicz - 30k
+- Jerzy Jurkiewicz - 30k
 - Hana Bobas Brunner - 31k
 - Małgorzata Frejlak - ng
 - Magda Ślusarczyk - ng
@@ -92,6 +97,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Basia Skalska- Pater - ng
 - Rafal Bzoma (bzyku) - ng
 - Magda Bzoma - ng
+- Benjamin Williamson - ng
+- Patryk Masiakowski - ng
 - Jacek Chroboczek (czifo) - ng
 
 
