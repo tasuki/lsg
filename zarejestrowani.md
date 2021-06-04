@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Pawel Skibiński - 4k
+- Kuba Miłkowski - 4k
 - Klaus Blumberg - 5k
 - Achim Schultze - 5k
 - Tymek Barcicki - 5k
