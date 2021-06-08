@@ -107,6 +107,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Jola Rapanowicz - ng
 - Katarzyna Kot - ng
 - Paweł Noga (benerit) - ng
+- Łukasz Grabowski (grasiu)- ng 
 - Jacek Chroboczek (czifo) - ng
 
 
