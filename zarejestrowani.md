@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Białożyt (kapitan) - 1k
 - Grzegorz Leszczyński - 1k
 - Katarzyna Mazurek (kotasia) - 1k albo leniwa buła zalezy czy bedzie grac
+- Paweł Frączak (alvar) - 1k
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
 - Łukasz Pater (fan)- 2k
@@ -46,11 +47,13 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojtek Kaśków - 7k
 - Jakub Gauza (marmez) - 7k
 - Marcel Mroczek - 7k
+- Michał Mazur (mazur) - 7k
 - Julia Bednarska - 8k
 - Marcelina Chojnacka - 8k
 - Martin Dzieżyc - 8k
 - Bartek Lisiecki (hino) - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Grzegorz Rapanowicz - 8k
 - Ewa Biernot - 9k
 - Joanna Bugaj - 10k
 - Łukasz Wojnarowski - 12k
@@ -100,6 +103,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magda Bzoma - ng
 - Benjamin Williamson - ng
 - Patryk Masiakowski - ng
+- Jerzy Rapanowicz - ng
+- Jola Rapanowicz - ng
+- Katarzyna Kot - ng
+- Paweł Noga (benerit) - ng
 - Jacek Chroboczek (czifo) - ng
 
 
