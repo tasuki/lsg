@@ -44,6 +44,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Cyprian Doruch - 5k
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
+- Stalinski Emilia - 6k
 - Wojtek Kaśków - 7k
 - Jakub Gauza (marmez) - 7k
 - Marcel Mroczek - 7k
@@ -59,10 +60,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Wojnarowski - 12k
 - Piotr Chojnacki - 12k
 - Tomasz Dec - 14k
+- Stalinski Sven - 14k
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
 - Maria Kluziak - 16k
 - Antoni Machowski - 16k
+- Stalinski Viktor - 16k
 - Anna Seget - 17k
 - Wojtek Wajda - 18k
 - Zofia Bugaj - 18k
@@ -70,6 +73,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Śliwicki - 20k
 - Rufin Gauza (rufin) - 20k
 - Karol Jurkiewicz - 20k
+- Stalinski Felicia - 20k
 - Cyprian Leszczyński - 21k
 - Klaudia Srul - 20-30k
 - Justyna Jurkiewicz - 25k
