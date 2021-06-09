@@ -13,7 +13,7 @@ e-mail: vit.brunner@gmail.com
 
 Główny koordynator rejestracji, noclegów, i wyżywienia:  
 Jacek "Czifu" Chroboczek  
-e-mail: palaska@poczta.onet.pl
+e-mail: chrobjac@poczta.onet.pl
 
 ## Bugi i pull requesty
 

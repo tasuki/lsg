@@ -33,7 +33,7 @@ The venue is a farm remodelled to a camping, inspired by the "Northern Exposure"
 
 ## How to register
 
-Send an email to: palaska@poczta.onet.pl with the following information:
+Send an email to: chrobjac@poczta.onet.pl with the following information:
 
 > Full name:  
 > Staying from/till:  
