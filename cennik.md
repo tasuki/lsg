@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  cennik 2021
+title: Cennik
 ---
 
 ## Cenniki
@@ -107,13 +107,11 @@ Uwagi:
 <td class="right">0 zł</td>
 </tr>
 
-
-
 </table>
 
 Zniżki:
--  10% zniżki za POBYT dla tych co zarejestrują się do 25 maja
-- 5% zniżki za POBYT dla zarejestrowanych do 15 czerwca
+- 10% zniżki za **pobyt** dla tych co zarejestrują się do 25 maja
+- 5% zniżki za **pobyt** dla zarejestrowanych do 15 czerwca
 - dla członków PSG: 50% niższa opłata rejestracyjna za LSG
 
 ![licytacja](/public/licytacja.jpg)
