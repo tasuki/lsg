@@ -22,9 +22,9 @@ Turnieje poniżej są rozgrywane systemem 'podwójnej drabinki'. Zaletą tego sy
 
 - 9&times;9 (Fischer 3 min + 3 sec), handicap
 - Blitz (Fischer 3 min + 3 sec), pełny handicap
-- Torus (Fischer 3 min + 10 sec), komi 2.5
+- Torus (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
 - Rengo (Fischer 10 min + 10 sec), pełny handicap
-- Fantom Go (no weź grajcie szybciej)
+- Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
 
 ![przystanek alaska](/public/drabinka.jpg)
 
