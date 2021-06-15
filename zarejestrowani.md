@@ -33,6 +33,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
 - Mateusz Szeląg - 3k
+- Darek Bednarczyk - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
@@ -42,9 +43,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Achim Schultze - 5k
 - Tymek Barcicki - 5k
 - Cyprian Doruch - 5k
+- Michał Sternik - 5k
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
 - Stalinski Emilia - 6k
+- Paulina Skibińska - 6k
 - Wojtek Kaśków - 7k
 - Jakub Gauza (marmez) - 7k
 - Marcel Mroczek - 7k
@@ -61,8 +64,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Piotr Chojnacki - 12k
 - Tomasz Dec - 14k
 - Stalinski Sven - 14k
+- Adrian Kulhawik - 14k
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
+- Sara Grabowska - 15k
 - Maria Kluziak - 16k
 - Antoni Machowski - 16k
 - Stalinski Viktor - 16k
@@ -112,6 +117,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Katarzyna Kot - ng
 - Paweł Noga (benerit) - ng
 - Łukasz Grabowski (grasiu)- ng 
+- Julita Dzienis - ng
 - Jacek Chroboczek (czifo) - ng
 
 
