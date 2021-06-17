@@ -118,6 +118,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Noga (benerit) - ng
 - Łukasz Grabowski (grasiu)- ng 
 - Julita Dzienis - ng
+- Eliza Nowacka - ng
 - Jacek Chroboczek (czifo) - ng
 
 
