@@ -119,6 +119,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (grasiu)- ng 
 - Julita Dzienis - ng
 - Eliza Nowacka - ng
+- Soren Ohlenbusch - ??
+- Renate Reisenegger - ??
 - Jacek Chroboczek (czifo) - ng
 
 
