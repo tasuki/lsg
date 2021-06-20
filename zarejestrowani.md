@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzegorz Leszczyński - 1k
 - Katarzyna Mazurek (kotasia) - 1k albo leniwa buła zalezy czy bedzie grac
 - Paweł Frączak (alvar) - 1k
+- Robin Stieglitz - 1k
 - Kacper Cieśla (comboy) - 2k
 - Antoni Bugaj - 2k
 - Łukasz Pater (fan)- 2k
