@@ -8,37 +8,37 @@ title: Cennik
 <table>
 
 <tr>
-<th>Noclegi</th>
+<th>Noclegi (osoba/nocka) </th>
 <th class="right">cena za 1 dzień</th>
 <th class="right">cena za calość</th>
 </tr>
 
 <tr>
-<td>domek</td>
+<td>w domku</td>
 <td class="right"><sup>[1]</sup> 25 zł</td>
 <td class="right"><sup>[1]</sup> 375 zł</td>
 </tr>
 
 <tr>
-<td>namiot własny (dziecko do 4 lat)</td>
+<td>we własnym namiocie  (dziecko do 4 lat)</td>
 <td class="right">0 zł</td>
 <td class="right">0 zł</td>
 </tr>
 
 <tr>
-<td>namiot własny (dziecko 4-10 lat)</td>
+<td> we własnym namiocie (dziecko 4-10 lat)</td>
 <td class="right">8 zł</td>
 <td class="right">120 zł</td>
 </tr>
 
 <tr>
-<td>namiot własny (uczeń / student do 25 lat)</td>
+<td> we własnym namiocie (uczeń / student do 25 lat)</td>
 <td class="right">13 zł</td>
 <td class="right">195 zł</td>
 </tr>
 
 <tr>
-<td>namiot własny (dorosly)</td>
+<td>we własnym namiocie (dorosly)</td>
 <td class="right">16 zł</td>
 <td class="right">240 zł</td>
 </tr>
