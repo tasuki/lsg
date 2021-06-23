@@ -123,6 +123,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julita Dzienis - ng
 - Eliza Nowacka - ng
 - Ania Krzywolak (pixel) - ng
+- Kasper Wieczorek - ng
 - Jacek Chroboczek (czifo) - ng
 
 
