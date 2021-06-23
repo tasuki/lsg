@@ -12,16 +12,18 @@ Rejestracja od marca 2021!
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Stanisław Frejlak (siasio) - 7d
--  Vít Brunner (tasuki) - 4d
+- Vít Brunner (tasuki) - 4d
 - Andrew Kay (paladyn) - 4d
+- Soren Ohlenbusch - 4d
 - Cezary Czernecki - 4d
 - Dawid Jurkiewicz (didżej) - 4d
 - Marcin Majka (higaki) - 4d
 - Maksym Wałaszewski - 3d
 - Jan Frączak - 2d
 - Jan Frejlak - 1d
-- Anna Sośnicka - Cieślaj (sosna) - 1d
+- Anna Sośnicka - Cieśla (sosna) - 1d
 - Mateusz Chojnacki (myszcz) - 1d
+- Renate Reisenegger - 1d
 - Adam Białożyt (kapitan) - 1k
 - Grzegorz Leszczyński - 1k
 - Katarzyna Mazurek (kotasia) - 1k albo leniwa buła zalezy czy bedzie grac
@@ -121,8 +123,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Julita Dzienis - ng
 - Eliza Nowacka - ng
 - Ania Krzywolak (pixel) - ng
-- Soren Ohlenbusch - ??
-- Renate Reisenegger - ??
 - Jacek Chroboczek (czifo) - ng
 
 
