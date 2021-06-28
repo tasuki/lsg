@@ -68,6 +68,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Dec - 14k
 - Stalinski Sven - 14k
 - Adrian Kulhawik - 14k
+- Jakub Stasiński - 14k
 - Leszek Koliński - 15k
 - Aleksander Tytus - 15k
 - Sara Grabowska - 15k
