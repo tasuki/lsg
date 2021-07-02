@@ -33,6 +33,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Antoni Bugaj - 2k
 - Łukasz Pater (fan)- 2k
 - Grzegorz Sobański (silku) - 2k
+- Piotr Andryszek - 2k ( o ile znajdzie zakwaterowanie bo namiotu nie kocha.....)
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Obrok (yapee) - 3k
 - Mateusz Szeląg - 3k
