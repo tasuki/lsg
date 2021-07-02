@@ -61,6 +61,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Bartek Lisiecki (hino) - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Grzegorz Rapanowicz - 8k
+- Mariusz Klimczak - 8k
 - Ewa Biernot - 9k
 - Joanna Bugaj - 10k
 - Łukasz Wojnarowski - 12k
@@ -125,6 +126,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Eliza Nowacka - ng
 - Ania Krzywolak (pixel) - ng
 - Kasper Wieczorek - ng
+- Marika Kozłowska - ????
 - Jacek Chroboczek (czifo) - ng
 
 
