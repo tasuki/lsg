@@ -21,8 +21,8 @@ Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez ob
 
 Koszt za samochód (niezależnie od ilości przewożonych osób):
 
-- Miastko -- 50zł
-- Bytów -- 40zł
-- Tuchomie, Lipnica -- 20zł
+- Miastko -- 70zł za jedną i 10 za każdą kolejną osobą
+- Bytów -- 60zł za jedną i 10 za każdą kolejną osobę
+- Tuchomie, Lipnica -- 12zł za jedną i 9 za każdą następną osobę
 
 ![spiwor](/public/spiwor.jpg)
