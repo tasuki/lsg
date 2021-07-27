@@ -3,11 +3,11 @@ layout: page
 title: Wstęp
 ---
 
-# Letnia Szkoła Go 2021
+# Letnia Szkoła Go 2022
 
 ### Memoriał Marcina Zgirskiego
 
-*Kiedy?* &nbsp; 10. -- 25. lipca 2021  
+*Kiedy?* &nbsp; 8. -- 24. lipca 2022  
 *Gdzie?* &nbsp; [Przystanek Alaska](http://www.alaska.sundar.pl/), Gliśno Wielkie, Bory Tucholskie  
 
 Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.

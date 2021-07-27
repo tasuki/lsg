@@ -3,7 +3,16 @@ layout: page
 title: Dawniej
 ---
 
-## Sprzed roku 2015:
+## LSG by Tasuki & Czifo
+
+- [LSG 2021](/2021)
+- [LSG 2020](/2020)
+- [LSG 2019](/2019)
+- [LSG 2019](/2018)
+- [LSG 2019](/2017)
+- [LSG 2019](/2016)
+
+## Zdjęcia sprzed roku 2015:
 
 - <a href="http://yosh.hosted.pl/" target="_blank"> VI LSG -- Gliśno 2005 </a> 
 - <a href="http://shadow.uwm.edu.pl/%7Eyoshi/LSG2006/" target="_blank"> VII LSG (galeria yosha) -- Gliśno 2006 </a> 

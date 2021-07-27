@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Polish Summer Go School 2021
+title: Polish Summer Go School 2022
 ---
 
-# Polish Summer Go School 2021
+# Polish Summer Go School 2022
 
-*When?* &nbsp; 10--25 July 2021  
+*When?* &nbsp; 8--24 July 2022  
 *Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Poland  
 *I'm in, how do I get there?* &nbsp; By car or fly to Gdańsk or Warsaw and take a train/bus/catch a ride with someone!  
 
