@@ -12,7 +12,7 @@ title: Wstęp
 
 Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
 
-![przystanek alaska](/public/palaska.jpg)
+![przystanek alaska](/public/palaska2021.jpg)
 
 Na wyposażeniu gospodarstwa znajdują się:
 

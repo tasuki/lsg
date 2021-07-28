@@ -13,7 +13,7 @@ title: Polish Summer Go School 2022
 Merlijn, Ignus, Ania, Muru, Ajka, Palladin, Andrew, Boris, Martha, Benji, Jun, Żaneta, Kurt, Albert, Gerd, Klaus, Achim, where have you been? We miss you!
 -->
 
-![przystanek alaska](/public/palaska.jpg)
+![przystanek alaska](/public/palaska2021.jpg)
 
 The Polish Summer Go Camp is one of the biggest Go events in Europe. It has quite a different schedule and attractions then the EGC. We organize regular group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
 
