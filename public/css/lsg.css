@@ -1,9 +1,9 @@
 html {
   font-family: "Alegreya Sans", sans-serif;
 }
-.sidebar-about h1, h1, h2, h3 {
+h1, h2, h3, .sidebar h1, .sidebar h2, .sidebar h3 {
   font-family: "Alegreya", serif;
-  font-weight: bold;
+  font-weight: 700;
 }
 h1 { font-size: 2.5rem; margin: 0; }
 h2 { font-size: 2rem; }
@@ -12,20 +12,23 @@ h1 + h3 { margin-top: 0rem; }
 .sidebar { padding: 20px; }
 .sidebar-about { position: relative; }
 .content { padding-top: 2rem; overflow-x: auto; }
+table { font-variant-numeric: lining-nums tabular-nums; }
 th, td { text-align: left; }
 .right { text-align: right; }
+
 
 table.cal {
   color: #000;
   font-size: 16px;
   line-height: 18px;
   table-layout: fixed;
-  border-collapse: collapse-with-precedence;
   min-width: 700px;
 }
 table.cal tr th {
-  border-bottom: 2px double #666;
+  border-bottom: 2px solid #666;
+  width: 50px;
 }
+table.cal th + th { width: auto; }
 table.cal tr td, table.cal tr th {
   background-color: #FFF;
   padding: 5px;
