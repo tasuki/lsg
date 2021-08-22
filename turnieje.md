@@ -21,8 +21,8 @@ Klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
 Turnieje poniżej są rozgrywane systemem 'podwójnej drabinki'. Zaletą tego systemu jest to, iż każda rozegrana gra jest ważna, oraz unika się remisów, które tak często pojawiały się w fazach grupowych.
 
 - Blitz (Fischer 3 min + 3 sec), pełny handicap
-- 9&times;9 (Fischer 3 min + 3 sec), handicap
-- 13&times;13 (Fischer 3 min + 10 sec), handicap
+- 9&times;9 (Fischer 3 min + 3 sec), [handicap 9&times;9](/public/handi/handi-9.pdf)
+- 13&times;13 (Fischer 3 min + 10 sec), [handicap 13&times;13](/public/handi/handi-13.pdf)
 - Torus (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
 - Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
 - Rengo (Fischer 10 min + 10 sec), pełny handicap

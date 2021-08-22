@@ -29,12 +29,12 @@ Chcemy żeby w turniejach podwójnej drabinki grała liczba graczy, która jest 
 - *turniej jest szybki i fajny - namawiamy żeby było jak najwięcej graczy*
 
 ### 9&times;9 ([zapisy](/public/zapisy/zapisy-9.pdf))
-- Fischer 3 min + 3 sec (runda na ~15 minut), handicap (TODO jaki?)
+- Fischer 3 min + 3 sec (runda na ~15 minut), [handicap 9&times;9](/public/handi/handi-9.pdf)
 - podwójna drabinka (do 32 graczy: 10 rund)
 - *turniej jest szybki i fajny - namawiamy żeby było jak najwięcej graczy*
 
 ### 13&times;13 ([zapisy](/public/zapisy/zapisy-13.pdf))
-- Fischer 3 min + 10 sec (runda na ~30 minut), handicap (TODO jaki?)
+- Fischer 3 min + 10 sec (runda na ~30 minut), [handicap 13&times;13](/public/handi/handi-13.pdf)
 - podwójna drabinka (do 16 graczy: 8 rund)
 - *turniej ledwo się mieści - staramy się utrzymać liczbę graczy do 16*
 

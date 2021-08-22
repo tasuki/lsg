@@ -18,7 +18,7 @@ title: Organizacja
 1. Wyciągnij sprzęt:
   - kamyczki w magazynie między tańczącym łosiem i kinem, po lewej stronie, plansza magnetyczna obok
   - gobany u Czifa na chacie, w magazynie za pokojami luksusowymi -- pogadaj z załogą (tutaj też łosie ew jakieś nasze inne rzeczy)
-1. Wydrukuj kalendarz, [pierwszy](/kalendarz-1) i [drugi](/kalendarz-2) tydzień
+1. Wydrukuj kalendarz, [pierwszy](/kalendarz-1) i [drugi](/kalendarz-2) tydzień, powinno być w sam raz na A4.
 1. Zorganizuj [turnieje](/organizacja/turnieje)
 1. Pilnuj zegary przed deszczem, właściciele są na to wraźliwi
 
