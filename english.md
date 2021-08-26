@@ -23,11 +23,11 @@ The venue is a farm remodelled to a camping, inspired by the "Northern Exposure"
 
 ## Pricelist
 
-... the [pricelist is available in Polish](/cennik)! It's dirt cheap -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in around 200 eur.
+... the [pricelist is available in Polish](/cennik) (or with [Google Translate](https://lsg-go-art-pl.translate.goog/cennik?_x_tr_sl=auto&_x_tr_tl=en))! It's dirt cheap -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in around 200 eur.
 
 ## Schedule
 
-... the [schedule is also available in Polish](/kalendarz).
+... the [schedule is also available in Polish](/kalendarz), and also with [Google Translate](https://lsg-go-art-pl.translate.goog/kalendarz?_x_tr_sl=auto&_x_tr_tl=en).
 
 ![balony](/public/balony.jpg)
 
