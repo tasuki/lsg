@@ -1,7 +1,7 @@
 html {
   font-family: "Alegreya Sans", sans-serif;
 }
-h1, h2, h3, .sidebar h1, .sidebar h2, .sidebar h3 {
+h1, h2, h3, .sidebar h3 {
   font-family: "Alegreya", serif;
   font-weight: 700;
 }
@@ -11,6 +11,8 @@ h1 + h3 { margin-top: 0rem; }
 
 .sidebar { padding: 20px; }
 .sidebar-about { position: relative; }
+.sidebar h3 { margin-top: 1rem; margin-bottom: 0; }
+.sidebar a.howto { color: rgba(255,255,255,.3); }
 .content { padding-top: 2rem; overflow-x: auto; }
 table { font-variant-numeric: lining-nums tabular-nums; }
 th, td { text-align: left; }
