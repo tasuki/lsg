@@ -15,8 +15,8 @@ title: Cennik
 
 <tr>
 <td>w domku</td>
-<td class="right"><sup>[1]</sup> 25 zł</td>
-<td class="right"><sup>[1]</sup> 375 zł</td>
+<td class="right"><sup>[1]</sup> ? zł</td>
+<td class="right"><sup>[1]</sup> ? zł</td>
 </tr>
 
 <tr>
@@ -27,20 +27,20 @@ title: Cennik
 
 <tr>
 <td> we własnym namiocie (dziecko 4-10 lat)</td>
-<td class="right">8 zł</td>
-<td class="right">120 zł</td>
+<td class="right">? zł</td>
+<td class="right">? zł</td>
 </tr>
 
 <tr>
 <td> we własnym namiocie (uczeń / student do 25 lat)</td>
-<td class="right">13 zł</td>
-<td class="right">195 zł</td>
+<td class="right">? zł</td>
+<td class="right">? zł</td>
 </tr>
 
 <tr>
 <td>we własnym namiocie (dorosly)</td>
-<td class="right">16 zł</td>
-<td class="right">240 zł</td>
+<td class="right">? zł</td>
+<td class="right">? zł</td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ title: Cennik
 </table>
 
 Uwagi:  
-
+0. ceny jak i otwarcie rejestracji w marcu. czasy dziwne.....
 1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
 2. Zniżki i promocje nie dotyczą pokoju VIP.
 
@@ -72,26 +72,26 @@ Uwagi:
 
 <tr>
 <td>opłata za LSG (dziecko / student do 25 lat)</td>
-<td class="right">6 zł</td>
-<td class="right">60 zł</td>
+<td class="right">? zł</td>
+<td class="right">? zł</td>
 </tr>
 
 <tr>
 <td>opłata za LSG (dorosły)</td>
-<td class="right">12 zł</td>
-<td class="right">120 zł</td>
+<td class="right">? zł</td>
+<td class="right">? zł</td>
 </tr>
 
 <tr>
-<td>wyżywienie 42 zł dziennie(śniadanie 10 zł + obiad 21 zł + kolacja 11 zł)</td>
-<td class="right">42 zł</td>
-<td class="right">ca. 600 zł </td>
+<td>wyżywienie ? zł dziennie(śniadanie ? zł + obiad ? zł + kolacja ? zł)</td>
+<td class="right">? zł</td>
+<td class="right">ca. ? zł </td>
 
 </tr>
 <tr>
-<td>wyżywienie dzieci  24 zł dziennie(śniadanie 6 zł + obiad  12 zł + kolacja 6 zł)</td>
-<td class="right">24 zł</td>
-<td class="right">ca. 330 zł </td>
+<td>wyżywienie dzieci  ? zł dziennie(śniadanie ? zł + obiad  ? zł + kolacja ? zł)</td>
+<td class="right">? zł</td>
+<td class="right">ca. ? zł </td>
 
 </tr>
 
@@ -110,8 +110,8 @@ Uwagi:
 </table>
 
 Zniżki:
-- 10% zniżki za **pobyt** dla tych co zarejestrują się do 25 maja
+- 10% zniżki za **pobyt** dla tych co zarejestrują się do 15 maja
 - 5% zniżki za **pobyt** dla zarejestrowanych do 15 czerwca
-- dla członków PSG: 50% niższa opłata rejestracyjna za LSG
+- dla członków PSG: ? niższa opłata rejestracyjna za LSG
 
 ![licytacja](/public/licytacja.jpg)
