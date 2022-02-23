@@ -13,7 +13,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) - 4d
 - Marcelina Chojnacka - 8k
+- Grzesiek Rapanowicz - 8k
 - Hana Bobas Brunner - 31k
+- Jolanta Rapanowicz - ng
 - Jacek Chroboczek (czifo) - ng
 
 
