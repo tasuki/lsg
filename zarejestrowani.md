@@ -13,17 +13,24 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) - 4d
 - Tymek Barcicki (szkielet) - 3k
+- Paweł Obrok (yapee) - 3k
+- Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Kacper Barcicki (czaszka) - 26k
+- Natalia Kolińska - 30k
 - Hana Bobas Brunner - 31k
 - Jolanta Rapanowicz - ng
 - Sylwia Barcicka (pasqda) - ng
 - Joanna Długosz - ng?
 - Magda Ślusarczyk - ng
 - Stanisław Ślusarczyk - ng
+- Leszek Koliński - ng
+- Marta Szeredy-Kolińska - ng
+- Antek Koliński -ng
+- Stasio Koliński - ng
 - Jacek Chroboczek (czifo) - ng
 
 
