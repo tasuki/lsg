@@ -12,10 +12,12 @@ Rejestracja od marca 2022!
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) - 4d
+- Darek Bednarczyk - 2k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
+- Paulina Skibińska - 5k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
@@ -31,6 +33,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Szeredy-Kolińska - ng
 - Antek Koliński -ng
 - Stasio Koliński - ng
+- Wojtek Bednarczyk - ng
 - Jacek Chroboczek (czifo) - ng
 
 
