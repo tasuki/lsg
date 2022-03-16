@@ -18,9 +18,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
 - Paulina Skibińska - 5k
+- Michał Mazur (mazur) - 6k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Tomasz Dec - 13k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
 - Hana Bobas Brunner - 31k
