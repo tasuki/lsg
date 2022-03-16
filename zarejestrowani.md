@@ -36,6 +36,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Antek Koliński -ng
 - Stasio Koliński - ng
 - Wojtek Bednarczyk - ng
+- Magda Bzoma - ng
+- Rafał Bzoma (bzyk) - ng
 - Jacek Chroboczek (czifo) - ng
 
 
