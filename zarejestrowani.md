@@ -12,7 +12,10 @@ Rejestracja od marca 2022!
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Vít Brunner (tasuki) - 4d
+- Anna Sośnicka- Cieśla (sosna) - 1d
+- Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
+- Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
 - Małgorzata Palej (shaa) - 4k
@@ -23,8 +26,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Tomasz Dec - 13k
+- Aleksander Tytus - 14k
+- Wojtek Wajda - 18k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
+- Kacper Sławski - 30k
+- Borys Owczarzak - 30k
 - Hana Bobas Brunner - 31k
 - Jolanta Rapanowicz - ng
 - Sylwia Barcicka (pasqda) - ng
@@ -39,6 +46,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magda Bzoma - ng
 - Rafał Bzoma (bzyk) - ng
 - Łukasz Grabowski (grasiu) - ng
+- Tomaszek Cieśla - ng
+- Basia Cieśla - ng
 - Jacek Chroboczek (czifo) - ng
 
 
