@@ -28,6 +28,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
 - Wojtek Wajda - 18k
+- Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
 - Kacper Sławski - 30k
@@ -48,6 +49,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (grasiu) - ng
 - Tomaszek Cieśla - ng
 - Basia Cieśla - ng
+- Michał Ślusarczyk - ng
 - Jacek Chroboczek (czifo) - ng
 
 
