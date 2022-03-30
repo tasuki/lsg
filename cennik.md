@@ -5,109 +5,30 @@ title: Cennik
 
 ## Cenniki
 
-<table>
+Ceny jak i otwarcie rejestracji w marcu. Czasy dziwne...
 
-<tr>
-<th>Noclegi (osoba/nocka) </th>
-<th class="right">cena za 1 dzień</th>
-<th class="right">cena za calość</th>
-</tr>
-
-<tr>
-<td>w domku</td>
-<td class="right"><sup>[1]</sup> ? zł</td>
-<td class="right"><sup>[1]</sup> ? zł</td>
-</tr>
-
-<tr>
-<td>we własnym namiocie  (dziecko do 4 lat)</td>
-<td class="right">0 zł</td>
-<td class="right">0 zł</td>
-</tr>
-
-<tr>
-<td> we własnym namiocie (dziecko 4-10 lat)</td>
-<td class="right">? zł</td>
-<td class="right">? zł</td>
-</tr>
-
-<tr>
-<td> we własnym namiocie (uczeń / student do 25 lat)</td>
-<td class="right">? zł</td>
-<td class="right">? zł</td>
-</tr>
-
-<tr>
-<td>we własnym namiocie (dorosly)</td>
-<td class="right">? zł</td>
-<td class="right">? zł</td>
-</tr>
-
-<tr>
-<td>pokoj VIP (2 osobowy)</td>
-<td class="right">nie dotyczy</td>
-<td class="right">worek złota <sup>[2]</sup></td>
-</tr>
-
-<tr>
-<td>pobyt dzienny (dla mieszkających gdzie indziej)</td>
-<td class="right">10 zł</td>
-<td class="right">150 zł</td>
-</tr>
-
-</table>
+| Noclegi (osoba/nocka)                           | cena za 1 dzień | cena za calość  |
+| ----------------------------------------------- | --------------: | --------------: |
+| w domku                                         | [1]        ? zł | [1]        ? zł |
+| we własnym namiocie (dziecko do 4 lat)          |            0 zł |            0 zł |
+| we własnym namiocie (dziecko 4-10 lat)          |            ? zł |            ? zł |
+| we własnym namiocie (uczeń / student do 25 lat) |            ? zł |            ? zł |
+| we własnym namiocie (dorosly)                   |            ? zł |            ? zł |
+| pokoj VIP (2 osobowy)                           |     nie dotyczy | [2] worek złota |
+| pobyt dzienny (dla mieszkających gdzie indziej) |           10 zł |          150 zł |
 
 Uwagi:  
-0. ceny jak i otwarcie rejestracji w marcu. czasy dziwne.....
 1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
 2. Zniżki i promocje nie dotyczą pokoju VIP.
 
-<table>
-
-<tr>
-<th>LSG/Wyżywienie/Samochody/Zwierzęta</th>
-<th class="right">cena za 1 dzień</th>
-<th class="right">cena za całość</th>
-</tr>
-
-<tr>
-<td>opłata za LSG (dziecko / student do 25 lat)</td>
-<td class="right">? zł</td>
-<td class="right">? zł</td>
-</tr>
-
-<tr>
-<td>opłata za LSG (dorosły)</td>
-<td class="right">? zł</td>
-<td class="right">? zł</td>
-</tr>
-
-<tr>
-<td>wyżywienie ? zł dziennie(śniadanie ? zł + obiad ? zł + kolacja ? zł)</td>
-<td class="right">? zł</td>
-<td class="right">ca. ? zł </td>
-
-</tr>
-<tr>
-<td>wyżywienie dzieci  ? zł dziennie(śniadanie ? zł + obiad  ? zł + kolacja ? zł)</td>
-<td class="right">? zł</td>
-<td class="right">ca. ? zł </td>
-
-</tr>
-
-<tr>
-<td>motor/samochód</td>
-<td class="right">4 zł</td>
-<td class="right">40 zł</td>
-</tr>
-
-<tr>
-<td>zwierzaki, łącznie ze słoniami i wielorybami</td>
-<td class="right">0 zł</td>
-<td class="right">0 zł</td>
-</tr>
-
-</table>
+| LSG/Wyżywienie/Samochody/Zwierzęta                                             | cena za 1 dzień | cena za całość |
+| ------------------------------------------------------------------------------ | --------------: | -------------: |
+| opłata za LSG (dziecko / student do 25 lat)                                    |            ? zł |           ? zł |
+| opłata za LSG (dorosły)                                                        |            ? zł |           ? zł |
+| wyżywienie ? zł dziennie (śniadanie ? zł + obiad ? zł + kolacja ? zł)          |            ? zł |       ca. ? zł |
+| wyżywienie dzieci  ? zł dziennie (śniadanie ? zł + obiad  ? zł + kolacja ? zł) |            ? zł |       ca. ? zł |
+| motor/samochód                                                                 |            4 zł |          40 zł |
+| zwierzaki, łącznie ze słoniami i wielorybami                                   |            0 zł |           0 zł |
 
 Zniżki:
 - 10% zniżki za **pobyt** dla tych co zarejestrują się do 15 maja

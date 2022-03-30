@@ -5,24 +5,11 @@ title: Organizacja turniejów
 
 Mamy [info publiczne o turniejach](/turnieje). Oprócz tego, tutaj jest lista szczegółów dotyczących konkretnych turniejów. Drabinki pojedynczej oraz podwójnej eliminacji:
 
-<table>
-<tr>
-<th>Pojedyncza eliminacja</th>
-<th>Podwójna eliminacja</th>
-</tr>
-<tr>
-<td><a href="/public/drabinki/single-elim-08.pdf">08 graczy (3 rundy)</a></td>
-<td><a href="/public/drabinki/double-elim-08.pdf">08 graczy (6 rund)</a></td>
-</tr>
-<tr>
-<td><a href="/public/drabinki/single-elim-16.pdf">16 graczy (4 rundy)</a></td>
-<td><a href="/public/drabinki/double-elim-16.pdf">16 graczy (7 rund)</a></td>
-</tr>
-<tr>
-<td><a href="/public/drabinki/single-elim-32.pdf">32 graczy (5 rund)</a></td>
-<td><a href="/public/drabinki/double-elim-32.pdf">32 graczy (9 rund)</a></td>
-</tr>
-</table>
+| Pojedyncza eliminacja                                      | Podwójna eliminacja                                       |
+| ---------------------------------------------------------- | --------------------------------------------------------- |
+| [08 graczy (3 rundy)](/public/drabinki/single-elim-08.pdf) | [08 graczy (6 rund)](/public/drabinki/double-elim-08.pdf) |
+| [16 graczy (4 rundy)](/public/drabinki/single-elim-16.pdf) | [16 graczy (7 rund)](/public/drabinki/double-elim-16.pdf) |
+| [32 graczy (7 rundy)](/public/drabinki/single-elim-32.pdf) | [32 graczy (9 rund)](/public/drabinki/double-elim-32.pdf) |
 
 Mamy tabelki zapisów [do 16](/public/zapisy/ogolne-zapisy-16.pdf) oraz [do 32](/public/zapisy/ogolne-zapisy-32.pdf) osób. Oprócz tego poszczególne tabelki zapisów poniżej.
 
