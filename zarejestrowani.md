@@ -49,7 +49,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (grasiu) - ng
 - Tomaszek Cieśla - ng
 - Basia Cieśla - ng
-- Michał Ślusarczyk - ng
+- Michał Ślusarczyk - ng 
+- Kinga Lisiecka-Garbaczewska - ng
 - Jacek Chroboczek (czifo) - ng
 
 
