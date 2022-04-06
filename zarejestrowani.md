@@ -11,10 +11,13 @@ Rejestracja od marca 2022!
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
+- Cezary Czernecki (nickless) - d
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka- Cieśla (sosna) - 1d
+- Łukasz Pater (fan) - 1k
 - Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
+- Katarzyna Mazurek (kotasia) - 2k
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
@@ -25,6 +28,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Bartek Lisiecki (hino) - k
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
 - Wojtek Wajda - 18k
@@ -51,6 +55,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Basia Cieśla - ng
 - Michał Ślusarczyk - ng 
 - Kinga Lisiecka-Garbaczewska - ng
+- Barbara Skalska-Pater - ng
 - Jacek Chroboczek (czifo) - ng
 
 
