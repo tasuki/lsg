@@ -11,7 +11,7 @@ Rejestracja od marca 2022!
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
-- Cezary Czernecki (nickless) - 4d
+- Cezary Czernecki - 4d
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
