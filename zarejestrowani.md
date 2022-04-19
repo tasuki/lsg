@@ -30,6 +30,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- January Chlebowicz - 10k
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
 - Wojtek Wajda - 18k
