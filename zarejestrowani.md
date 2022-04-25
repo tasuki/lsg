@@ -24,6 +24,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapee) - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
+- Klaus Blumberg - 5k
+- Achim Schulze - 5k
 - Paulina Skibińska - 5k
 - Michał Mazur (mazur) - 6k
 - Bartek Lisiecki (hino) - 7k
@@ -59,6 +61,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kinga Lisiecka-Garbaczewska - ng
 - Barbara Skalska-Pater - ng
 - Małgorzata Frejlak - ng
+- Orian Rohde - ng
 - Jacek Chroboczek (czifo) - ng
 
 
