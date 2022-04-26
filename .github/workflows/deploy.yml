@@ -1,0 +1,24 @@
+name: Deploy teh website
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+          ref: 'master'
+      - uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          if_key_exists: fail # replace / ignore / fail; optional (defaults to fail)
+      - run: |
+          git config user.name vit.brunner
+          git config user.email vit.brunner@gmail.com
+          git remote add prod ssh://deploy_lsg@lsg.tasuki.org:678/var/git/pl.art.go/lsg
+          git push prod
