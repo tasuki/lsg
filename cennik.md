@@ -9,11 +9,11 @@ Ceny jak i otwarcie rejestracji w marcu. Czasy dziwne...
 
 | Noclegi (osoba/nocka)                           | cena za 1 dzień | cena za calość  |
 | ----------------------------------------------- | --------------: | --------------: |
-| w domku                                         | [1]       26 zł |          350 zł |
+| w domku                                         | [1]       26 zł |          360 zł |
 | we własnym namiocie (dziecko do 4 lat)          |            0 zł |            0 zł |
-| we własnym namiocie (dziecko 4-10 lat)          |            9 zł |          125 zł |
-| we własnym namiocie (uczeń / student do 25 lat) |           14 zł |          195 zł |
-| we własnym namiocie (dorosly)                   |           19 zł |          265 zł |
+| we własnym namiocie (dziecko 4-10 lat)          |            9 zł |          135 zł |
+| we własnym namiocie (uczeń / student do 25 lat) |           14 zł |          210 zł |
+| we własnym namiocie (dorosly)                   |           19 zł |          280 zł |
 | pokoj VIP (2 osobowy)                           |     nie dotyczy | [2] worek złota |
 | pobyt dzienny (dla mieszkających gdzie indziej) |           10 zł |          140 zł |
 
