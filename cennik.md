@@ -23,8 +23,8 @@ Uwagi:
 
 | LSG/Wyżywienie/Samochody/Zwierzęta                                             | cena za 1 dzień | cena za całość |
 | ------------------------------------------------------------------------------ | --------------: | -------------: |
-| opłata za LSG (dziecko / student do 25 lat)                                    |            ? zł |           ? zł |
-| opłata za LSG (dorosły)                                                        |            ? zł |           ? zł |
+| opłata za LSG (dziecko / student do 25 lat)                                    |            5 zł |          50 zł |
+| opłata za LSG (dorosły)                                                        |           15 zł |         150 zł |
 | wyżywienie ? zł dziennie (śniadanie ? zł + obiad ? zł + kolacja ? zł)          |            ? zł |       ca. ? zł |
 | wyżywienie dzieci  ? zł dziennie (śniadanie ? zł + obiad  ? zł + kolacja ? zł) |            ? zł |       ca. ? zł |
 | motor/samochód                                                                 |            4 zł |          40 zł |
