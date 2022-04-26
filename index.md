@@ -7,7 +7,7 @@ title: Wstęp
 
 ### Memoriał Marcina Zgirskiego
 
-*Kiedy?* &nbsp; 8. -- 24. lipca 2022  
+*Kiedy?* &nbsp; 9. -- 24. lipca 2022  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Bory Tucholskie  
 
 Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
