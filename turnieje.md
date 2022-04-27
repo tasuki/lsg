@@ -20,7 +20,7 @@ Klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
 
 Turnieje rozrywkowe są w większości rozgrywane systemem podwójnej drabinki.
 
-- [Kame no Blitz](https://docs.google.com/spreadsheets/d/1zbl8O6A_GIixd_r_cRVSRt_fwAvCIj6I1qBB_N_V7yk/edit) (Fischer 1 min + 5 sec), pełny handicap, (system szwajcarski, nie podwójna drabinka)
+- [Kame no Blitz](https://docs.google.com/spreadsheets/d/1zbl8O6A_GIixd_r_cRVSRt_fwAvCIj6I1qBB_N_V7yk/edit) (Fischer 1 min + 5 sec), pełny handicap, 8 rund, system szwajcarski
 - 9&times;9 (Fischer 3 min + 3 sec), [handicap 9&times;9](/public/handi/handi-9.pdf)
 - 13&times;13 (Fischer 3 min + 10 sec), [handicap 13&times;13](/public/handi/handi-13.pdf)
 - Torus (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
