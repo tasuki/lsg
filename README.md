@@ -6,25 +6,21 @@ https://lsg.go.art.pl/
 Setup
 -----
 
-Kiedyś było GitHub pages, otóż już jest bardziej skomplikowane...
+Wymaga Ruby/Bundler (na Jekylla), reStructuredText (na budowę kalendarza), oraz BeautifulSoup (na post-processing kalendarza).
 
-Wymaga Ruby/Bundler oraz reStructuredText. Na Debianach można zainstalować następująco:
+Na Debianach można zainstalować następująco:
 
 	sudo apt-get install bundler python3-docutils python3-bs4
-
-Potem zainstalować Jekylla:
-
 	bundle install --path vendor/bundle
-	bundle exec jekyll serve
 
 Develop
 -------
 
-Bardziej reproducible będzie zainstalować przez Ruby/bundler. W Debianach:
+Kalendarz robi reStructuredText z rzeczy w `calendar/`, jekyll servuje. Wszystko można uruchomić:
 
-	sudo apt-get install bundler
+	make develop
 
-Potem zainstalować Jekylla:
+Deploy
+------
 
-	bundle install --path vendor/bundle
-	bundle exec jekyll serve
+GitHub actions robi push na produkcje, gdzie `make publish` robi update.
