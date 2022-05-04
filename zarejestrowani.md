@@ -68,6 +68,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Orian Rohde - ng
 - Katarzyna Szychowiak - ng
 - Staś Jurkiewicz - ng
+- Łukasz Grabowski (grasiu) - ng
 - Jacek Chroboczek (czifo) - ng
 
 
