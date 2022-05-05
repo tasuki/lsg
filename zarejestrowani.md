@@ -69,6 +69,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Katarzyna Szychowiak - ng
 - Staś Jurkiewicz - ng
 - Łukasz Grabowski (grasiu) - ng
+- Julia Środoń - ng
 - Jacek Chroboczek (czifo) - ng
 
 
