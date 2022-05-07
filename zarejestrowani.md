@@ -40,6 +40,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Aleksander Tytus - 14k
 - Wojtek Wajda - 18k
 - Justyna Jurkiewicz - 20k
+- Magda Walkiewicz - 20k
 - Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
@@ -70,6 +71,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Staś Jurkiewicz - ng
 - Łukasz Grabowski (grasiu) - ng
 - Julia Środoń - ng
+- Eliza Nowacka - ng
 - Jacek Chroboczek (czifo) - ng
 
 
