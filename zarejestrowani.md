@@ -13,12 +13,15 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Cezary Czernecki - 4d
 - Vít Brunner (tasuki) - 4d
+- Dawid Jurkiewicz (deejay) - 4d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
 - Łukasz Pater (fan) - 1k
 - Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
 - Katarzyna Mazurek (kotasia) - 2k
+- Marianna Szychowiak - 2k
+- Wojciech Szychowiak - 2k
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
@@ -36,6 +39,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
 - Wojtek Wajda - 18k
+- Justyna Jurkiewicz - 20k
+- Magda Walkiewicz - 20k
 - Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
@@ -62,6 +67,11 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Barbara Skalska-Pater - ng
 - Małgorzata Frejlak - ng
 - Orian Rohde - ng
+- Katarzyna Szychowiak - ng
+- Staś Jurkiewicz - ng
+- Łukasz Grabowski (grasiu) - ng
+- Julia Środoń - ng
+- Eliza Nowacka - ng
 - Jacek Chroboczek (czifo) - ng
 
 
