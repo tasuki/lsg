@@ -17,6 +17,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
 - Łukasz Pater (fan) - 1k
+- Adam Białożyt (captain) - 1k
+- Antoni Bugaj - 1k
 - Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
 - Katarzyna Mazurek (kotasia) - 2k
@@ -25,19 +27,24 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
+- Patryk Jełowicki (kolorek) - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
 - Klaus Blumberg - 5k
 - Achim Schulze - 5k
 - Paulina Skibińska - 5k
 - Michał Mazur (mazur) - 6k
+- Robert Bugaj - 6k
 - Bartek Lisiecki (hino) - 7k
+- Jakub Gauza (marmez) - 7k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Joanna Bugaj - 9k
 - January Chlebowicz - 10k
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
+- Zofia Bugaj - 17k
 - Wojtek Wajda - 18k
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
@@ -72,6 +79,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Grabowski (grasiu) - ng
 - Julia Środoń - ng
 - Eliza Nowacka - ng
+- Anna Cichocka - ng
+- Rufin Gauza - ng
+- Inga Gauza - ng
 - Jacek Chroboczek (czifo) - ng
 
 
