@@ -59,7 +59,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojtek Bednarczyk - ng
 - Magda Bzoma - ng
 - Rafał Bzoma (bzyk) - ng
-- Łukasz Grabowski (grasiu) - ng
 - Tomaszek Cieśla - ng
 - Basia Cieśla - ng
 - Michał Ślusarczyk - ng 
