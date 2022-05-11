@@ -19,6 +19,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Łukasz Pater (fan) - 1k
 - Adam Białożyt (captain) - 1k
 - Antoni Bugaj - 1k
+- Robin Stieglitz - 1k
 - Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
 - Katarzyna Mazurek (kotasia) - 2k
