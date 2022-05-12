@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Katarzyna Mazurek (kotasia) - 2k
 - Marianna Szychowiak - 2k
 - Wojciech Szychowiak - 2k
+- Piotr Andryszek - 2k
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
