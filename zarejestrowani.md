@@ -47,14 +47,17 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
 - Zofia Bugaj - 17k
+- Martyna Szalecka - 17k
 - Wojtek Wajda - 18k
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
+- Kasper Wieczorek - 20k
 - Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
 - Kacper Sławski - 30k
 - Borys Owczarzak - 30k
+- Kamil Szalecki - 30k
 - Hana Bobas Brunner - 31k
 - Jolanta Rapanowicz - ng
 - Sylwia Barcicka (pasqda) - ng
