@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marianna Szychowiak - 2k
 - Wojciech Szychowiak - 2k
 - Piotr Andryszek - 2k
+- Grzegorz Sobański (silk) - 2k
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
@@ -37,8 +38,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paulina Skibińska - 5k
 - Michał Mazur (mazur) - 6k
 - Robert Bugaj - 6k
+- Daria Kwietniewska - 6k
 - Bartek Lisiecki (hino) - 7k
 - Jakub Gauza (marmez) - 7k
+- Wojciech Kaśkow - 7k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
