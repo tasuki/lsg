@@ -36,6 +36,8 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Klaus Blumberg - 5k
 - Achim Schulze - 5k
 - Paulina Skibińska - 5k
+- Emilia Stalinski - 5k
+- Marcin Kulczycki - 5k
 - Michał Mazur (mazur) - 6k
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
@@ -47,8 +49,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Ślusarczyk (oro) - 8k
 - Joanna Bugaj - 9k
 - January Chlebowicz - 10k
+- Adam Walkiewicz - 11k
+- Viktor Stalinski - 12k
 - Tomasz Dec - 13k
 - Aleksander Tytus - 14k
+- Sven Stalinski - 15k
+- Felicia Stalinski - 16k
 - Zofia Bugaj - 17k
 - Martyna Szalecka - 17k
 - Wojtek Wajda - 18k
@@ -90,6 +96,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Cichocka - ng
 - Rufin Gauza - ng
 - Inga Gauza - ng
+- Lidia Sanchez - ng
 - Jacek Chroboczek (czifo) - ng
 
 
