@@ -57,6 +57,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Felicia Stalinski - 16k
 - Zofia Bugaj - 17k
 - Martyna Szalecka - 17k
+- Natalia Klamecka - 17k
 - Wojtek Wajda - 18k
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
