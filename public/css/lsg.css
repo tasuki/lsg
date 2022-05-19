@@ -26,6 +26,7 @@ table.cal {
   table-layout: fixed;
   min-width: 700px;
 }
+table.cal, table.cal td, table.cal th { border: 1px solid #CCC; }
 table.cal tr th {
   border-bottom: 2px solid #666;
   width: 50px;
@@ -36,10 +37,6 @@ table.cal tr td, table.cal tr th {
   padding: 5px;
   text-align: center;
 }
-table.cal td.food,
-table.cal td.play,
-table.cal td.learn,
-table.cal td.other { border: 1px double #666; }
 table.cal .food  { background-color: #F4CCCC; }
 table.cal .play  { background-color: #FFF2CC; }
 table.cal .learn { background-color: #D9EAD3; }
