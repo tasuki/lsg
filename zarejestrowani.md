@@ -52,12 +52,12 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Walkiewicz - 11k
 - Viktor Stalinski - 12k
 - Tomasz Dec - 13k
+- - Natalia Klamecka - 13k
 - Aleksander Tytus - 14k
 - Sven Stalinski - 15k
 - Felicia Stalinski - 16k
 - Zofia Bugaj - 17k
 - Martyna Szalecka - 17k
-- Natalia Klamecka - 17k
 - Wojtek Wajda - 18k
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
