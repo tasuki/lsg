@@ -12,7 +12,7 @@ title: Organizacja
 1. Dogadaj organizację turniejów goistycznych (darmowy pobyt + wyżywienie), Silk i Ewa umieją świetnie to ogarnąć
 1. Roku 2021 na LSG zostało 28 zestawów: kamyczki chińskie plastikowe + plansze.
 1. Pogadaj z Czifem, obczaj ile będzie ludzi i dogadaj zegary DGT, które umieją Fischera (Maksym Prezes ma ich 8, Marcin Tylda 6, DJ 4, Poznań też trochę)... ogólnie ludzie mogą grać też bez zegarów luz
-1. Zamów nagrody: planszówki, [e-go.pl](http://e-go.pl/)
+1. Zamów nagrody: planszówki, [e-go.pl](https://e-go.pl/)
 
 ## Co zrobić na początku/podczas LSG?
 1. Wyciągnij sprzęt:
