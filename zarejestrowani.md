@@ -56,6 +56,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - - Natalia Klamecka - 13k
 - Aleksander Tytus - 14k
 - Sven Stalinski - 15k
+- Jan Opawski - 15k
 - Felicia Stalinski - 16k
 - Zofia Bugaj - 17k
 - Martyna Szalecka - 17k
