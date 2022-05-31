@@ -11,6 +11,7 @@ Rejestracja od marca 2022!
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
+- Stanisław Frejlak (sasio) - 1 dan pro
 - Cezary Czernecki - 4d
 - Vít Brunner (tasuki) - 4d
 - Dawid Jurkiewicz (deejay) - 4d
