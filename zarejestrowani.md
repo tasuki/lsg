@@ -101,6 +101,15 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Rufin Gauza - ng
 - Inga Gauza - ng
 - Lidia Sanchez - ng
+- Radosław Jachym - ng
+- Anna Jachym - ng
+- Robert Jachym - ng
+- Mateusz Jachym - ng
+- Karolina Jachym - ng
+- Kasia Chwedyna - ng
+- Kamil Chwedyna (fisz) - ng
+- Hania Chwedyna - ng
+- Marianna Chwedyna - ng
 - Jacek Chroboczek (czifo) - ng
 
 
