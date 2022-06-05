@@ -54,7 +54,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Adam Walkiewicz - 11k
 - Viktor Stalinski - 12k
 - Tomasz Dec - 13k
-- - Natalia Klamecka - 13k
+- Natalia Klamecka - 13k
 - Aleksander Tytus - 14k
 - Sven Stalinski - 15k
 - Jan Opawski - 15k
