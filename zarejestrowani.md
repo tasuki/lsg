@@ -65,6 +65,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
 - Kasper Wieczorek - 20k
+- Maria Przybylak - 20k
 - Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
@@ -110,6 +111,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kamil Chwedyna (fisz) - ng
 - Hania Chwedyna - ng
 - Marianna Chwedyna - ng
+- Patryk Masiakowski - ng
 - Jacek Chroboczek (czifo) - ng
 
 
