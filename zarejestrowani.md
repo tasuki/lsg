@@ -112,6 +112,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Hania Chwedyna - ng
 - Marianna Chwedyna - ng
 - Patryk Masiakowski - ng
+- Emilia Zaremba - ng
 - Jacek Chroboczek (czifo) - ng
 
 
