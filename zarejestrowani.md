@@ -15,6 +15,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Cezary Czernecki - 4d
 - Vít Brunner (tasuki) - 4d
 - Dawid Jurkiewicz (deejay) - 4d
+- Marcin Majka (higaki) - 4d
 - Łukasz Lew - 2d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
