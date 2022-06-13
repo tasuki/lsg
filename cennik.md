@@ -5,8 +5,6 @@ title: Cennik
 
 ## Cenniki
 
-Ceny jak i otwarcie rejestracji w marcu. Czasy dziwne...
-
 | Noclegi (osoba/nocka)                           |     1 dzień |    cała LSG |
 | ----------------------------------------------- | ----------: | ----------: |
 | w domku                                         |   [1] 26 zł |      360 zł |
