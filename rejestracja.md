@@ -19,4 +19,8 @@ Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełnia
 
 Numer konta bankowego i kwotę do przelewu dostaniesz po ustaleniu z Czifem wszelkich szczegółów. Jednym słowem, najpierw ustalenia a potem kasa na konto :-) 
 
-#### Czasem się zdarza, że mój program pocztowy wrzuca zgłoszenie do spamu, więc jeśli po 48 godzinach brak mej reakcji -- proszę o powtornego meila, info przez fejsbuka zebym przejrzal tony spamu. Dziekuję :-)
+Czasem się zdarza, że mój program pocztowy wrzuca zgłoszenie do spamu, więc jeśli po 48 godzinach brak mej reakcji -- proszę o powtornego meila, info przez fejsbuka zebym przejrzal tony spamu. Dziekuję :-)
+
+## A kto tam będzie?
+
+Dla ciekawych, [lista zarejestrowanych](/zarejestrowani)!
