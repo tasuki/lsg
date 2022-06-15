@@ -76,6 +76,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Borys Owczarzak - 30k
 - Kamil Szalecki - 30k
 - Monika Syczewska - 30k
+- Michał Sobański - 30k
 - Hana Bobas Brunner - 31k
 - Jolanta Rapanowicz - ng
 - Sylwia Barcicka (pasqda) - ng
@@ -117,6 +118,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marianna Chwedyna - ng
 - Patryk Masiakowski - ng
 - Emilia Zaremba - ng
+- Marta Sobańska - ng
+- Piotr Sobanski - ng
+- Jan Sobanski - ng
 - Jacek Chroboczek (czifo) - ng
 
 
