@@ -34,8 +34,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
 - Patryk Jełowicki (kolorek) - 3k
+- Tom Macieszczak - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
+- Jakub Miłkowski - 4k
 - Klaus Blumberg - 5k
 - Achim Schulze - 5k
 - Paulina Skibińska - 5k
@@ -73,6 +75,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Kacper Sławski - 30k
 - Borys Owczarzak - 30k
 - Kamil Szalecki - 30k
+- Monika Syczewska - 30k
 - Hana Bobas Brunner - 31k
 - Jolanta Rapanowicz - ng
 - Sylwia Barcicka (pasqda) - ng
