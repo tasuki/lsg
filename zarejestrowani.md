@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paweł Obrok (yapee) - 3k
 - Patryk Jełowicki (kolorek) - 3k
 - Tom Macieszczak - 3k
+- Mateusz Szeląg - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki (led) - 4k
 - Jakub Miłkowski - 4k
@@ -100,7 +101,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Orian Rohde - ng
 - Katarzyna Szychowiak - ng
 - Staś Jurkiewicz - ng
-- Łukasz Grabowski (grasiu) - ng
 - Julia Środoń - ng
 - Eliza Nowacka - ng
 - Anna Cichocka - ng
@@ -121,6 +121,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marta Sobańska - ng
 - Piotr Sobanski - ng
 - Jan Sobanski - ng
+- Anna Krzywolak (pix) - ng
 - Jacek Chroboczek (czifo) - ng
 
 
