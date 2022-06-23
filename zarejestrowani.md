@@ -30,6 +30,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Szychowiak - 2k
 - Piotr Andryszek - 2k
 - Grzegorz Sobański (silk) - 2k
+- Dawid Libront (lipa) - 2k
 - Paweł Skibiński - 3k
 - Tymek Barcicki (szkielet) - 3k
 - Paweł Obrok (yapee) - 3k
@@ -47,6 +48,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Michał Mazur (mazur) - 6k
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
+- Piotr Walczak - 6k
 - Bartek Lisiecki (hino) - 7k
 - Jakub Gauza (marmez) - 7k
 - Wojciech Kaśkow - 7k
@@ -70,6 +72,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Magda Walkiewicz - 20k
 - Kasper Wieczorek - 20k
 - Maria Przybylak - 20k
+- Magda Gogołkiewicz - 20k
 - Klaudia Srul - 25k
 - Kacper Barcicki (czaszka) - 26k
 - Natalia Kolińska - 30k
@@ -112,16 +115,14 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Robert Jachym - ng
 - Mateusz Jachym - ng
 - Karolina Jachym - ng
-- Kasia Chwedyna - ng
-- Kamil Chwedyna (fisz) - ng
-- Hania Chwedyna - ng
-- Marianna Chwedyna - ng
 - Patryk Masiakowski - ng
 - Emilia Zaremba - ng
 - Marta Sobańska - ng
 - Piotr Sobanski - ng
 - Jan Sobanski - ng
 - Anna Krzywolak (pix) - ng
+- Agnieszka Sztolcman - ng
+- Albi Pacewicz - ng
 - Jacek Chroboczek (czifo) - ng
 
 
