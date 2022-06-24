@@ -20,7 +20,10 @@ title: Organizacja
   - gobany u Czifa na chacie, w magazynie za pokojami luksusowymi -- pogadaj z załogą (tutaj też łosie ew jakieś nasze inne rzeczy)
 1. Wydrukuj kalendarz, [pierwszy](/kalendarz-1) i [drugi](/kalendarz-2) tydzień, powinno być w sam raz na A4.
 1. Zorganizuj [turnieje](/organizacja/turnieje)
-1. Pilnuj zegary przed deszczem, właściciele są na to wraźliwi
+
+## Przypilnuj
+1. Zegary przed deszczem, właściciele są na to wraźliwi
+1. Żeby kuchnia wiedziała że podczas memoriału obiad godzinę wcześniej
 
 ## Pod koniec LSG
 1. Ustal termin kolejnego LSG: z przodu naciskają nas LARPy, z tyłu EGC, miej to na pamięci
