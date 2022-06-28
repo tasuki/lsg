@@ -12,11 +12,12 @@ Rejestracja od marca 2022!
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Stanisław Frejlak (sasio) - 1 dan pro
+- Wirzinia - 4d
 - Cezary Czernecki - 4d
 - Vít Brunner (tasuki) - 4d
 - Dawid Jurkiewicz (deejay) - 4d
 - Marcin Majka (higaki) - 4d
-- Łukasz Lew - 2d
+- Andrew Kay (paladyn) - 4d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
 - Łukasz Pater (fan) - 1k
@@ -45,6 +46,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Paulina Skibińska - 5k
 - Emilia Stalinski - 5k
 - Marcin Kulczycki - 5k
+- Marcel Mroczek - 5k
 - Michał Mazur (mazur) - 6k
 - Robert Bugaj - 6k
 - Daria Kwietniewska - 6k
@@ -54,14 +56,16 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Kaśkow - 7k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
-- Wojciech Ślusarczyk (oro) - 8k
+- Agnieszka Walter - 8k
 - Joanna Bugaj - 9k
 - January Chlebowicz - 10k
 - Adam Walkiewicz - 11k
 - Viktor Stalinski - 12k
 - Tomasz Dec - 13k
 - Natalia Klamecka - 13k
+- Maria Kluziak - 13k
 - Aleksander Tytus - 14k
+- Dominik Walter - 14k
 - Sven Stalinski - 15k
 - Jan Opawski - 15k
 - Felicia Stalinski - 16k
