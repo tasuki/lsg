@@ -18,12 +18,15 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Dawid Jurkiewicz (deejay) - 4d
 - Marcin Majka (higaki) - 4d
 - Andrew Kay (paladyn) - 4d
+- Max Wałaszewski - 3d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
+- Paweł Frączak (alvar) - 1d
 - Łukasz Pater (fan) - 1k
 - Adam Białożyt (captain) - 1k
 - Antoni Bugaj - 1k
 - Robin Stieglitz - 1k
+- Andrzej Drzystek - 1k
 - Kacper Cieśla (comboy) - 2k
 - Darek Bednarczyk - 2k
 - Katarzyna Mazurek (kotasia) - 2k
@@ -127,6 +130,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Anna Krzywolak (pix) - ng
 - Agnieszka Sztolcman - ng
 - Albi Pacewicz - ng
+- Urszula Mudel- ng
 - Jacek Chroboczek (czifo) - ng
 
 
