@@ -62,10 +62,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Agnieszka Walter - 8k
 - Joanna Bugaj - 9k
 - January Chlebowicz - 10k
+- Natalia Klamecka - 10k
 - Adam Walkiewicz - 11k
 - Viktor Stalinski - 12k
 - Tomasz Dec - 13k
-- Natalia Klamecka - 13k
 - Maria Kluziak - 13k
 - Aleksander Tytus - 14k
 - Dominik Walter - 14k
