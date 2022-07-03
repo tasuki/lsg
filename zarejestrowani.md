@@ -61,6 +61,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Agnieszka Walter - 8k
+- Julia Bednarska - 8k
 - Joanna Bugaj - 9k
 - January Chlebowicz - 10k
 - Natalia Klamecka - 10k
@@ -76,6 +77,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Zofia Bugaj - 17k
 - Martyna Szalecka - 17k
 - Wojtek Wajda - 18k
+- Michał Śliwicki - 19k
 - Justyna Jurkiewicz - 20k
 - Magda Walkiewicz - 20k
 - Kasper Wieczorek - 20k
@@ -132,6 +134,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Agnieszka Sztolcman - ng
 - Albi Pacewicz - ng
 - Urszula Mudel- ng
+- Ewa Biernot - ng
 - Jacek Chroboczek (czifo) - ng
 
 
