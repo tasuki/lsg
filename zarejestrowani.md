@@ -66,6 +66,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - January Chlebowicz - 10k
 - Natalia Klamecka - 10k
 - Adam Walkiewicz - 11k
+- Adam Siwy - 11k
 - Viktor Stalinski - 12k
 - Tomasz Dec - 13k
 - Maria Kluziak - 13k
@@ -104,7 +105,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojtek Bednarczyk - ng
 - Magda Bzoma - ng
 - Rafał Bzoma (bzyk) - ng
-- Łukasz Grabowski (grasiu) - ng
 - Tomaszek Cieśla - ng
 - Basia Cieśla - ng
 - Michał Ślusarczyk - ng 
