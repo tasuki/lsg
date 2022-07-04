@@ -19,6 +19,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Marcin Majka (higaki) - 4d
 - Andrew Kay (paladyn) - 4d
 - Max Wałaszewski - 3d
+- Łukasz Lew - 2d
 - Jan Frączak - 2d
 - Anna Sośnicka- Cieśla (sosna) - 1d
 - Jan Frejlak - 1d
