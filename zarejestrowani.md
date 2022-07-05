@@ -61,6 +61,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Wojciech Kaśkow - 7k
 - Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
+- Wojciech Ślusarczyk (oro) - 8k
 - Agnieszka Walter - 8k
 - Julia Bednarska - 8k
 - Joanna Bugaj - 9k
