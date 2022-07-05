@@ -59,7 +59,6 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 - Bartek Lisiecki (hino) - 7k
 - Jakub Gauza (marmez) - 7k
 - Wojciech Kaśkow - 7k
-- Marcelina Chojnacka - 8k
 - Grzesiek Rapanowicz - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Agnieszka Walter - 8k
