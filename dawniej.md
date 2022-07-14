@@ -5,6 +5,7 @@ title: Dawniej
 
 ## LSG by Tasuki & Czifo
 
+- [LSG 2022](/2022)
 - [LSG 2021](/2021)
 - [LSG 2020](/2020)
 - [LSG 2019](/2019)
