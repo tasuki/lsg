@@ -24,10 +24,10 @@ Gliśno Wielkie 3
 
 Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić pod numer 666 836 917 (najlepiej dzień wcześniej).  
 
-Koszt za samochód (niezależnie od ilości przewożonych osób):
+Koszt Łośtaxi:
 
-- Miastko -- 70zł za jedną i 10 za każdą kolejną osobą
-- Bytów -- 60zł za jedną i 10 za każdą kolejną osobę
-- Tuchomie, Lipnica -- 12zł za jedną i 9 za każdą następną osobę
+- Miastko -- 70zł za jedną + 10 za każdą kolejną osobę
+- Bytów -- 60zł za jedną + 10 za każdą kolejną osobę
+- Tuchomie, Lipnica -- 12zł za jedną + 9 za każdą kolejną osobę
 
 ![spiwor](/public/spiwor.jpg)
