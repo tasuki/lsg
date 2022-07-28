@@ -5,11 +5,14 @@ title: Organizacja turniejów
 
 Mamy [info publiczne o turniejach](/turnieje). Oprócz tego, tutaj jest lista szczegółów dotyczących konkretnych turniejów. Drabinki pojedynczej oraz podwójnej eliminacji:
 
-| Pojedyncza eliminacja                                      | Podwójna eliminacja                                       |
-| ---------------------------------------------------------- | --------------------------------------------------------- |
-| [08 graczy (3 rundy)](/public/drabinki/single-elim-08.pdf) | [08 graczy (6 rund)](/public/drabinki/double-elim-08.pdf) |
-| [16 graczy (4 rundy)](/public/drabinki/single-elim-16.pdf) | [16 graczy (7 rund)](/public/drabinki/double-elim-16.pdf) |
-| [32 graczy (7 rundy)](/public/drabinki/single-elim-32.pdf) | [32 graczy (9 rund)](/public/drabinki/double-elim-32.pdf) |
+| Pojedyncza eliminacja                                                   | Podwójna eliminacja                                                     |
+| ---------------------                                                   | -------------------                                                     |
+| [08 graczy](/public/drabinki/single-elim-08.pdf) (3 rundy, 1 strona A4) | [08 graczy](/public/drabinki/double-elim-08.pdf) (6 rund, 1 strona A4)  |
+| [16 graczy](/public/drabinki/single-elim-16.pdf) (4 rundy, 1 strona A4) | [16 graczy](/public/drabinki/double-elim-16.pdf) (7 rund, 1 strona A4)  |
+| [24 graczy](/public/drabinki/single-elim-24.pdf) (5 rund, 1 strona A4)  | [24 graczy](/public/drabinki/double-elim-24.pdf) (9 rund, 2 strony A4)  |
+| [32 graczy](/public/drabinki/single-elim-32.pdf) (5 rund, 1 strona A4)  | [32 graczy](/public/drabinki/double-elim-32.pdf) (9 rund, 2 strony A4)  |
+| [48 graczy](/public/drabinki/single-elim-48.pdf) (6 rund, 2 strony A4)  | [48 graczy](/public/drabinki/double-elim-48.pdf) (10 rund, 3 strony A4) |
+| [64 graczy](/public/drabinki/single-elim-64.pdf) (6 rund, 2 strony A4)  | [64 graczy](/public/drabinki/double-elim-64.pdf) (10 rund, 3 strony A4) |
 
 Mamy tabelki zapisów [do 16](/public/zapisy/ogolne-zapisy-16.pdf) oraz [do 32](/public/zapisy/ogolne-zapisy-32.pdf) osób. Oprócz tego poszczególne tabelki zapisów poniżej.
 
