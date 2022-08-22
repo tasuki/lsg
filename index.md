@@ -5,6 +5,8 @@ title: Wstęp
 
 # Letnia Szkoła Go 2023
 
+### Memoriał Marceliny Chojnackiej
+
 *Kiedy?* &nbsp; 8. -- 23. lipca 2023  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Bory Tucholskie  
 
