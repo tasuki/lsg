@@ -10,6 +10,7 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy (mniej więcej wg siły):
+
 Łukasz Lew - 2d
 ...
 
