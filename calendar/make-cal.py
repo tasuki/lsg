@@ -6,8 +6,6 @@
 
 from bs4 import BeautifulSoup
 from docutils import core
-from html.parser import HTMLParser
-import sys
 
 print('Running make-cal.py...')
 
