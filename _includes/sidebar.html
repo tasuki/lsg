@@ -1,14 +1,13 @@
 <div class="sidebar">
   <div class="container">
-    <div class="sidebar-about">
-      <a href="/"><img src="/public/lsg_logo.svg"></a>
-      <div id="hamburger">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-      <h1><a href="/">{{ site.title }}</a></h1>
+    <a href="/"><img src="/public/lsg_logo.svg"></a>
+    <input id="menu-toggle" type="checkbox" />
+    <div id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
+    <h1><a href="/">{{ site.title }}</a></h1>
 
     <nav class="sidebar-nav">
       <h3><a href="/english">English info</a></h3>
@@ -28,7 +27,7 @@
       <a class="sidebar-nav-item" href="/dawniej">Dawniej</a>
       <p></p>
       <p>&copy; {{ site.time | date: '%Y' }}. A takie tam.<br/>
-	  <a class="howto" href="/organizacja">Jak zrobić LSG?</a></p>
+      <a class="howto" href="/organizacja">Jak zrobić LSG?</a></p>
     </nav>
   </div>
 </div>
