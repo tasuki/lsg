@@ -6,7 +6,7 @@ title: Polish Summer Go School 2023
 # Polish Summer Go School 2023
 
 *When?* &nbsp; 8--23 July 2023  
-*Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3), Gliśno Wielkie 3, Poland  
+*Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie 3, Poland  
 *I'm in, how do I get there?* &nbsp; By car or fly to Gdańsk or Warsaw and take a train/bus/catch a ride with someone!  
 
 <!--

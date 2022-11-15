@@ -8,7 +8,7 @@ title: Wstęp
 ### Memoriał Marceliny Chojnackiej
 
 *Kiedy?* &nbsp; 8. -- 23. lipca 2023  
-*Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=przystanek+alaska,+glisno+wielkie), Gliśno Wielkie, Bory Tucholskie  
+*Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie, Bory Tucholskie  
 
 Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
 
