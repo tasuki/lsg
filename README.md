@@ -10,15 +10,19 @@ Wymaga Ruby/Bundler (na Jekylla), Pyton z reStructuredText (na budowę kalendarz
 
 Na Debianach można zainstalować następująco:
 
-	sudo apt-get install bundler python3-docutils python3-bs4 entr
-	bundle install --path vendor/bundle
+```
+sudo apt-get install bundler python3-docutils python3-bs4 entr
+bundle install --path vendor/bundle
+```
 
 Develop
 -------
 
 Kalendarz robi reStructuredText z rzeczy w `calendar/`, jekyll servuje. Wszystko można uruchomić:
 
-	make develop
+```
+make develop
+```
 
 Deploy
 ------
