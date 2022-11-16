@@ -79,13 +79,13 @@ table.cal .other { background-color: #CFE2F3; }
   #menu-toggle:checked ~ #hamburger #line2 { transform: scaleX(0); }
   #menu-toggle:checked ~ #hamburger #line3 { transform: rotate(-45deg); }
   .sidebar { text-align: left; }
-  .sidebar h1 { padding-right: 2.5rem; margin-bottom: 0; }
-  .sidebar img, .sidebar nav { display: none; }
+  .sidebar h1 { padding-right: 2.5rem; margin-bottom: 0; overflow: hidden; }
+  .sidebar h1 img { height: 7rem; margin: -4rem 0 0 -5.5rem; }
+  .sidebar nav { display: none; }
   #menu-toggle:checked ~ nav { display: block; }
 }
 
 @media (min-width: 48em) {
   #menu-toggle, #hamburger { display: none; }
   .sidebar { min-height: 1200px; text-align: right; }
-  .sidebar h1 { display: none; }
 }
