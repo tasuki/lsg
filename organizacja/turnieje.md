@@ -22,7 +22,7 @@ Namawiamy wszystkich do grania, McMahon to uciągnie. No chyba że nam się sprz
 
 - **Turniej Zapoznawczy ([zapisy](/public/zapisy/zapisy-zapoznawczy.pdf))**
 - **Maraton ([zapisy](/public/zapisy/zapisy-maraton.pdf))**
-- **Memoriał Marcina Zgirskiego ([zapisy](/public/zapisy/zapisy-memorial.pdf))**
+- **Memoriał Marceliny Chojnackiej ([zapisy](/public/zapisy/zapisy-memorial.pdf))**
 
 ## Turnieje rozrywkowe
 

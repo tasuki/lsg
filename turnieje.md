@@ -13,7 +13,7 @@ Klasa B (Fischer 30 min + 10 sekund za ruch), 4 rundy, McMahon, gry równe
 **Maraton** (1 gra dziennie gdy nie ma innych turniejów)  
 Klasa A (Fischer 45 min + 15 sekund za ruch), 8--10 rund, McMahon, gry równe
 
-**Memoriał Marcina Zgirskiego** (w środkowy weekend)  
+**Memoriał Marceliny Chojnackiej** (w środkowy weekend)  
 Klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
 
 ## Turnieje rozrywkowe
