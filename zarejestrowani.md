@@ -12,6 +12,9 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 Łukasz Lew - 2d
+Marcin Bałaban - 10k
+Ludwik Bałaban - 30k
+Jacek Chroboczek (czifo) - ng
 
 
 Twoja siła się nie zgadza ? 
