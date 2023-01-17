@@ -13,8 +13,10 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 Łukasz Lew - 2d <br>
 Marcin Bałaban - 10k <br>
+Piotr Chojnacki (prometeusz) - 13k <br>
 Ludwik Bałaban - 30k <br>
 Anna Krzywolak (pixel) - ng <br>
+Dorota Chojnacka - ng <br>
 Jacek Chroboczek (czifo) - ng <br>
 
 
