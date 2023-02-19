@@ -11,27 +11,27 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 - Łukasz Lew - 2d
+- Kasia Mazurek (kotasia) - 1k
+- Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
+- Małgorzata Palej (shaa) - 4k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Maciej Łacny - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Tomasz Dec - 11k
+- Anna Krzywolak (pixel) - 12k
 - Piotr Chojnacki (prometeusz) - 13k
+- Leszek Koliński - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
 - Marta Szeredy-Kolińska - ng
-- Leszek Koliński - ng
 - Staś Koliński - ng
-- Anna Krzywolak (pixel) - ng
 - Dorota Chojnacka - ng
-- Małgorzata Palej (shaa) - ng
-- Paweł Obrok (yapee) - ng
 - Kinga Lisiecka-Garbaczewska - ng
-- Kasia Mazurek (kotasia) - ????
 - Jacek Chroboczek (czifo) - ng
 
 
