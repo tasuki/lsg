@@ -13,9 +13,9 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 
 Łukasz Lew - 2d <br>
 Paweł Skibiński - 3k <br>
-Maciej Łacny - 8k <br>
 Bartek Lisiecki (hino) - 7k <br>
 Wojtek Kaśków - 7k <br>
+Maciej Łacny - 8k <br>
 Weronika Łacna - 10k <br>
 Marcin Bałaban - 10k <br>
 Tomasz Dec - 11k <br>
