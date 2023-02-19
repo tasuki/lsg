@@ -16,6 +16,7 @@ Paweł Skibiński - 3k <br>
 Maciej Łacny - 8k <br>
 Weronika Łacna - 10k <br>
 Marcin Bałaban - 10k <br>
+Tomasz Dec - 11k <br>
 Piotr Chojnacki (prometeusz) - 13k <br>
 Filip Łacny - 21k <br>
 Ludwik Bałaban - 30k <br>
@@ -26,7 +27,9 @@ Leszek Koliński - ng <br>
 Staś Koliński - ng <br>
 Anna Krzywolak (pixel) - ng <br>
 Dorota Chojnacka - ng <br>
-
+Małgorzata Palej (shaa) - ng <br>
+Paweł Obrok (yapee) - ng <br>
+Kinga Lisiecka-Garbaczewska - ng <br>
 Jacek Chroboczek (czifo) - ng <br>
 
 
