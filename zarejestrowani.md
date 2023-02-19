@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy (mniej więcej wg siły):
 Łukasz Lew - 2d <br>
 Paweł Skibiński - 3k <br>
 Maciej Łacny - 8k <br>
+Bartek Lisiecki (hino) - 8k <br>
 Weronika Łacna - 10k <br>
 Marcin Bałaban - 10k <br>
 Tomasz Dec - 11k <br>
@@ -30,6 +31,7 @@ Dorota Chojnacka - ng <br>
 Małgorzata Palej (shaa) - ng <br>
 Paweł Obrok (yapee) - ng <br>
 Kinga Lisiecka-Garbaczewska - ng <br>
+Kasia Mazurek (kotasia) - ????
 Jacek Chroboczek (czifo) - ng <br>
 
 
