@@ -9,9 +9,11 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
-
+- Tasuki -
 - Łukasz Lew - 2d
+- Anna Sośnicka-Cieśla (sosna) - 1d
 - Kasia Mazurek (kotasia) - 1k
+- Kacper Cieśla (comboy) - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Małgorzata Palej (shaa) - 4k
@@ -28,6 +30,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
+- Lukasz Cieśla - 30k
+- Basia Cieśla - 50k
 - Marta Szeredy-Kolińska - ng
 - Staś Koliński - ng
 - Dorota Chojnacka - ng
