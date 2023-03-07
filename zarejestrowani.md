@@ -9,6 +9,8 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
+- Stanisław Frejlak (sasio) - 1 dan pro
+- Wirżinia - 4d
 - Tasuki -
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
@@ -17,14 +19,18 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Małgorzata Palej (shaa) - 4k
+- Artur Barcicki - 4k
+- Tymek Barcicki - 4k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Maciej Łacny - 8k
+- Wojciech Ślusarczyk (oro) - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Piotr Chojnacki (prometeusz) - 13k
+- Kacper Barcicki - 17k
 - Leszek Koliński - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
@@ -36,6 +42,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Staś Koliński - ng
 - Dorota Chojnacka - ng
 - Kinga Lisiecka-Garbaczewska - ng
+- Sylwia Barcicka (pasqda) - ng
+- Magda Ślusarczyk - ng
+- Stasio Ślusarczyk - ng
+- Natalia Ślusarczyk -ng
+- Emilia Zaremba - ng
 - Jacek Chroboczek (czifo) - ng
 
 
