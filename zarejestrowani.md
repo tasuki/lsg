@@ -47,6 +47,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stasio Ślusarczyk - ng
 - Natalia Ślusarczyk -ng
 - Emilia Zaremba - ng
+- Adam Walkiewicz - ng
 - Jacek Chroboczek (czifo) - ng
 
 
