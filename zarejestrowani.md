@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Kasia Mazurek (kotasia) - 1k
 - Kacper Cieśla (comboy) - 2k
+- Piotr Andryszek - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Małgorzata Palej (shaa) - 4k
