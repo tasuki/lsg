@@ -22,9 +22,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Tymek Barcicki - 4k
+- Marcin Tomczyk (emtom) - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
+- Adam Siwy - 7k
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Weronika Łacna - 10k
@@ -50,6 +52,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natalia Ślusarczyk -ng
 - Emilia Zaremba - ng
 - Adam Walkiewicz - ng
+- Monika Sas-Tomczyk - ng
+- Zosia Tomczyk - ng
+- Eliza Nowacka - ng
 - Jacek Chroboczek (czifo) - ng
 
 
