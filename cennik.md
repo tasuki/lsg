@@ -7,13 +7,13 @@ title: Cennik
 
 | Noclegi (osoba/nocka)                           |     1 dzień |    cała LSG |
 | ----------------------------------------------- | ----------: | ----------: |
-| w domku                                         |   [1] ? zł |      ? zł |
+| w domku                                         |   [1] 26 zł |      370 zł |
 | we własnym namiocie (dziecko do 4 lat)          |        0 zł |        0 zł |
-| we własnym namiocie (dziecko 4-10 lat)          |        ? zł |      ? zł |
-| we własnym namiocie (uczeń / student do 25 lat) |       ? zł |      ? zł |
-| we własnym namiocie (dorosly)                   |       ? zł |      ? zł |
+| we własnym namiocie (dziecko 4-10 lat)          |        10 zł |      140 zł |
+| we własnym namiocie (uczeń / student do 25 lat) |       14 zł |      200 zł |
+| we własnym namiocie (dorosly)                   |       20 zł |      290 zł |
 | pokoj VIP (2 osobowy, dla rodzin z dziećmi)     | nie dotyczy | worek złota |
-| pobyt dzienny (dla mieszkających gdzie indziej) |       ? zł |      ? zł |
+| pobyt dzienny (dla mieszkających gdzie indziej) |       13 zł |      130 zł |
 
 Uwagi:  
 1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
@@ -22,9 +22,9 @@ Uwagi:
 | ---------------------------------------------------------- | ------: | -------: |
 | opłata za LSG (dziecko / student do 25 lat)                |    ? zł |    ? zł |
 | opłata za LSG (dorosły)                                    |   ? zł |   ? zł |
-| wyżywienie (śniadanie 10zł, obiad 23zł, kolacja 13zł)      |   ? zł |   ? zł |
-| wyżywienie dzieci (śniadanie 7zł, obiad 13zł, kolacja 8zł) |   ? zł |   ? zł |
-| motor/samochód                                             |    ? zł |    ? zł |
+| wyżywienie (śniadanie 11zł, obiad 26zł, kolacja 14zł)      |   51 zł |   710 zł |
+| wyżywienie dzieci (śniadanie 8zł, obiad 14zł, kolacja 9zł) |   31 zł |   430 zł |
+| motor/samochód                                             |    4 zł |    40 zł |
 | zwierzaki, łącznie ze słoniami i wielorybami               |    0 zł |     0 zł |
 
 Zniżki:
