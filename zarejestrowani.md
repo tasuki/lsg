@@ -17,6 +17,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kasia Mazurek (kotasia) - 1k
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek - 2k
+- Kasia Mazurek (kotasia) - 2k jak dotrze...
+- Grzegorz Sobański (silk) - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Małgorzata Palej (shaa) - 4k
@@ -24,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
+- Daria Kwietniewska - 6k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Adam Siwy - 7k
