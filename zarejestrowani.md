@@ -39,6 +39,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Piotr Chojnacki (prometeusz) - 13k
 - Kacper Barcicki - 17k
 - Leszek Koliński - 20k
+- Klaudia Srul (sprężynka) - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
@@ -58,6 +59,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Monika Sas-Tomczyk - ng
 - Zosia Tomczyk - ng
 - Eliza Nowacka - ng
+- Michał Ślusarczyk (młody) - ng
 - Jacek Chroboczek (czifo) - ng
 
 
