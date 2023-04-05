@@ -3,7 +3,7 @@ layout: page
 title: Cennik
 ---
 
-## Cenniki - cennik 2023 pojawi się na poczatku kwietnia (inflacja....)
+## Cenniki
 
 | Noclegi (osoba/nocka)                           |     1 dzień |    cała LSG |
 | ----------------------------------------------- | ----------: | ----------: |
