@@ -11,7 +11,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1 dan pro
 - Wirżinia - 4d
-- Tasuki -
+- Vít Brunner (tasuki) - 4d
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Kasia Mazurek (kotasia) - 1k
@@ -45,6 +45,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
 - Lukasz Cieśla - 30k
+- Hana Brunner - 49k
 - Basia Cieśla - 50k
 - Marta Szeredy-Kolińska - ng
 - Staś Koliński - ng
