@@ -9,7 +9,7 @@ title: Cennik
 | ----------------------------------------------- | ----------: | ----------: |
 | w domku                                         |   [1] 26 zł |      370 zł |
 | we własnym namiocie (dziecko do 4 lat)          |        0 zł |        0 zł |
-| we własnym namiocie (dziecko 4-10 lat)          |        10 zł |      140 zł |
+| we własnym namiocie (dziecko 4-10 lat)          |       10 zł |      140 zł |
 | we własnym namiocie (uczeń / student do 25 lat) |       14 zł |      200 zł |
 | we własnym namiocie (dorosly)                   |       20 zł |      290 zł |
 | pokoj VIP (2 osobowy, dla rodzin z dziećmi)     | nie dotyczy | worek złota |
@@ -20,8 +20,8 @@ Uwagi:
 
 | LSG/Wyżywienie/Samochody/Zwierzęta                         | 1 dzień | cała LSG |
 | ---------------------------------------------------------- | ------: | -------: |
-| opłata za LSG (dziecko / student do 25 lat)                |    ? zł |    ? zł |
-| opłata za LSG (dorosły)                                    |   ? zł |   ? zł |
+| opłata za LSG (dziecko / student do 25 lat)                |    5 zł |    50 zł |
+| opłata za LSG (dorosły)                                    |   50 zł |   150 zł |
 | wyżywienie (śniadanie 11zł, obiad 26zł, kolacja 14zł)      |   51 zł |   710 zł |
 | wyżywienie dzieci (śniadanie 8zł, obiad 14zł, kolacja 9zł) |   31 zł |   430 zł |
 | motor/samochód                                             |    4 zł |    40 zł |
@@ -30,6 +30,6 @@ Uwagi:
 Zniżki:
 - 10% zniżki za **pobyt** dla tych co zarejestrują się do 15 maja
 - 5% zniżki za **pobyt** dla zarejestrowanych do 15 czerwca
-- Dla **członków PSG** ??% zniżka na opłatę za LSG
+- Dla **członków PSG** 40% zniżka na opłatę za LSG
 
 ![licytacja](/public/licytacja.jpg)
