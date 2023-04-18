@@ -40,6 +40,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 17k
 - Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
+- Joanna Długosz - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
