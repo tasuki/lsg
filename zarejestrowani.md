@@ -12,9 +12,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1 dan pro
 - Wirżinia - 4d
 - Vít Brunner (tasuki) - 4d
+- Maksym Wałaszewski - 3d
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
-- Kasia Mazurek (kotasia) - 1k
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek - 2k
 - Kasia Mazurek (kotasia) - 2k jak dotrze...
@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
+- Marcel Mroczek - 5k
 - Daria Kwietniewska - 6k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
@@ -37,6 +38,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Piotr Chojnacki (prometeusz) - 13k
+- Maria Kluziak - 13k
 - Kacper Barcicki - 17k
 - Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
