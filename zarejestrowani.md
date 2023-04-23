@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wirżinia - 4d
 - Vít Brunner (tasuki) - 4d
 - Maksym Wałaszewski - 3d
+- Andrew Kay (paladyn) - 3d
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Kacper Cieśla (comboy) - 2k
@@ -64,6 +65,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Zosia Tomczyk - ng
 - Eliza Nowacka - ng
 - Michał Ślusarczyk (młody) - ng
+- Michał Sobański - ng
+- Piotr Sobański - ng
+- Jan Sobański - ng
 - Jacek Chroboczek (czifo) - ng
 
 
