@@ -26,12 +26,14 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Artur Barcicki - 4k
 - Tymek Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Marcin Kulczycki - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
 - Daria Kwietniewska - 6k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Adam Siwy - 7k
+- Jakub Gauza (marmez) - 7k
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Weronika Łacna - 10k
@@ -44,6 +46,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Joanna Długosz - 20k
+- Rufin Gauza - 20k
+- Kasper Wieczorek - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
@@ -68,6 +72,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Sobański - ng
 - Piotr Sobański - ng
 - Jan Sobański - ng
+- Inga Gauza - ng
+- Anna Cichocka - ng
+- Małgorzata Frejlak - ng
+- Jan Frejlak - ng
 - Jacek Chroboczek (czifo) - ng
 
 
