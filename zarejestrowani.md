@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Andrew Kay (paladyn) - 3d
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
+- Adam Białożyt (kapitan) - 1d
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek - 2k
 - Kasia Mazurek (kotasia) - 2k jak dotrze...
