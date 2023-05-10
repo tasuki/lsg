@@ -86,7 +86,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Małgorzata Frejlak - ng
 - Jan Frejlak - ng
 - Bianka Wałaszewska - ng
-- Kamil Szalecki
+- Kamil Szalecki - ng
 - Jacek Chroboczek (czifo) - ng
 
 
