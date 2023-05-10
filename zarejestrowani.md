@@ -17,10 +17,13 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Adam Białożyt (kapitan) - 1d
+- Bruno Wałaszewski - 1d
+- Antoni Bugaj - 1k
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek - 2k
 - Kasia Mazurek (kotasia) - 2k jak dotrze...
 - Grzegorz Sobański (silk) - 2k
+- Marianna Szychowiak - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Małgorzata Palej (shaa) - 4k
@@ -35,20 +38,25 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wojtek Kaśków - 7k
 - Adam Siwy - 7k
 - Jakub Gauza (marmez) - 7k
+- Robert Bugaj - 7k
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
+- Joanna Bugaj - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Piotr Chojnacki (prometeusz) - 13k
 - Maria Kluziak - 13k
 - Kacper Barcicki - 17k
+- Martyna Szalecka - 18k
+- Zofia Bugaj - 18k
 - Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Joanna Długosz - 20k
 - Rufin Gauza - 20k
 - Kasper Wieczorek - 20k
+- Jakub Łubiński - 20k
 - Filip Łacny - 21k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
@@ -77,6 +85,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Cichocka - ng
 - Małgorzata Frejlak - ng
 - Jan Frejlak - ng
+- Bianka Wałaszewska - ng
+- Kamil Szalecki
 - Jacek Chroboczek (czifo) - ng
 
 
