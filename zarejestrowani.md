@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marianna Szychowiak - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
+- Patryk Jełowicki (kolorek) - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Tymek Barcicki - 4k
@@ -34,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
 - Daria Kwietniewska - 6k
+- Piotr Walczak - 6k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Adam Siwy - 7k
@@ -41,6 +43,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Robert Bugaj - 7k
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Krzysztof Grygiel - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
