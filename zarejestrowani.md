@@ -32,6 +32,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
+- Cyprian Doruch - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
 - Daria Kwietniewska - 6k
@@ -44,6 +45,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Krzysztof Grygiel - 8k
+- Julia Bednarska - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
