@@ -49,6 +49,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
+- Michał Świętek - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Piotr Chojnacki (prometeusz) - 13k
@@ -62,7 +63,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rufin Gauza - 20k
 - Kasper Wieczorek - 20k
 - Jakub Łubiński - 20k
+- Magda Walkiewicz - 20k
+- Ewa Świętek - 20k
 - Filip Łacny - 21k
+- Franek Świętek - 25k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
