@@ -18,6 +18,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Adam Białożyt (kapitan) - 1d
 - Bruno Wałaszewski - 1d
+- Mateusz Chojnacki (myszcz) - 1d
 - Antoni Bugaj - 1k
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek - 2k
@@ -96,6 +97,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Frejlak - ng
 - Bianka Wałaszewska - ng
 - Kamil Szalecki - ng
+- Marta Chojnacka - ng
+- Aleksy Chojnacki - ng
 - Jacek Chroboczek (czifo) - ng
 
 
