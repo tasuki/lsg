@@ -53,8 +53,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Świętek - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
+- Ryszard Szopa - 12k
 - Piotr Chojnacki (prometeusz) - 13k
 - Maria Kluziak - 13k
+- Rysio Szopa - 16k
 - Kacper Barcicki - 17k
 - Martyna Szalecka - 18k
 - Zofia Bugaj - 18k
