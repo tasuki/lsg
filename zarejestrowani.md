@@ -47,10 +47,13 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wojciech Ślusarczyk (oro) - 8k
 - Krzysztof Grygiel - 8k
 - Julia Bednarska - 8k
+- January Chlebowicz - 8k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
 - Michał Świętek - 10k
+- Ljubov Krajnowa - 10k
+- Marek Kowalski - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Ryszard Szopa - 12k
