@@ -12,6 +12,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1 dan pro
 - Wirżinia - 4d
 - Vít Brunner (tasuki) - 4d
+- Marcin Majka (higaki) - 4d
 - Maksym Wałaszewski - 3d
 - Andrew Kay (paladyn) - 3d
 - Łukasz Lew - 2d
@@ -59,6 +60,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ryszard Szopa - 12k
 - Piotr Chojnacki (prometeusz) - 13k
 - Maria Kluziak - 13k
+- Jan Opawski - 15k
 - Rysio Szopa - 16k
 - Kacper Barcicki - 17k
 - Martyna Szalecka - 18k
