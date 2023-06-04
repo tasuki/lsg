@@ -22,6 +22,7 @@ Uwagi:
 | ---------------------------------------------------------- | ------: | -------: |
 | opłata za LSG (dziecko / student do 25 lat)                |    5 zł |    50 zł |
 | opłata za LSG (dorosły)                                    |   50 zł |   150 zł |
+| opłata za LSG (Ukrainian)                                  |    0 zł |     0 zł |
 | wyżywienie (śniadanie 11zł, obiad 26zł, kolacja 14zł)      |   51 zł |   710 zł |
 | wyżywienie dzieci (śniadanie 8zł, obiad 14zł, kolacja 9zł) |   31 zł |   430 zł |
 | motor/samochód                                             |    4 zł |    40 zł |
