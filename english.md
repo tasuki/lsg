@@ -31,6 +31,12 @@ The venue is a farm remodelled to a camping, inspired by the "Northern Exposure"
 
 ![balony](/public/balony.jpg)
 
+## First time?
+
+1. Register early. Places in the cottages are limited. If you bring a tent you'll always fit.
+2. Take warm clothes. It can get very cold.
+3. After arriving, visit the shop on the lefthand side of the main square or ask people sitting under the big tree for help.
+
 ## How to register
 
 Send an email to: chrobjac@poczta.onet.pl with the following information:

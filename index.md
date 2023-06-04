@@ -22,7 +22,7 @@ Na wyposażeniu gospodarstwa znajdują się:
 - *Sklepik* o standardowych cenach bez horrendalnych narzutów
 - Czyste toalety
 - Prysznic z ciepłą wodą dostępny w godzinach rannych i wieczornych, sauna
-- Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych (na 100 osób)
+- Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych
 - Wiele innych atrakcji: jezioro *(pierwsza klasa czystości z prywatną plażą)*, stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), kajaki, siatkówka, koszykówka, ściana wspinaczkowa, siłownia, szlaki wycieczkowe, kamienne kręgi, i inne.
 
 ![karaoke](/public/karaoke.jpg)
