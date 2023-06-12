@@ -37,6 +37,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Cyprian Doruch - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
+- Emilia Stalinski - 5k
 - Daria Kwietniewska - 6k
 - Piotr Walczak - 6k
 - Bartek Lisiecki (hino) - 7k
@@ -49,6 +50,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Krzysztof Grygiel - 8k
 - Julia Bednarska - 8k
 - January Chlebowicz - 8k
+- Ewa Śliwicka - 9k
 - Weronika Łacna - 10k
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
@@ -58,11 +60,15 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
 - Ryszard Szopa - 12k
+- Victor Stalinski - 12k
 - Piotr Chojnacki (prometeusz) - 13k
 - Maria Kluziak - 13k
+- Sven Stalinski - 14k
 - Jan Opawski - 15k
 - Rysio Szopa - 16k
 - Kacper Barcicki - 17k
+- Felicia Stalinski - 17k
+- Maciej Gałązka - ok. 17k
 - Martyna Szalecka - 18k
 - Zofia Bugaj - 18k
 - Leszek Koliński - 20k
@@ -73,8 +79,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Łubiński - 20k
 - Magda Walkiewicz - 20k
 - Ewa Świętek - 20k
+- Tymoteusz Chmiel - 20k
 - Filip Łacny - 21k
 - Franek Świętek - 25k
+- Natalia Chmiel - 25k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
