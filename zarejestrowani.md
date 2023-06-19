@@ -80,6 +80,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Magda Walkiewicz - 20k
 - Ewa Świętek - 20k
 - Tymoteusz Chmiel - 20k
+- Michał Sobański - 20k
+- Maria Przybylak - 20k
 - Filip Łacny - 21k
 - Franek Świętek - 25k
 - Natalia Chmiel - 25k
@@ -87,6 +89,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
 - Lukasz Cieśla - 30k
+- Jan Sobański - 30k
+- Piotr Sobański - 30k
 - Hana Brunner - 49k
 - Basia Cieśla - 50k
 - Marta Szeredy-Kolińska - ng
@@ -103,9 +107,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Zosia Tomczyk - ng
 - Eliza Nowacka - ng
 - Michał Ślusarczyk (młody) - ng
-- Michał Sobański - ng
-- Piotr Sobański - ng
-- Jan Sobański - ng
 - Inga Gauza - ng
 - Anna Cichocka - ng
 - Małgorzata Frejlak - ng
@@ -114,6 +115,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kamil Szalecki - ng
 - Marta Chojnacka - ng
 - Aleksy Chojnacki - ng
+- Patryk Masiakowski - ng
 - Jacek Chroboczek (czifo) - ng
 
 
