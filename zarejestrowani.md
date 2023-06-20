@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kasia Mazurek (kotasia) - 2k jak dotrze...
 - Grzegorz Sobański (silk) - 2k
 - Marianna Szychowiak - 2k
+- Robin Stieglitz - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Patryk Jełowicki (kolorek) - 3k
