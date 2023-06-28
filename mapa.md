@@ -14,17 +14,19 @@ Gliśno Wielkie 3
 
 ## Jak tu dotrzeć?
 
-1. PKP do Chojnic lub do Miastka, następnie PKS z Chojnic do Lipnicy lub do z Miastka do Tuchomia.
+1. PKP do Chojnic, następnie PKS do Lipnicy.
+2. PKP do Miastka, następnie PKS do Tuchomia.
 2. PKS do Lipnicy (przez Bydgoszcz).
+3. PKS/Flixbus do Bytowa.
 
-Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić pod numer **TODO** (najlepiej dzień wcześniej).  
+### Łośtaxi
 
-<!--
+Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer *(TODO w poniedziałek 3.7. tasuki kupi kartę sim i wpisze tutaj)*. Za późną rezerwację może być doliczona opłata aż 50zł. No albo też się może zdarzyć że Łośtaxi nie przyjedzie.
+
 Koszt Łośtaxi:
 
-- Miastko -- 70zł za jedną + 10 za każdą kolejną osobę
-- Bytów -- 60zł za jedną + 10 za każdą kolejną osobę
-- Tuchomie, Lipnica -- 12zł za jedną + 9 za każdą kolejną osobę
--->
+- Tuchomie, Lipnica -- 40zł za jedną + 10zł za każdą kolejną osobę
+- Bytów -- 60zł za jedną + 15zł za każdą kolejną osobę
+- Miastko -- 80zł za jedną + 20zł za każdą kolejną osobę
 
 ![spiwor](/public/spiwor.jpg)
