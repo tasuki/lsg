@@ -30,6 +30,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Patryk Jełowicki (kolorek) - 3k
+- Mateusz Szeląg (szeląg) - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Tymek Barcicki - 4k
