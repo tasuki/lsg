@@ -57,7 +57,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Bałaban - 10k
 - Joanna Bugaj - 10k
 - Michał Świętek - 10k
-- Ljubov Krajnowa - 10k
 - Marek Kowalski - 10k
 - Tomasz Dec - 11k
 - Anna Krzywolak (pixel) - 12k
