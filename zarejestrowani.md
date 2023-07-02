@@ -27,6 +27,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Grzegorz Sobański (silk) - 2k
 - Marianna Szychowiak - 2k
 - Robin Stieglitz - 2k
+- Tom Macieszczak - 2k
 - Paweł Obrok (yapee) - 3k
 - Paweł Skibiński - 3k
 - Patryk Jełowicki (kolorek) - 3k
@@ -36,7 +37,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
-- Cyprian Doruch - 4k
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
 - Emilia Stalinski - 5k
@@ -47,6 +47,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Adam Siwy - 7k
 - Jakub Gauza (marmez) - 7k
 - Robert Bugaj - 7k
+- Dominik Olszewski - 7k
 - Maciej Łacny - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Krzysztof Grygiel - 8k
@@ -86,6 +87,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Filip Łacny - 21k
 - Franek Świętek - 25k
 - Natalia Chmiel - 25k
+- Monika Syczewska - 29k
 - Ludwik Bałaban - 30k
 - Antek Koliński - 30k
 - Natalia Kolińska - 30k
@@ -117,6 +119,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marta Chojnacka - ng
 - Aleksy Chojnacki - ng
 - Patryk Masiakowski - ng
+- Weronika Olszewska - ng
+- pies Buber - ng :-) :-)
+- Wiktoria Celmer - ng
 - Jacek Chroboczek (czifo) - ng
 
 
