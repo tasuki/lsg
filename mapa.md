@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mapa
+title: Jak tu dotrzeć
 ---
 
 ## Gdzie to jest?
@@ -14,6 +14,8 @@ Gliśno Wielkie 3
 
 ## Jak tu dotrzeć?
 
+Samochodem! No albo:
+
 1. PKP do Chojnic, następnie PKS do Lipnicy.
 2. PKP do Miastka, następnie PKS do Tuchomia.
 2. PKS do Lipnicy (przez Bydgoszcz).
@@ -21,7 +23,9 @@ Gliśno Wielkie 3
 
 ### Łośtaxi
 
-Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599. Za późną rezerwację może być doliczona opłata aż 50zł. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi po was przyjechać...
+Z pobliskich miejscowości uczestnicy mogą zostać odebrani przez obozowe Łośtaxi. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599.
+
+Za **późną rezerwację** może być doliczona **opłata aż 50zł**. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi po was przyjechać...
 
 Koszt Łośtaxi:
 
