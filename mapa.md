@@ -21,7 +21,7 @@ Gliśno Wielkie 3
 
 ### Łośtaxi
 
-Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer *(TODO w poniedziałek 3.7. tasuki kupi kartę sim i wpisze tutaj)*. Za późną rezerwację może być doliczona opłata aż 50zł. No albo też się może zdarzyć że Łośtaxi nie przyjedzie.
+Z Bytowa, Miastka, Tuchomia i Lipnicy uczestnicy mogą zostać odebrani przez obozowe *Łośtaxi*. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599. Za późną rezerwację może być doliczona opłata aż 50zł. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi po was przyjechać...
 
 Koszt Łośtaxi:
 
