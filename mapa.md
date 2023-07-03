@@ -23,7 +23,7 @@ Samochodem! No albo:
 
 ### Łośtaxi
 
-Z pobliskich miejscowości uczestnicy mogą zostać odebrani przez obozowe Łośtaxi. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599.
+Z pobliskich miejscowości uczestnicy mogą zostać odebrani przez obozowe Łośtaxi. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599. Na Alasce nie zawsze jest zasięg: jak się nie dodzwonicie, piszcie SMSa z informacją ile ludzi/kiedy/skąd i czekajcie na potwierdzenie.
 
 Za **późną rezerwację** może być doliczona **opłata aż 50zł**. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi po was przyjechać...
 
