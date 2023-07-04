@@ -40,6 +40,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Noga (benerit) - 5k  ( to nie błąd, Ben wrócił do grania!)
 - Marcel Mroczek - 5k
 - Emilia Stalinski - 5k
+- Antoni Hanke - 5k
 - Daria Kwietniewska - 6k
 - Piotr Walczak - 6k
 - Bartek Lisiecki (hino) - 7k
