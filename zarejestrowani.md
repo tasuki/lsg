@@ -32,6 +32,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Skibiński - 3k
 - Patryk Jełowicki (kolorek) - 3k
 - Mateusz Szeląg (szeląg) - 3k
+- Jakub Miłkowski - 3k
 - Małgorzata Palej (shaa) - 4k
 - Artur Barcicki - 4k
 - Tymek Barcicki - 4k
@@ -41,8 +42,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcel Mroczek - 5k
 - Emilia Stalinski - 5k
 - Antoni Hanke - 5k
+- Lukasz Bukowski - 5k
 - Daria Kwietniewska - 6k
 - Piotr Walczak - 6k
+- Szymon Pyżalski - 6k
 - Bartek Lisiecki (hino) - 7k
 - Wojtek Kaśków - 7k
 - Adam Siwy - 7k
@@ -123,6 +126,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Weronika Olszewska - ng
 - pies Buber - ng :-) :-)
 - Wiktoria Celmer - ng
+- Jakub Stasinski - ng???
 - Jacek Chroboczek (czifo) - ng
 
 
