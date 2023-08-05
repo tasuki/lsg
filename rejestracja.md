@@ -8,7 +8,7 @@ title: Jak się zarejestrować
 Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
 > Imię i nazwisko:  
-> Data pobytu: od 8.7.2023 (sobota, lipiec) do 23.7.2023 (niedziela)  
+> Data pobytu: od 13.7.2024 (sobota, lipiec) do 28.7.2024 (niedziela)  
 > Nocleg: (domek, namiot własny,inne)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)  
 > Siła gracza: 

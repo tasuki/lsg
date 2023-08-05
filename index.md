@@ -3,11 +3,11 @@ layout: page
 title: Wstęp
 ---
 
-# Letnia Szkoła Go 2023
+# Letnia Szkoła Go 2024
 
 ### Memoriał Marceliny Chojnackiej
 
-*Kiedy?* &nbsp; 8. -- 23. lipca 2023  
+*Kiedy?* &nbsp; 13. -- 28. lipca 2024  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie, Bory Tucholskie  
 
 Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
