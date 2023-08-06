@@ -10,7 +10,9 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
+- Jan Frączak - 3d albo i 4d
 - Hana Brunner - 47k
+- Czifo - ng
 
 
 Twoja siła się nie zgadza ?
