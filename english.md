@@ -15,7 +15,7 @@ Merlijn, Ignus, Ania, Muru, Ajka, Palladin, Andrew, Boris, Martha, Benji, Jun, Å
 
 ![przystanek alaska](/public/palaska2021.jpg)
 
-The Polish Summer Go Camp is one of the biggest go events in Europe. It has quite a different schedule and attractions then the EGC. We organize regular group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
+The Polish Summer Go School hosts many [go/non-go/go-adjaceent tournaments](https://lsg-go-art-pl.translate.goog/turnieje?_x_tr_sl=auto&_x_tr_tl=en). We have daily group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
 
 The venue is a farm remodelled to a camping, inspired by the "Northern Exposure" TV series. There's a beautiful lake to swim in, forests to stroll in, horses to ride, and beers to drink. You can sleep in a cottage or in your tent. The camp provides a kitchen, a big barn rebuilt to a general meeting place and dancing room, clean toilets, showers, audio and karaoke hardware, parking. You can [see some photos on facebook](https://facebook.com/pg/przystanek.alaska.5/photos/).
 
@@ -33,9 +33,9 @@ The venue is a farm remodelled to a camping, inspired by the "Northern Exposure"
 
 ## First time?
 
-1. Register early. Places in the cottages are limited. If you bring a tent you'll always fit.
+1. Register early. Places in the cottages are limited (bring a sleeping bag!). If you bring a tent you'll always fit.
 2. Take warm clothes. It can get very cold.
-3. After arriving, visit the shop on the lefthand side of the main square or ask people sitting under the big tree for help.
+3. After arriving, visit the shop on the left hand side of the main square or ask people sitting under the big tree for help.
 
 ## How to register
 

@@ -12,7 +12,7 @@ Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełnia
 > Nocleg: (domek, namiot własny,inne)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)  
 > Siła gracza: 
-  
+>  
 > Inne uwagi: (np nazwiska osób z którymi chce się zająć domek)  
 
 ### Gdzie przelać pieniądze w ramach przedpłaty za domek lub opłaty za całość LSG?

@@ -12,7 +12,7 @@ Nie. Wymagane jest aby niepełnoletni przyjeżdżali pod opieką osoby dorosłej
 Domki traperskie to drewniane budyneczki ocieplone gliną, łóżko to materac (śpiwór należy samemu przywiezć) położony na drewnianej ramie. W domkach jest prąd i światło. Każdy z siedmiu domków składa się z dwóch pokojów o pojemności 5 lub 4 osoby (innych wielkości pokojów NIE MA).  [Fotki standardu Alaski](http://www.alaska.sundar.pl/info.html)
 
 1. <strong>Jak z dostępem do ciepłej wody i prądu na polu?</strong><br>
-Są płatne prysznice, czynne rano i wieczorem. W bezpłatnych umywalniach jest zimna woda, ale można np w celu zrobienia prania podgrzać sobie wodę w kuchennym czajniku. Prąd jest dostępny w domkach oraz zabudowaniach. Jest więc możliwość podłączenia laptopa czy komórki. 
+W prysznicach jest ciepła woda rano i wieczorem. Jak da łoś, jest też o innych porach. Prąd jest dostępny w domkach oraz zabudowaniach. Jest więc możliwość podłączenia laptopa czy komórki. 
 
 1. <strong>Gdzie można sobie coś ugotować?</strong><br>
 Kuchnia dostępna dla obozowiczów jest dobrze wyposażona. Są lodówki, kuchenka, czajnik elektryczny, toster. Sklepik obozowy jest dobrze zaopatrzony i można kupić nie tylko zupki chińskie, ale i mąkę, jaja, ziemniaki, konserwy i wiele innych. 

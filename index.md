@@ -10,7 +10,9 @@ title: Wstęp
 *Kiedy?* &nbsp; 13. -- 28. lipca 2024  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie, Bory Tucholskie  
 
-Od ponad piętnastu lat LSG jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
+Od ponad piętnastu lat Letnia Szkoła Go jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
+
+Na Letniej Szkole Go odbywają się [codzienne zajęcia](/co-gdzie) oraz [wiele turniejów](/turnieje) bardziej i mniej poważnych, goistycznych i niegoistycznych.
 
 ![przystanek alaska](/public/palaska2021.jpg)
 
@@ -23,7 +25,7 @@ Na wyposażeniu gospodarstwa znajdują się:
 - Czyste toalety
 - Prysznic z ciepłą wodą dostępny w godzinach rannych i wieczornych, sauna
 - Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych
-- Wiele innych atrakcji: jezioro *(pierwsza klasa czystości z prywatną plażą)*, stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), kajaki, siatkówka, koszykówka, ściana wspinaczkowa, siłownia, szlaki wycieczkowe, kamienne kręgi, i inne.
+- Wiele innych atrakcji: jezioro *(pierwsza klasa czystości z prywatną plażą)*, stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), kajaki, siatkówka, koszykówka, ping pong, ściana wspinaczkowa, siłownia, szlaki wycieczkowe, kamienne kręgi, i inne.
 
 ![karaoke](/public/karaoke.jpg)
 

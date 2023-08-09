@@ -31,6 +31,5 @@ Uwagi:
 Zniżki:
 - 10% zniżki za **pobyt** dla tych co zarejestrują się do 15 maja
 - 5% zniżki za **pobyt** dla zarejestrowanych do 15 czerwca
-- Dla **członków PSG** 40% zniżka na opłatę za LSG
 
 ![licytacja](/public/licytacja.jpg)
