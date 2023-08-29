@@ -11,6 +11,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Jan Frączak - 3d albo i 4d
+- Maksym Wałaszewski (sztygrys) - 3d
 - Paweł Frączak (alvar) - 1d
 - Ryszard Szopa - 17k
 - Rysio Szopa - 18k
