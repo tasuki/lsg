@@ -7,10 +7,10 @@ title: Cennik
 
 | Noclegi (osoba/nocka)                           |     1 dzień |    cała LSG |
 | ----------------------------------------------- | ----------: | ----------: |
-| w domku                                         |   [1] 29 zł |      420 zł |
-| we własnym namiocie (dziecko 1-10 lat)          |       12 zł |      180 zł |
-| we własnym namiocie (uczeń / student do 25 lat) |       16 zł |      240 zł |
-| we własnym namiocie (dorosly)                   |       22 zł |      330 zł |
+| w domku                                         |   [1] 30 zł |      430 zł |
+| we własnym namiocie (dziecko 1-10 lat)          |       13 zł |      190 zł |
+| we własnym namiocie (uczeń / student do 25 lat) |       17 zł |      250 zł |
+| we własnym namiocie (dorosly)                   |       23 zł |      340 zł |
 | pokoj VIP (2 osobowy, dla rodzin z dziećmi)     | nie dotyczy | worek złota |
 | pobyt dzienny (dla mieszkających gdzie indziej) |       13 zł |      130 zł |
 
@@ -22,8 +22,8 @@ Uwagi:
 | opłata za LSG (dziecko / student do 25 lat)                |    5 zł |    50 zł |
 | opłata za LSG (dorosły)                                    |   15 zł |   150 zł |
 | opłata za LSG (Ukrainian)                                  |    0 zł |     0 zł |
-| wyżywienie (śniadanie 11zł, obiad 26zł, kolacja 14zł)      |   ? zł cena w marcu |   ??? zł |
-| wyżywienie dzieci (śniadanie 8zł, obiad 14zł, kolacja 9zł) |   ? zł |   ??? zł |
+| wyżywienie (śniadanie 12zł, obiad 27zł, kolacja 15zł)      |   54 zł |   770 zł |
+| wyżyw. dzieci (śniadanie 8zł, obiad 15zł, kolacja 10zł)    |   33 zł |   440 zł |
 | motor/samochód                                             |    4 zł |    60 zł |
 | zwierzaki, łącznie ze słoniami i wielorybami               |    0 zł |     0 zł |
 
