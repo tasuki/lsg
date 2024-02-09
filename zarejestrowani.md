@@ -14,6 +14,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maksym Wałaszewski (sztygrys) - 3d
 - Antoni Bugaj - 2d
 - Paweł Frączak (alvar) - 1d
+- Anna Sosnicka-Ciesla (sosna) - 1d
+- Kacper Ciesla (comboy) - 2k
 - Marcin Kulczycki - 4k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
@@ -27,6 +29,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Sobanski - 30k
 - Antek Kolinski - 30k
 - Leszek Kolinski - 30k
+- Tomaszek Ciesla - 30k
+- Basia Ciesla - 30k
 - Hana Brunner - 47k
 - Marta Sobanska - ng
 - Stas Kolinski - ng
