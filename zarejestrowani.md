@@ -24,11 +24,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ryszard Szopa - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
+- - Leszek Kolinski - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
 - Antek Kolinski - 30k
-- Leszek Kolinski - 30k
 - Tomaszek Ciesla - 30k
 - Basia Ciesla - 30k
 - Hana Brunner - 47k
