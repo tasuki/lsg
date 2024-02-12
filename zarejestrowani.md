@@ -24,7 +24,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ryszard Szopa - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
-- - Leszek Kolinski - 20k
+- Leszek Kolinski - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
