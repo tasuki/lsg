@@ -17,14 +17,18 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sosnicka-Ciesla (sosna) - 1d
 - Kacper Ciesla (comboy) - 2k
 - Marcin Kulczycki - 4k
+- Wojtek Kaśkow - 5k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Joanna Bugaj - 9k
+- Michał Świętek - 9k
 - Zofia Bugaj - 13k
+- Jan Opawski - 14k
 - Ryszard Szopa - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
 - Leszek Kolinski - 20k
+- Franek Świętek - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
@@ -38,6 +42,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kinga Lisiecka-Garbaczewska - ng
 - Malgorzata Palej (shaa) - ng
 - Pawel Obrok (yapee) - ng
+- Ewa Świętek - ng
 - Czifo - ng
 
 
