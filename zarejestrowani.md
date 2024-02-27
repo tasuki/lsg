@@ -20,6 +20,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wojtek Kaśkow - 5k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
+- Wojciech Ślusarczyk (oro) - 8k
 - Joanna Bugaj - 9k
 - Michał Świętek - 9k
 - Zofia Bugaj - 13k
@@ -43,6 +44,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Malgorzata Palej (shaa) - ng
 - Pawel Obrok (yapee) - ng
 - Ewa Świętek - ng
+- Magda Ślusarczyk - ng
+- Staś Ślusarczyk - ng
+- Natka Ślusarczyk - ng
+- Emilia Zaremba - ng
 - Czifo - ng
 
 
