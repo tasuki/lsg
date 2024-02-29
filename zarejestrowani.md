@@ -13,23 +13,30 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Frączak - 3d albo i 4d
 - Maksym Wałaszewski (sztygrys) - 3d
 - Antoni Bugaj - 2d
+- Łukasz Lew - 2d
 - Paweł Frączak (alvar) - 1d
 - Anna Sosnicka-Ciesla (sosna) - 1d
 - Kacper Ciesla (comboy) - 2k
+- Tymek Barcicki - 2k
 - Marcin Kulczycki - 4k
+- Artur Barcicki - 4k
 - Wojtek Kaśkow - 5k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Wojciech Ślusarczyk (oro) - 8k
 - Joanna Bugaj - 9k
 - Michał Świętek - 9k
+- Maciej Łacny - 9k
+- Weronika Łacny - 10k
 - Zofia Bugaj - 13k
+- Kacper Barcicki - 13k
 - Jan Opawski - 14k
 - Ryszard Szopa - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
 - Leszek Kolinski - 20k
 - Franek Świętek - 20k
+- Filip Łacny - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
@@ -48,6 +55,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Staś Ślusarczyk - ng
 - Natka Ślusarczyk - ng
 - Emilia Zaremba - ng
+- Sylwia Barcicka (pasqda) - ng
 - Czifo - ng
 
 
