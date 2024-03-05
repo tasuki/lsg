@@ -56,6 +56,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natka Ślusarczyk - ng
 - Emilia Zaremba - ng
 - Sylwia Barcicka (pasqda) - ng
+- Łukasz Grabowski (grasiu) - ng
 - Czifo - ng
 
 
