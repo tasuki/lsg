@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Łukasz Lew - 2d
 - Paweł Frączak (alvar) - 1d
 - Anna Sosnicka-Ciesla (sosna) - 1d
+- Darek Bendarczyk - 1k
 - Kacper Ciesla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Marcin Kulczycki - 4k
@@ -57,6 +58,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Emilia Zaremba - ng
 - Sylwia Barcicka (pasqda) - ng
 - Łukasz Grabowski (grasiu) - ng
+- Paulina Bednarczyk (5k) - ng
+- Oliwia Bednarczyk - ng
+- Wojtek Bednarczyk - ng
 - Czifo - ng
 
 
