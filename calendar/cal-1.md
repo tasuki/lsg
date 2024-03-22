@@ -1,0 +1,86 @@
+# 1. tyd
+
+## Sob 13.7.
+
+16 Symultana chaotyczna może jak się uda
+19 Kolacja
+20 Otwarcie
+21 Ognisko
+
+## Nie 14.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Turniej poznawczy runda 1 i 2
+14 Obiad
+15 Turniej poznawczy runda 3 i 4
+19 Kolacja
+20 Podział do grup
+
+## Pon 15.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 1-5
+14 Obiad
+15 ~
+16 9×9: 1-4
+17 9×9: 5-8
+18 9×9: finał
+19 Kolacja
+20 ~
+
+## Wto 16.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 1-5
+14 Obiad
+15 Torus: 1-2
+16 Torus: 3-4
+17 Torus: 5-6
+18 Torus: 7
+19 Kolacja
+20 Może wykład jakiś
+
+## Śro 17.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 1-5
+14 Obiad
+15 ~
+16 Sztafeta KaCa
+18 ~
+19 Kolacja
+20 ~
+
+## Czw 18.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 1-5
+14 Obiad
+15 ~
+16 Rengo: 1
+17 Rengo: 2
+18 Rengo: 3
+19 Kolacja
+20 1z5
+
+## Pią 19.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 1-5
+14 Obiad
+15 ~
+16 Konkurs tsumego
+18 ~
+19 Kolacja
+20 Licytacja

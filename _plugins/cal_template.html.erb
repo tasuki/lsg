@@ -1,0 +1,9 @@
+<table class="cal">
+  <tr>
+    <th class="head"><%= week %></th><% for day in days %>
+    <th class="head"><%= day[:day] %></th><% end %>
+  </tr><% for hour in hours %>
+  <tr><% for event in hour %>
+    <td class="<%= event[:class] %>" rowspan="<%= event[:rowspan] %>" colspan="<%= event[:colspan] %>"><%= event[:event] %></td><% end %>
+  </tr><% end %>
+</table>

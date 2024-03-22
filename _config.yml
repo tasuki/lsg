@@ -1,4 +1,4 @@
 # Setup
 title: 'LSG 2024'
 description: 'Wszystko Będzie (Dobrze)'
-exclude: [vendor, calendar]
+exclude: [vendor, _includes/cal-1.html, _includes/cal-2.html]

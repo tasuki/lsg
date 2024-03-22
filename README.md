@@ -6,20 +6,18 @@ https://lsg.go.art.pl/
 Setup
 -----
 
-Wymaga Ruby/Bundler (na Jekylla), Pyton z reStructuredText (na budowę kalendarza) oraz BeautifulSoup (na post-processing kalendarza), `entr` do oglądania zmian w kalendarzu.
+Wymaga Ruby/Bundler. Lepiej Ruby 3 niż 2, ale powinno śmigać na wszystkim.
 
-Na Debianach można zainstalować następująco:
+Na Debian 12 Bookworm można zainstalować następująco:
 
 ```
-sudo apt-get install bundler python3-docutils python3-bs4 entr
+sudo apt-get install bundler
 bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
 Develop
 -------
-
-Kalendarz robi reStructuredText z rzeczy w `calendar/`, jekyll servuje. Wszystko można uruchomić:
 
 ```
 make develop
