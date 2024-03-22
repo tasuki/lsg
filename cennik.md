@@ -5,23 +5,31 @@ title: Cennik
 
 ## Cenniki
 
-| Noclegi (osoba/nocka)                           |     1 dzień |    cała LSG |
-| ----------------------------------------------- | ----------: | ----------: |
-| w domku                                         |   [1] 30 zł |      430 zł |
-| we własnym namiocie (dziecko 1-10 lat)          |       13 zł |      190 zł |
-| we własnym namiocie (uczeń / student do 25 lat) |       17 zł |      250 zł |
-| we własnym namiocie (dorosly)                   |       23 zł |      340 zł |
-| pokoj VIP (2 osobowy, dla rodzin z dziećmi)     | nie dotyczy | worek złota |
-| pobyt dzienny (dla mieszkających gdzie indziej) |       13 zł |      130 zł |
+<!--
+Tutaj tekst dla Czifa, nie dla konsumpcji publicznej :)
 
-Uwagi:  
-1. Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
+Opłatę za LSG będziemy wliczać w noclegi dla zmniejszenia ilości negocjacji ze strony uczęstników!
+W poniższej tabeli piszemy ceny tak o: {Alaska + LSG}. Na stronie się potem będzie pokazywała suma.
+
+Od VIPów wybrać tak samo: dorosły 17/170 dorosły, do 25 lat 7/70
+-->
+
+| Noclegi (osoba/nocka)                           |       1 dzień |       cała LSG |
+| ----------------------------------------------- | ------------: | -------------: |
+| w domku (dorosły)                               |  {30 + 17} zł | {430 + 170} zł |
+| w domku (do 25 lat)                             |  {30 +  7} zł | {430 +  70} zł |
+| w domku (do 10 lat)                             |  {30 +  0} zł | {430 +   0} zł |
+| we własnym namiocie (dorosly)                   |  {23 + 17} zł | {340 + 170} zł |
+| we własnym namiocie (do 25 lat)                 |  {17 +  7} zł | {250 +  70} zł |
+| we własnym namiocie (do 10 lat)                 |  {13 +  0} zł | {190 +   0} zł |
+| pokoj VIP (2 osobowy, dla rodzin z dziećmi)     |   nie dotyczy |    worek złota |
+| pobyt dzienny (dla mieszkających gdzie indziej) |  {13 + 17} zł | {130 + 170} zł |
+
+**Uwaga**:  
+Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
 
 | LSG/Wyżywienie/Samochody/Zwierzęta                         | 1 dzień | cała LSG |
 | ---------------------------------------------------------- | ------: | -------: |
-| opłata za LSG (dziecko / student do 25 lat)                |    5 zł |    50 zł |
-| opłata za LSG (dorosły)                                    |   15 zł |   150 zł |
-| opłata za LSG (Ukrainian)                                  |    0 zł |     0 zł |
 | wyżywienie (śniadanie 12zł, obiad 27zł, kolacja 15zł)      |   54 zł |   770 zł |
 | wyżyw. dzieci (śniadanie 8zł, obiad 15zł, kolacja 10zł)    |   33 zł |   440 zł |
 | motor/samochód                                             |    4 zł |    60 zł |
