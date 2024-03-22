@@ -12,7 +12,8 @@ Na Debianach można zainstalować następująco:
 
 ```
 sudo apt-get install bundler python3-docutils python3-bs4 entr
-bundle install --path vendor/bundle
+bundle config set --local path 'vendor/bundle'
+bundle install
 ```
 
 Develop
