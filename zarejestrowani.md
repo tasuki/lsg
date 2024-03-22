@@ -10,6 +10,7 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
+- Marcin Majka (higaki) - 4d
 - Jan Frączak - 3d albo i 4d
 - Maksym Wałaszewski (sztygrys) - 3d
 - Antoni Bugaj - 2d
@@ -19,6 +20,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Darek Bendarczyk - 1k
 - Kacper Ciesla (comboy) - 2k
 - Tymek Barcicki - 2k
+- Piotr Andryszek - 2k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
 - Wojtek Kaśkow - 5k
