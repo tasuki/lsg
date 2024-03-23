@@ -1,7 +1,6 @@
 module Jekyll
   module Converters
     class PreprocessCennik < Markdown
-      safe true
       priority :high
 
       def convert(content)
@@ -13,13 +12,8 @@ module Jekyll
       end
 
       def sum_prices(content)
-        pattern = /\{\s*(\d+)\s*\+\s*(\d+)\s*\}/
-
-        content.gsub(pattern) do |match|
-          num1 = $1.to_i
-          num2 = $2.to_i
-
-          (num1 + num2).to_s
+        content.gsub(/\{\s*(\d+)\s*\+\s*(\d+)\s*\}/) do |match|
+          ($1.to_i + $2.to_i).to_s
         end
       end
     end
