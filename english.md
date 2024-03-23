@@ -15,7 +15,7 @@ Merlijn, Ignus, Ania, Muru, Ajka, Palladin, Andrew, Boris, Martha, Benji, Jun, Å
 
 ![przystanek alaska](/public/palaska2021.jpg)
 
-The Polish Summer Go School hosts many [go/non-go/go-adjaceent tournaments](https://lsg-go-art-pl.translate.goog/turnieje?_x_tr_sl=auto&_x_tr_tl=en). We have daily group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
+The Polish Summer Go School hosts many [go/non-go/go-adjacent tournaments](https://lsg-go-art-pl.translate.goog/turnieje?_x_tr_sl=auto&_x_tr_tl=en). We have daily group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
 
 The venue is a farm remodelled to a camping, inspired by the "Northern Exposure" TV series. There's a beautiful lake to swim in, forests to stroll in, horses to ride, and beers to drink. You can sleep in a cottage or in your tent. The camp provides a kitchen, a big barn rebuilt to a general meeting place and dancing room, clean toilets, showers, audio and karaoke hardware, parking. You can [see some photos on facebook](https://facebook.com/pg/przystanek.alaska.5/photos/).
 
@@ -23,7 +23,7 @@ The venue is a farm remodelled to a camping, inspired by the "Northern Exposure"
 
 ## Pricelist
 
-... the [pricelist is available in Polish](/cennik) (or with [Google Translate](https://lsg-go-art-pl.translate.goog/cennik?_x_tr_sl=auto&_x_tr_tl=en))! It's dirt cheap -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in around 250 eur.
+... the [pricelist is available in Polish](/cennik) (or with [Google Translate](https://lsg-go-art-pl.translate.goog/cennik?_x_tr_sl=auto&_x_tr_tl=en))! It's dirt cheap -- not even worth translating. The whole package, two weeks of cottage + meals + lessons + tournaments, comes in around 333 eur.
 
 ## Schedule
 
