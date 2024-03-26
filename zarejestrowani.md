@@ -31,6 +31,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Świętek - 9k
 - Maciej Łacny - 9k
 - Weronika Łacny - 10k
+- Michal Flach (minewen) - 10k
 - Zofia Bugaj - 13k
 - Kacper Barcicki - 13k
 - Jan Opawski - 14k
