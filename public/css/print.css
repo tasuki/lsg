@@ -1,3 +1,4 @@
 table.cal { font-size: 24px; line-height: 30px; }
 table.cal tr th { width: 70px; }
 table.cal th + th { width: auto; }
+table.cal, table.cal td, table.cal th { border: 1px solid #999; }

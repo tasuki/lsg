@@ -43,7 +43,7 @@
 17 Torus: 5-6
 18 Torus: 7
 19 Kolacja
-20 Może wykład jakiś
+20 Może wykład
 
 ## Śro 17.7.
 
@@ -84,3 +84,14 @@
 18 ~
 19 Kolacja
 20 Licytacja
+
+## Sob 20.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Memoriał runda 1
+13 Obiad
+14 Memoriał runda 2-3
+19 Kolacja
+20 ~
+21 Ognisko
