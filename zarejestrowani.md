@@ -23,6 +23,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Piotr Andryszek - 2k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
+- Marcin Tomczyk (emtom) - 4k 
 - Wojtek Kaśkow - 5k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
@@ -64,6 +65,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Bednarczyk (5k) - ng
 - Oliwia Bednarczyk - ng
 - Wojtek Bednarczyk - ng
+- Monika Sas-Tomczyk - ng
+- Zosia Tomczyk -ng
+- Rozalka Tomczyk -ng
+- Rafał Bzoma (bzyk) - ng
+- Magda Bzoma - ng
+- Halinka Bzoma - ng
 - Czifo - ng
 
 
