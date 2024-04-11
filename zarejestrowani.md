@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Majka (higaki) - 4d
 - Jan Frączak - 3d albo i 4d
 - Maksym Wałaszewski (sztygrys) - 3d
+- Andrew Kay (paladyn) - 3d
 - Antoni Bugaj - 2d
 - Łukasz Lew - 2d
 - Paweł Frączak (alvar) - 1d
@@ -42,6 +43,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Leszek Kolinski - 20k
 - Franek Świętek - 20k
 - Filip Łacny - 20k
+- Klaudia Srul (sprężynka) - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
@@ -71,6 +73,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rafał Bzoma (bzyk) - ng
 - Magda Bzoma - ng
 - Halinka Bzoma - ng
+- Michał Ślusarczyk (młody) - ng
 - Czifo - ng
 
 
