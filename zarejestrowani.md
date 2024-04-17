@@ -19,6 +19,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Frączak (alvar) - 1d
 - Anna Sosnicka-Ciesla (sosna) - 1d
 - Darek Bendarczyk - 1k
+- Marianna Szychowiak - 1k
+- Klaus Blumberg - ...
 - Kacper Ciesla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Piotr Andryszek - 2k
@@ -44,6 +46,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Franek Świętek - 20k
 - Filip Łacny - 20k
 - Klaudia Srul (sprężynka) - 20k
+- Magda Walkiewicz - 20k
+- Bartosz Kaganiec - 20k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
