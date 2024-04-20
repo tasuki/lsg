@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Darek Bendarczyk - 1k
 - Marianna Szychowiak - 1k
 - Klaus Blumberg - ...
+- Grzegorz Sobański (silk) - 2k
 - Kacper Ciesla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Piotr Andryszek - 2k
@@ -28,6 +29,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k 
 - Wojtek Kaśkow - 5k
+- Daria Kwietniewska (dariatka) - 6k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Wojciech Ślusarczyk (oro) - 8k
