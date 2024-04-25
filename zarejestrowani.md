@@ -30,6 +30,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Tomczyk (emtom) - 4k 
 - Wojtek Kaśkow - 5k
 - Daria Kwietniewska (dariatka) - 6k
+- Jarek Bębenek - 6k
+- Jakub Gauza (mermez) - 6k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Wojciech Ślusarczyk (oro) - 8k
@@ -50,6 +52,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Klaudia Srul (sprężynka) - 20k
 - Magda Walkiewicz - 20k
 - Bartosz Kaganiec - 20k
+- Rufin Gauza - 25k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
 - Jan Sobanski - 30k
@@ -80,6 +83,15 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Magda Bzoma - ng
 - Halinka Bzoma - ng
 - Michał Ślusarczyk (młody) - ng
+- Katarzyna Tymczyszyn Bębenek - ng
+- Klara Bębenek - ng
+- Wanda Bębenek - ng
+- Agata Piekutowska - ng
+- Paweł Piekutowski - ng
+- Patrycja Piekutowska - ng
+- Anna Cichocka (ridibunda) - ng
+- Inga Gauza - ng
+- Julia Bray - ng
 - Czifo - ng
 
 
