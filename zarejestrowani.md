@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Ciesla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Piotr Andryszek - 2k
+- Mateusz Szeląg - 2k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k 
