@@ -100,6 +100,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maria Kościńska - ng
 - Paulina Śliwa - ng
 - Zosia, Alicja, Leonard Śliwa - ng
+- Ewa Biernot - ng
 - Czifo - ng
 
 
