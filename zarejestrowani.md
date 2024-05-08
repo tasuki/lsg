@@ -26,10 +26,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 2k
 - Piotr Andryszek - 2k
 - Mateusz Szeląg - 2k
+- Zbigniew Kościński - 3k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k 
 - Wojtek Kaśkow - 5k
+- Łukasz Bandach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Jarek Bębenek - 6k
 - Jakub Gauza (mermez) - 6k
@@ -41,6 +43,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maciej Łacny - 9k
 - Weronika Łacny - 10k
 - Michal Flach (minewen) - 10k
+- Szymon Śliwa - ok 10k
 - Zofia Bugaj - 13k
 - Kacper Barcicki - 13k
 - Jan Opawski - 14k
@@ -93,6 +96,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Cichocka (ridibunda) - ng
 - Inga Gauza - ng
 - Julia Bray - ng
+- Mariola Kościńska - ng
+- Maria Kościńska - ng
+- Paulina Śliwa - ng
+- Zosia, Alicja, Leonard Śliwa - ng
 - Czifo - ng
 
 
