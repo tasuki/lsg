@@ -38,6 +38,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Wojciech Ślusarczyk (oro) - 8k
+- Marcin Bałaban - 8k
 - Joanna Bugaj - 9k
 - Michał Świętek - 9k
 - Maciej Łacny - 9k
@@ -63,6 +64,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Antek Kolinski - 30k
 - Tomaszek Ciesla - 30k
 - Basia Ciesla - 30k
+- Weronika Bogacz- Roztworowska - 30k
 - Hana Brunner - 47k
 - Marta Sobanska - ng
 - Stas Kolinski - ng
