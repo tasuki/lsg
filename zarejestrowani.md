@@ -65,6 +65,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomaszek Ciesla - 30k
 - Basia Ciesla - 30k
 - Weronika Bogacz- Roztworowska - 30k
+- Jakub Śmigiel - 30k
 - Hana Brunner - 47k
 - Marta Sobanska - ng
 - Stas Kolinski - ng
