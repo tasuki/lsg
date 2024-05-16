@@ -104,6 +104,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Śliwa - ng
 - Zosia, Alicja, Leonard Śliwa - ng
 - Ewa Biernot - ng
+- Marta Przybylak - ng
+- Patryk Masiakowski - ng
 - Czifo - ng
 
 
