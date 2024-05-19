@@ -27,6 +27,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Piotr Andryszek - 2k
 - Mateusz Szeląg - 2k
 - Zbigniew Kościński - 3k
+- Adam Siwy - 3k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k 
