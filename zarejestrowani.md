@@ -28,6 +28,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Mateusz Szeląg - 2k
 - Zbigniew Kościński - 3k
 - Adam Siwy - 3k
+- Patryk Jełowicki (kolorek) - 3k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k 
