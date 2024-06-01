@@ -37,6 +37,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Daria Kwietniewska (dariatka) - 6k
 - Jarek Bębenek - 6k
 - Jakub Gauza (mermez) - 6k
+- Przemysław Włodarski - 6k
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Wojciech Ślusarczyk (oro) - 8k
