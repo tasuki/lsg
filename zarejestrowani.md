@@ -34,6 +34,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Tomczyk (emtom) - 4k 
 - Wojtek Kaśkow - 5k
 - Łukasz Bandach - 5k
+- Marcel Mroczek - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Jarek Bębenek - 6k
 - Jakub Gauza (mermez) - 6k
@@ -49,6 +50,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Weronika Łacny - 10k
 - Michal Flach (minewen) - 10k
 - Szymon Śliwa - ok 10k
+- Maria Kluziak - 11k
 - Zofia Bugaj - 13k
 - Kacper Barcicki - 13k
 - Jan Opawski - 14k
