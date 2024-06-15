@@ -51,6 +51,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Weronika Łacny - 10k
 - Michal Flach (minewen) - 10k
 - Szymon Śliwa - ok 10k
+- Przemek Wesołek - 10k
 - Maria Kluziak - 11k
 - Zofia Bugaj - 13k
 - Kacper Barcicki - 13k
