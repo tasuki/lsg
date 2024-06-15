@@ -56,6 +56,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Jan Opawski - 14k
 - Ryszard Szopa - 17k
+- Anna Seget - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
 - Leszek Kolinski - 20k
