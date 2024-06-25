@@ -58,6 +58,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Opawski - 14k
 - Ryszard Szopa - 17k
 - Anna Seget - 17k
+- Martyna Szalecka - 17k
 - Rysio Szopa - 18k
 - Michal Sobanski - 20k
 - Leszek Kolinski - 20k
@@ -75,6 +76,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Basia Ciesla - 30k
 - Weronika Bogacz- Roztworowska - 30k
 - Jakub Śmigiel - 30k
+- Kamil Szalecki - 30k
+- Tomasz Meresiński - 30k
 - Hana Brunner - 47k
 - Marta Sobanska - ng
 - Stas Kolinski - ng
