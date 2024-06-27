@@ -118,6 +118,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ewa Biernot - ng
 - Marta Przybylak - ng
 - Patryk Masiakowski - ng
+- Paweł Skibiński - ng
 - Czifo - ng
 
 
