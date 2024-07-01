@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymek Barcicki - 2k
 - Piotr Andryszek - 2k
 - Mateusz Szeląg - 2k
+- Kuba Miłkowski - 2k
 - Zbigniew Kościński - 3k
 - Adam Siwy - 3k
 - Patryk Jełowicki (kolorek) - 3k
