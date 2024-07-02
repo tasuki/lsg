@@ -44,6 +44,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Bartek Lisiecki (hino) - 7k
 - Robert Bugaj - 7k
 - Mariusz Klimczak - 7k
+- Marek Kowalski - 7k
 - Wojciech Ślusarczyk (oro) - 8k
 - Marcin Bałaban - 8k
 - Joanna Bugaj - 9k
