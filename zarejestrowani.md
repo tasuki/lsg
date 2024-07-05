@@ -20,6 +20,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sosnicka-Ciesla (sosna) - 1d
 - Darek Bendarczyk - 1k
 - Marianna Szychowiak - 1k
+- Robin Stieglitz - 1k
 - Klaus Blumberg - ...
 - Grzegorz Sobański (silk) - 2k
 - Kacper Ciesla (comboy) - 2k
@@ -32,7 +33,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Jełowicki (kolorek) - 3k
 - Marcin Kulczycki - 4k
 - Artur Barcicki - 4k
-- Marcin Tomczyk (emtom) - 4k 
+- Marcin Tomczyk (emtom) - 4k
+- Antoni Hanke - 4k
 - Wojtek Kaśkow - 5k
 - Łukasz Bandach - 5k
 - Marcel Mroczek - 5k
@@ -69,6 +71,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Klaudia Srul (sprężynka) - 20k
 - Magda Walkiewicz - 20k
 - Bartosz Kaganiec - 20k
+- Natalia Chmiel - 20k
+- Tymoteusz Chmiel - 20k
 - Rufin Gauza - 25k
 - Natalia Kolinska - 26k
 - Piotr Sobanski - 30k
@@ -121,6 +125,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marta Przybylak - ng
 - Patryk Masiakowski - ng
 - Paweł Skibiński - ng
+- Adam Hanke - ng
 - Czifo - ng
 
 
