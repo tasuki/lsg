@@ -57,6 +57,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Szymon Śliwa - ok 10k
 - Przemek Wesołek - 10k
 - Maria Kluziak - 11k
+- Antoni Machowski - 12k
 - Zofia Bugaj - 13k
 - Kacper Barcicki - 13k
 - Jan Opawski - 14k
