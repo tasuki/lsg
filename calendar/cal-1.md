@@ -2,7 +2,6 @@
 
 ## Sob 13.7.
 
-16 Symultana chaotyczna może jak się uda
 19 Kolacja
 20 Otwarcie
 21 Ognisko
@@ -43,7 +42,7 @@
 17 Torus: 5-6
 18 Torus: 7
 19 Kolacja
-20 Może wykład
+20 Wykład Jonasa
 
 ## Śro 17.7.
 

@@ -22,7 +22,7 @@
 17 Fantom: 2
 18 ~
 19 Kolacja
-20 Może wykład
+20 Wykład Jonasa
 
 ## Wto 23.7.
 
