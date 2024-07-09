@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Antoni Hanke - 4k
+- Piotr Rzepnikowski (rzepa) - 4k
 - Wojtek Kaśkow - 5k
 - Łukasz Bandach - 5k
 - Marcel Mroczek - 5k
@@ -127,6 +128,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Masiakowski - ng
 - Paweł Skibiński - ng
 - Adam Hanke - ng
+- Joanna Długosz - ng
 - Czifo - ng
 
 
