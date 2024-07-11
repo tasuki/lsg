@@ -8,7 +8,6 @@
 
 ## Nie 14.7.
 
-08 Hikaru no Go (kino)
 09 Śniadanie
 10 Turniej poznawczy runda 1 i 2
 14 Obiad
@@ -28,7 +27,7 @@
 17 9×9: 5-8
 18 9×9: finał
 19 Kolacja
-20 ~
+20 Piłkarzyki pary
 
 ## Wto 16.7.
 
@@ -55,7 +54,7 @@
 16 Sztafeta KaCa
 18 ~
 19 Kolacja
-20 ~
+20 Piłkarzyki pary
 
 ## Czw 18.7.
 
