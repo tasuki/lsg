@@ -51,8 +51,9 @@
 12 Maraton 1-5
 14 Obiad
 15 ~
-16 Sztafeta KaCa
-18 ~
+16 Rengo: 1
+17 Rengo: 2
+18 Rengo: 3
 19 Kolacja
 20 Podróże Argentyną (Magda)
 
