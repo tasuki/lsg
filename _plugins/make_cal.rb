@@ -12,7 +12,7 @@ module Jekyll
     @@categories = {
       food: ['śniadanie', 'obiad', 'kolacja', 'ognisko'],
       play: ['poznawczy', 'memoriał', 'maraton', 'mpp', 'blitz',
-             '9×9', '13×13', 'torus', 'rengo', 'fantom'],
+             '9×9', '13×13', 'torus', 'rengo', 'fantom', 'hex go'],
       learn: ['zajęcia', 'tsumego', 'wykład', 'podział', 'relay'],
     }
 

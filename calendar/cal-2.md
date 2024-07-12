@@ -64,7 +64,7 @@
 17 13×13 5-6
 18 13×13: 7
 19 Kolacja
-20 Konkurs tsumego
+20 ~
 
 ## Pią 26.7.
 

@@ -3,7 +3,7 @@
 ## Sob 13.7.
 
 19 Kolacja
-20 Otwarcie
+20 ~
 21 Ognisko
 
 ## Nie 14.7.
@@ -13,7 +13,7 @@
 14 Obiad
 15 Turniej poznawczy runda 3 i 4
 19 Kolacja
-20 Podział do grup
+20 Otwarcie <br> + podział <br> do grup
 
 ## Pon 15.7.
 
@@ -27,7 +27,7 @@
 17 9×9: 5-8
 18 9×9: finał
 19 Kolacja
-20 Piłkarzyki pary
+20 ~
 
 ## Wto 16.7.
 
@@ -54,7 +54,7 @@
 16 Sztafeta KaCa
 18 ~
 19 Kolacja
-20 Piłkarzyki pary
+20 Podróże Argentyną (Magda)
 
 ## Czw 18.7.
 
@@ -63,10 +63,7 @@
 10 Zajęcia w grupach
 12 Maraton 1-5
 14 Obiad
-15 ~
-16 Rengo: 1
-17 Rengo: 2
-18 Rengo: 3
+15 Ho <br> (Hex Go) <br> (pytać Lwa Łukasza!)
 19 Kolacja
 20 1z5
 

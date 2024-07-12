@@ -1,3 +1,4 @@
+p { color: #000; }
 table.cal { font-size: 24px; line-height: 30px; }
 table.cal tr th { width: 70px; }
 table.cal th + th { width: auto; }
