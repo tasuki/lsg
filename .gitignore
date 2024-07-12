@@ -2,4 +2,5 @@
 .jekyll-cache/
 _site/
 vendor/
-_includes/cal*
+_includes/cal-1.html
+_includes/cal-2.html
