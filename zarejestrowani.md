@@ -9,7 +9,7 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
-- Tomas Welticke - 6d - NAUCZYCIEL
+- Jomas Welticke - 6d - NAUCZYCIEL
 - Vít Brunner (tasuki) - 4d
 - Marcin Majka (higaki) - 4d
 - Jan Frączak - 3d albo i 4d
