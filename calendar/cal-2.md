@@ -9,6 +9,7 @@
 14 Memoriał runda 5-6
 19 Kolacja
 20 ~
+21 Męski krąg
 
 ## Pon 22.7.
 
