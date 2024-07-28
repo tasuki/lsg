@@ -1,21 +1,11 @@
 # 1. tyd
 
-## Sob 13.7.
+## Nie 6.7.
 
-19 Kolacja
-20 ~
-21 Ognisko
-
-## Nie 14.7.
-
-09 Śniadanie
-10 Turniej poznawczy runda 1 i 2
-14 Obiad
-15 Turniej poznawczy runda 3 i 4
 19 Kolacja
 20 Otwarcie <br> + podział <br> do grup
 
-## Pon 15.7.
+## Pon 7.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -28,8 +18,9 @@
 18 9×9: finał
 19 Kolacja
 20 ~
+21 Ognisko
 
-## Wto 16.7.
+## Wto 8.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -41,9 +32,9 @@
 17 Torus: 5-6
 18 Torus: 7
 19 Kolacja
-20 Wykład Jonasa
+20 Może wykład
 
-## Śro 17.7.
+## Śro 9.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -55,20 +46,20 @@
 17 Rengo: 2
 18 Rengo: 3
 19 Kolacja
-20 Podróże Argentyną (Magda)
+20 ~
 
-## Czw 18.7.
+## Czw 10.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
 10 Zajęcia w grupach
 12 Maraton 1-5
 14 Obiad
-15 Ho <br> (Hex Go) <br> (pytać Lwa Łukasza!)
+15 ~
 19 Kolacja
-20 1z5
+20 ~
 
-## Pią 19.7.
+## Pią 11.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -81,7 +72,7 @@
 19 Kolacja
 20 Licytacja
 
-## Sob 20.7.
+## Sob 12.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie

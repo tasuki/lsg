@@ -1,6 +1,6 @@
 # 2. tyd
 
-## Nie 21.7.
+## Nie 13.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -11,7 +11,7 @@
 20 ~
 21 Męski krąg
 
-## Pon 22.7.
+## Pon 14.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -23,9 +23,9 @@
 17 Fantom: 2
 18 ~
 19 Kolacja
-20 Wykład Jonasa
+20 Może wykład
 
-## Wto 23.7.
+## Wto 15.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -39,7 +39,7 @@
 19 Kolacja
 20 ~
 
-## Śro 24.7.
+## Śro 16.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -53,7 +53,7 @@
 19 Kolacja
 20 Blitz 9-10
 
-## Czw 25.7.
+## Czw 17.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -67,29 +67,19 @@
 19 Kolacja
 20 ~
 
-## Pią 26.7.
+## Pią 18.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 MPP
+15 Już nigdy <br> nie myję <br> kamyczków
 19 Kolacja
 20 Licytacja
 21 Ognisko
 
-## Sob 27.7.
-
-08 Hikaru no Go (kino)
-09 Śniadanie
-10 MPP
-14 Obiad
-15 MPP
-19 Kolacja
-20 ~
-
-## Nie 28.7.
+## Sob 19.7.
 
 09 Śniadanie
-10 ~
+10 Uroczyste rozpoczęcie post-LSG
