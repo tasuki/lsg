@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Polish Summer Go School 2025
+title: Polish Summer Go Camp 2025
 ---
 
-# Polish Summer Go School 2025
+# Polish Summer Go Camp 2025
 
 *When?* &nbsp; 6--18 July 2025 **(starting on Sunday!)**  
 *Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), GliÅ›no Wielkie 3, Poland  
@@ -17,7 +17,7 @@ Merlijn, Ignus, Ania, Muru, Ajka, Palladin, Andrew, Boris, Martha, Benji, Jun, Å
 
 ![przystanek alaska](/public/palaska2021.jpg)
 
-The Polish Summer Go School hosts many [go/non-go/go-adjacent tournaments](https://lsg-go-art-pl.translate.goog/turnieje?_x_tr_sl=auto&_x_tr_tl=en). We have daily group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
+The Polish Summer Go Camp hosts many [go/non-go/go-adjacent tournaments](https://lsg-go-art-pl.translate.goog/turnieje?_x_tr_sl=auto&_x_tr_tl=en). We have daily group lessons for dan players, kyu players, beginners, and children. These are usually held in Polish, but especially the dan-level group isn't afraid to switch to English!
 
 The venue is a farm remodelled to a camping, inspired by the "Northern Exposure" TV series. There's a beautiful lake to swim in, forests to stroll in, horses to ride, and beers to drink. You can sleep in a cottage or in your tent. The camp provides a kitchen, a big barn rebuilt to a general meeting place and dancing room, clean toilets, showers, audio and karaoke hardware, parking. You can [see some photos on facebook](https://facebook.com/pg/przystanek.alaska.5/photos/).
 
@@ -49,3 +49,7 @@ Send an email to: chrobjac@poczta.onet.pl with the following information:
 > Meals: (breakfast, lunch, dinner? do you prefer vegetarian meals?)  
 > Car: yes/no  
 > Notes: (eg with whom you'd like to share the cottage)
+
+## Questions?
+
+Try [our discord chat](https://discord.gg/9js9V4r3cx)! If that fails, [contact the organizers directly](https://lsg-go-art-pl.translate.goog/kontakt?_x_tr_sl=auto&_x_tr_tl=en).
