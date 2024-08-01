@@ -7,10 +7,10 @@ title: Wstęp
 
 ### Memoriał Marceliny Chojnackiej
 
-*Kiedy?* &nbsp; 6. -- 18. lipca 2025 **(od niedzieli!)**  
+*Kiedy?* &nbsp; 6--18 lipca 2025 **(od niedzieli!)**  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie, Bory Tucholskie  
 
-**6. lipca 2025 jest *niedziela*, kto przyjedzie w sobotę, zostanie wyproszony i będzie miło widziany w niedzielę 6.7.**
+**6 lipca 2025 jest *niedziela*, kto przyjedzie w sobotę, zostanie wyproszony i będzie miło widziany w niedzielę.**
 
 Od ponad dwudziestu lat Letnia Szkoła Go jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
 
