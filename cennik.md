@@ -30,8 +30,8 @@ Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi alb
 
 | Wyżywienie/Samochody/Zwierzęta                          | 1 dzień | cała LSG |
 | ------------------------------------------------------- | ------: | -------: |
-| wyżywienie   (śniadanie 12zł, obiad 27zł, kolacja 15zł) |   54 zł |   770 zł |
-| wyżyw. dzieci (śniadanie 8zł, obiad 15zł, kolacja 10zł) |   33 zł |   440 zł |
+| wyżywienie   (śniadanie zł, obiad zł, kolacja zł) |   ? zł |   ? zł |
+| wyżyw. dzieci (śniadanie zł, obiad zł, kolacja zł) |   ? zł |   ? zł |
 | motor/samochód                                          |    4 zł |    60 zł |
 | zwierzaki, łącznie ze słoniami i wielorybami            |    0 zł |     0 zł |
 
