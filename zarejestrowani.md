@@ -11,6 +11,9 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Hana Brunner - 42k
+- Małgorzata Palej (shaa) - ng
+- Paweł Obrok (yapee) - ng
+- Lars - ng
 - Czifo - ng
 
 
