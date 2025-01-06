@@ -9,12 +9,16 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
+- Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
 - Jacek Chroboczek (czifo) - 20k?
 - Hana Brunner - 42k
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
 - Lars - ng
+- Małgorzata Frejlak - ng
+- Jan Frejlak - ng
+  
 
 
 Twoja siła się nie zgadza ?
