@@ -10,7 +10,9 @@ title: Wstęp
 *Kiedy?* &nbsp; 6--18 lipca 2025 **(od niedzieli!)**  
 *Gdzie?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie, Bory Tucholskie  
 
-**6 lipca 2025 to jest niedziela!!! , kto przyjedzie w sobotę, zostanie wyproszony i będzie miło widziany następnego dnia. W tym roku wyjątkowo bo ze względu na ECG nastąpiło spiętrzenie i poprzedzający nas Larpart kończy się również wyjątkowo w sobotę a nie tydzień wcześniej. A zarówno orgowie Larparta jak i załoga ma mnóstwo roboty, żeby ogarnąć Alaskę w dobę i kręcenie się pod nogami 'bo ja nikomu nie przeszkadzam tylko.....)  - NO NIE!. Zatem do niedzieli bo będzie burda.
+**6 lipca 2025 jest *niedziela*, kto przyjedzie w sobotę, zostanie wyproszony i będzie miło widziany w niedzielę.**
+
+> W tym roku wyjątkowo bo ze względu na ECG nastąpiło spiętrzenie i poprzedzający nas Larpart kończy się również wyjątkowo w sobotę a nie tydzień wcześniej. A zarówno orgowie Larparta jak i załoga ma mnóstwo roboty, żeby ogarnąć Alaskę w dobę i kręcenie się pod nogami 'bo ja nikomu nie przeszkadzam tylko...' - NO NIE! Zatem do niedzieli bo będzie burda.
 
 Od ponad dwudziestu lat Letnia Szkoła Go jest organizowana na terenie gospodarstwa agroturystycznego "Przystanek Alaska" położonego nad jeziorem -- niesłychanie malowniczego, przepięknego i spokojnego regionu Borów Tucholskich.
 
