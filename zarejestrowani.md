@@ -18,6 +18,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Lars - ng
 - Małgorzata Frejlak - ng
 - Jan Frejlak - ng
+- Joanna Długosz - ng
+- Julia Bray - ng
   
 
 
