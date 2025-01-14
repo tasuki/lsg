@@ -32,7 +32,7 @@ Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi alb
 | ------------------------------------------------------- | ------: | -------: |
 | wyżywienie   (śniadanie zł, obiad zł, kolacja zł) |   ? zł |   ? zł |
 | wyżyw. dzieci (śniadanie zł, obiad zł, kolacja zł) |   ? zł |   ? zł |
-| motor/samochód                                          |    4 zł |    60 zł |
+| motor/samochód                                          |    4 zł |    50 zł |
 | zwierzaki, łącznie ze słoniami i wielorybami            |    0 zł |     0 zł |
 
 Zniżki:
