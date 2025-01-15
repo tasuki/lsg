@@ -20,6 +20,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Frejlak - ng
 - Joanna Długosz - ng
 - Julia Bray - ng
+- Piotr Walczak - ng
+- Magdalena Walczak - ng
+- Zosia Walczak - ng
+- Tomek Walczak - ng
+- Ania Walczak - ng
   
 
 
