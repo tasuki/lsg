@@ -11,6 +11,8 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
+- Wojtek Kaśkow - 4k
+- Jarek Bębenek - 4k
 - Jacek Chroboczek (czifo) - 20k?
 - Hana Brunner - 42k
 - Małgorzata Palej (shaa) - ng
@@ -25,6 +27,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Zosia Walczak - ng
 - Tomek Walczak - ng
 - Ania Walczak - ng
+- Kasia Bębenek - ng
+- Klara Bębenek - ng
+- Wanda Bębenek - ng
   
 
 
