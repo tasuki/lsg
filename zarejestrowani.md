@@ -11,9 +11,20 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
+- Anna Sośnicka - Cieśla (sosna) - 1d
+- Kacper Cieśla (comboy) - 2k
+- Tymek Barcicki - 2k
 - Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
+- Artur Barcicki - 4k
+- Marcin Tomczyk (emtom) - 4k
+- Kacper Barcicki - 13k
+- Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k?
+- Natalia Kolińska - 26k
+- Antek Koliński - 30k
+- Tomaszek Cieśla - 30k
+- Basia Cieśla - 30k
 - Hana Brunner - 42k
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
@@ -30,6 +41,19 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kasia Bębenek - ng
 - Klara Bębenek - ng
 - Wanda Bębenek - ng
+- Marta Szeredy - Kolińska - ng
+- Staś Koliński - ng
+- Sylwia Barcicka (pasqda)- ng
+- Monika Sas - Tomczyk -ng
+- Zosia Tomczyki - ng
+- Rozalka Tomczyk - ng
+- Rafał Bzoma - ng
+- Magda Bzoma - ng
+- Halinka Bzoma - ng
+- Magda Ślusarczyk - ng
+- Staś Ślusarczyk - ng
+- Natka Ślusarczyk - ng
+- Emilia Zaremba - ng
   
 
 
