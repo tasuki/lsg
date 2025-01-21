@@ -11,7 +11,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
-- Wojtek Kaśkow - 4k
+- Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
 - Jacek Chroboczek (czifo) - 20k?
 - Hana Brunner - 42k
