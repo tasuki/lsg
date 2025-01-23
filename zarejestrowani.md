@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k?
+- Klaudia Srul (sprężynka) - 20k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
 - Tomaszek Cieśla - 30k
@@ -47,13 +48,14 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Monika Sas - Tomczyk -ng
 - Zosia Tomczyki - ng
 - Rozalka Tomczyk - ng
-- Rafał Bzoma - ng
+- Rafał Bzoma (bzyk) - ng
 - Magda Bzoma - ng
 - Halinka Bzoma - ng
 - Magda Ślusarczyk - ng
 - Staś Ślusarczyk - ng
 - Natka Ślusarczyk - ng
 - Emilia Zaremba - ng
+- Michał Ślusarczyk (mlody) - ng
   
 
 
