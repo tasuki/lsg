@@ -14,10 +14,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
+- Grzegorz Sobański (silk) - 2k
 - Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Daria Kwietniewska (dariatka) - 6k
 - Kacper Barcicki - 13k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k?
@@ -56,6 +58,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natka Ślusarczyk - ng
 - Emilia Zaremba - ng
 - Michał Ślusarczyk (mlody) - ng
+
   
 
 
