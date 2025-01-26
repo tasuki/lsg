@@ -12,6 +12,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka - Cieśla (sosna) - 1d
+- Darek Bendarczyk - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Grzegorz Sobański (silk) - 2k
@@ -58,6 +59,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natka Ślusarczyk - ng
 - Emilia Zaremba - ng
 - Michał Ślusarczyk (mlody) - ng
+- Paulina Bednarczyk - ng
+- Wojtek Bednarczyk - ng
+- Oliwia Bednarczyk - ng
 
   
 
