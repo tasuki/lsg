@@ -12,23 +12,27 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka - Cieśla (sosna) - 1d
+- Marianna Szychowiak - 1d
 - Darek Bednarczyk - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Grzegorz Sobański (silk) - 2k
+- Paweł Skibiński - 3k
 - Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Kacper Barcicki - 13k
 - Leszek Koliński - 20k
-- Jacek Chroboczek (czifo) - 20k?
+- Jacek Chroboczek (czifo) - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
 - Tomaszek Cieśla - 30k
 - Basia Cieśla - 30k
+- Jan Marusarz - 30k
 - Hana Brunner - 42k
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
