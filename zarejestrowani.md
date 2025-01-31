@@ -18,6 +18,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Grzegorz Sobański (silk) - 2k
+- Adam Siwy - 2k
 - Paweł Skibiński - 3k
 - Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
