@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Marianna Szychowiak - 1d
+- Andrzej Drzystek - 1d
 - Darek Bednarczyk - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
@@ -24,10 +25,13 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Tomczyk (emtom) - 4k
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
+- Julia Bednarska - 7k
 - Kacper Barcicki - 13k
+- Bartosz Kaganiec - 15k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k
 - Klaudia Srul (sprężynka) - 20k
+- Ula Mudel - 25k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
 - Tomaszek Cieśla - 30k
