@@ -40,6 +40,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Basia Cieśla - 30k
 - Jan Marusarz - 30k
 - Hana Brunner - 42k
+- Gaja Mudel - 45
+- 
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
 - Lars - ng
