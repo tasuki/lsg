@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Tomczyk (emtom) - 4k
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
+- Tomasz Dec (koniu) - 6k
 - Julia Bednarska - 7k
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
@@ -41,7 +42,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Marusarz - 30k
 - Hana Brunner - 42k
 - Gaja Mudel - 45
-- 
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
 - Lars - ng
