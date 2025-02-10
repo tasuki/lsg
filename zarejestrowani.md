@@ -28,14 +28,17 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
+- Krzysztof Grygiel - 6k
 - Julia Bednarska - 7k
 - Konrad Szymański - 9k
+- Michał Świętek - 9k
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
+- Franek Świętek - 20k
 - Ula Mudel - 25k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
@@ -76,6 +79,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Bednarczyk - ng
 - Wojtek Bednarczyk - ng
 - Oliwia Bednarczyk - ng
+- Ewa Świętek - ng
+- Monika Skowrońska-Grygiel - ng
+- Kinga Grygiel - ng
 
   
 
