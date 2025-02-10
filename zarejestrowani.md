@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
 - Julia Bednarska - 7k
+- Konrad Szymański - 9k
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
 - Leszek Koliński - 20k
