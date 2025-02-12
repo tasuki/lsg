@@ -34,11 +34,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
+- Ewa Tobór-Świętek - 15k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
-- Franek Świętek - 20k
 - Ula Mudel - 25k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
@@ -79,7 +79,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Bednarczyk - ng
 - Wojtek Bednarczyk - ng
 - Oliwia Bednarczyk - ng
-- Ewa Świętek - ng
+- Franek Świętek - ng
 - Monika Skowrońska-Grygiel - ng
 - Kinga Grygiel - ng
 
