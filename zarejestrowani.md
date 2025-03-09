@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
+- Anna Seget - 17k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 20k
 - Klaudia Srul (sprężynka) - 20k
