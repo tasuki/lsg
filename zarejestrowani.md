@@ -82,6 +82,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Franek Świętek - ng
 - Monika Skowrońska-Grygiel - ng
 - Kinga Grygiel - ng
+- Eliza Nowacka - ng
 
   
 
