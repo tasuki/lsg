@@ -36,8 +36,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
 - Anna Seget - 17k
+- Jacek Chroboczek (czifo) - 18k
 - Leszek Koliński - 20k
-- Jacek Chroboczek (czifo) - 20k
+- Jacek Chroboczek (czifo) - 18k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
 - Ula Mudel - 25k
