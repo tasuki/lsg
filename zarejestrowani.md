@@ -84,7 +84,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Monika Skowrońska-Grygiel - ng
 - Kinga Grygiel - ng
 - Eliza Nowacka - ng
-
+- Łukasz Grabowski (grasiu) - ng
   
 
 
