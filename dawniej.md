@@ -15,6 +15,36 @@ title: Dawniej
 - [LSG 2017](/2017)
 - [LSG 2016](/2016)
 
+
+## Łosie w czasie
+
+- 2023, ChatGPT:
+  [500](/public/losie/2023/500.pdf),
+  [2000](/public/losie/2023/2000.pdf)
+- 2021, Chidori: 
+  [200](/public/losie/2021/200.pdf)
+- 2019, Chidori:
+  [1](/public/losie/2019/01.pdf),
+  [5](/public/losie/2019/05.pdf),
+  [10](/public/losie/2019/10.pdf),
+  [50](/public/losie/2019/50.pdf)
+- 2018, Marysia:
+  [1](/public/losie/2018/01.pdf),
+  [5](/public/losie/2018/05.pdf),
+  [10](/public/losie/2018/10.pdf),
+  [50](/public/losie/2018/50.pdf)
+- 2017, Filip Tokarski:
+  [1](/public/losie/2017/01.pdf),
+  [5](/public/losie/2017/05.pdf),
+  [10](/public/losie/2017/10.pdf),
+  [50](/public/losie/2017/50.pdf)
+- 2016, tasuki:
+  [1](/public/losie/2016/01.pdf),
+  [5](/public/losie/2016/05.pdf),
+  [10](/public/losie/2016/10.pdf),
+  [50](/public/losie/2016/50.pdf)
+
+
 ## Zdjęcia sprzed roku 2015:
 
 - <a href="https://photos.app.goo.gl/a9Zh9Bxa83WhSD6W9">VIII LSG -- 2007 (galeria Yapiego)</a>
