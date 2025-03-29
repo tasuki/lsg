@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wstęp
+permalink: /
 ---
 
 # Letnia Szkoła Go 2025

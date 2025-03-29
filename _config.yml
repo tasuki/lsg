@@ -1,6 +1,12 @@
 title: 'LSG 2025'
 description: 'Wszystko Będzie (Dobrze)'
 exclude: [vendor, _includes/cal-1.html, _includes/cal-2.html]
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 redirects:
   /przedszkole: https://docs.google.com/spreadsheets/d/186fRRvDLRcfhpDdjTCi5nao9sxgTkjKoREfy562v-Bs
   /nauczyciele: https://docs.google.com/spreadsheets/d/1X9mpd9CTbXSFf1bGPTysbL2GfLpwQaVEdLXLqLHFaMM
