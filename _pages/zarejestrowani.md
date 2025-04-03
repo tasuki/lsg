@@ -11,6 +11,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
+- Andrew Kay (paladyn) - 3d
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Marianna Szychowiak - 1d
 - Andrzej Drzystek - 1d
