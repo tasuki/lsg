@@ -11,6 +11,7 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 1p
 - Vít Brunner (tasuki) - 4d
+- Oleksandr Yeroshkin - 4d
 - Andrew Kay (paladyn) - 3d
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Marianna Szychowiak - 1d
@@ -36,8 +37,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
+- Olek Bodnr - 16k
 - Anna Seget - 17k
-- Jacek Chroboczek (czifo) - 18k
+- Jacek Chroboczek (czifo) - 17k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 18k
 - Klaudia Srul (sprężynka) - 20k
@@ -87,6 +89,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kinga Grygiel - ng
 - Eliza Nowacka - ng
 - Łukasz Grabowski (grasiu) - ng
+- Tima Bodnar - ng
+- Sveta Saltan - ng
   
 
 
