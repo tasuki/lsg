@@ -43,10 +43,7 @@ module Jekyll
     # to {8: [event, event], 9: [another, breakfast]}
     def flip_hours(days)
       hours = {}
-      days_expanded = days.map do |day|
-        hours_expand(day)
-      end
-
+      days_expanded = days.map { |day| hours_expand(day) }
       days_expanded.each do |hr|
         hr.each do |key, value|
           hours[key.to_sym] ||= []
@@ -56,84 +53,51 @@ module Jekyll
       hours
     end
 
-    # Process single row, merge cells with same event
-    # using colspan, add offset for later perusal
+    # Vertical merging: merge same events in the same column
+    def add_rowspan(basic_table)
+      columns = basic_table.transpose
+
+      merged_columns = columns.map.with_index do |col, offset|
+        # Build a new column array by grouping adjacent cells with the same event
+        new_col = Array.new(col.size)
+        i = 0
+        while i < col.size
+          cell = col[i]
+          rowspan = col.drop(i).take_while { |c| c[:event] == cell[:event] }.size
+          new_col[i] = cell.merge(rowspan: rowspan, colspan: 1, offset: offset)
+          i += rowspan
+        end
+        new_col
+      end
+      # Transpose back to rows and remove nil cells per row
+      merged_columns.transpose.map { |row| row.compact }
+    end
+
+    # Horizontal merging: only merge cells if they are immediately adjacent
     def add_colspan(row)
-      colspan = []
-      current_value = nil
-      count = 0
-      total = 0
-
+      merged = []
+      current_cell = nil
       row.each do |cell|
-        if cell != current_value
-          colspan << {
-            event: current_value,
-            colspan: count,
-            offset: total - count,
-          } unless current_value.nil?
-          count = 1
-          current_value = cell
+        if current_cell.nil?
+          current_cell = cell
         else
-          count += 1
-        end
-        total += 1
-      end
-
-      colspan << {
-        event: current_value,
-        colspan: count,
-        offset: total - count,
-      } unless current_value.nil?
-      colspan
-    end
-
-    # Is a cell covered by any of the cells in the rows above?
-    def is_covered(this, array_above)
-      array_above.reverse.each_with_index do |row, row_distance|
-        row.each do |cell|
-          if cell[:event] == this[:event] &&
-              cell[:offset] == this[:offset] &&
-              cell[:colspan] == this[:colspan] &&
-              cell[:rowspan] > row_distance
-            return true
+          # Only merge if the cell is immediately adjacent (i.e. its original offset equals
+          # the current cell's offset plus its colspan), and if event and rowspan match.
+          if cell[:event] == current_cell[:event] &&
+             cell[:rowspan] == current_cell[:rowspan] &&
+             (current_cell[:offset] + current_cell[:colspan] == cell[:offset])
+            current_cell = current_cell.merge(colspan: current_cell[:colspan] + cell[:colspan])
+          else
+            merged << current_cell
+            current_cell = cell
           end
         end
       end
-      false
+      merged << current_cell if current_cell
+      merged
     end
 
-    # Adds rowspan and 
-    # Expects array to have colspan + offset defined
-    def add_rowspan(array)
-      new = []
-      rows = array.length
-
-      array.each_with_index do |row, row_index|
-        new[row_index] = []
-        row.each do |cell|
-          # check all the rows above if this is covered by an above rowspan
-          if is_covered(cell, new)
-            next
-          end
-
-          # for this and the rows below, look how many contain the same cell
-          rowspan = 0
-          (row_index...rows).each do |tmp_row_index|
-            if array[tmp_row_index].include?(cell)
-              rowspan += 1
-            else
-              break
-            end
-          end
-
-          new[row_index] << cell.merge(rowspan: rowspan)
-        end
-      end
-
-      new
-    end
-
-    # Find category for event, processed sequentially, first match goes
+    # Find category for event, processed sequentially, first match
     def find_category(event)
       @@categories.each do |category, keywords|
         keywords.each do |keyword|
@@ -158,37 +122,30 @@ module Jekyll
     def make_table(content)
       week, days_str = content.split(/\n/, 2)
       week = week.sub("# ", "")
-
       days_split = days_str.strip.split(/## /)
       days_split.shift # remove empty first item
 
-      days = days_split.map do |day_description|
-        parse_day(day_description)
-      end
+      days = days_split.map { |day_description| parse_day(day_description) }
+      by_hours = flip_hours(days.map { |h| h[:hours] })
 
-      by_hours = flip_hours(days.map { |hash| hash[:hours] })
-      colspanned = by_hours.values.map do |hour|
-        add_colspan(hour)
-      end
-      rowspanned = add_rowspan(colspanned)
+      basic_table = by_hours.values.map { |hour| hour.map { |event| { event: event } } }
+      rowspanned = add_rowspan(basic_table)
+      colspanned = rowspanned.map { |row| add_colspan(row) }
 
+      # Prepend each row with an hour label cell.
       with_hours = []
       @@hrs.each_with_index do |hr, index|
-        with_hours << rowspanned[index].unshift({event: hr, colspan: 1, rowspan: 1})
+        with_hours << colspanned[index].unshift({ event: hr, colspan: 1, rowspan: 1, offset: 0 })
       end
 
-      hours = with_hours.map do |row|
-        row.map do |cell|
-          preprocess_cell(cell)
-        end
-      end
+      hours = with_hours.map { |row| row.map { |cell| preprocess_cell(cell) } }
 
       template = File.read('_plugins/cal_template.html.erb')
       ERB.new(template).result(binding)
     end
 
     def generate(site)
-      files = [ "cal-1", "cal-2" ]
+      files = ["cal-1", "cal-2"]
       files.each do |fid|
         content = File.read("calendar/#{fid}.md")
         File.write("_includes/#{fid}.html", make_table(content))
