@@ -91,6 +91,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Łukasz Grabowski (grasiu) - ng
 - Tima Bodnar - ng
 - Sveta Saltan - ng
+- Magda Walkiewicz - ng
   
 
 
