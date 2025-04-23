@@ -42,6 +42,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jacek Chroboczek (czifo) - 17k
 - Leszek Koliński - 20k
 - Jacek Chroboczek (czifo) - 18k
+- Oliwia Olbryk - 19k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
 - Ula Mudel - 25k
