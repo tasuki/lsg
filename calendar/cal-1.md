@@ -32,7 +32,7 @@
 17 Torus: 5-6
 18 Torus: 7
 19 Kolacja
-20 Może wykład
+20 1. wykład Siasia
 
 ## Śro 9.7.
 
@@ -46,7 +46,7 @@
 17 Rengo: 2
 18 Rengo: 3
 19 Kolacja
-20 ~
+20 Kolorowy standup (kino)
 
 ## Czw 10.7.
 
@@ -57,7 +57,7 @@
 14 Obiad
 15 ~
 19 Kolacja
-20 ~
+20 2. wykład Siasia
 
 ## Pią 11.7.
 

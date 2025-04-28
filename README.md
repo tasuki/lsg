@@ -1,10 +1,8 @@
-Strona internetowa Letniej Szkoły Go
-====================================
+# Strona internetowa Letniej Szkoły Go
 
 https://lsg.go.art.pl/
 
-Setup
------
+## Setup
 
 Wymaga Ruby/Bundler. Lepiej Ruby 3 niż 2, ale powinno śmigać na wszystkim.
 
@@ -16,14 +14,12 @@ bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
-Develop
--------
+## Develop
 
 ```
 make develop
 ```
 
-Deploy
-------
+## Deploy
 
 GitHub actions robi push na produkcje, gdzie `make publish` robi update.

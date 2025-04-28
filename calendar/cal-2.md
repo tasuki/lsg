@@ -23,7 +23,7 @@
 17 Fantom: 2
 18 ~
 19 Kolacja
-20 Może wykład
+20 3. wykład Siasia
 
 ## Wto 15.7.
 
@@ -74,7 +74,9 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 Już nigdy <br> nie myję <br> kamyczków
+15 ~
+16 Konkurs tsumego
+18 ~
 19 Kolacja
 20 Licytacja
 21 Ognisko
