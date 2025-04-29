@@ -28,12 +28,12 @@ Od VIPów wybrać tak samo: dorosły 17/170 dorosły, do 25 lat 7/70
 **Uwaga**:  
 Warunkiem rezerwacji miejsca w domku jest przedpłata na konto bankowe (nowi albo z dużą przerwą) albo słowo zucha dla starych bywalców. Zapisy w domku dla pobytu mimimum tygodniowego! Krótszy pobyt -- dogadaj z Czifem.
 
-| Wyżywienie/Samochody/Zwierzęta                          | 1 dzień | cała LSG |
-| ------------------------------------------------------- | ------: | -------: |
-| wyżywienie   (śniadanie 12 zł, obiad 31 zł, kolacja  15 zł) |   58 zł |   710 zł |
+| Wyżywienie/Samochody/Zwierzęta                              | 1 dzień | cała LSG |
+| ----------------------------------------------------------- | ------: | -------: |
+| wyżywienie    (śniadanie 12 zł, obiad 31 zł, kolacja 15 zł) |   58 zł |   710 zł |
 | wyżyw. dzieci (śniadanie 12 zł, obiad 18 zł, kolacja 10 zł) |   36 zł |   440 zł |
-| motor/samochód                                          |    4 zł |    50 zł |
-| zwierzaki, łącznie ze słoniami i wielorybami            |    0 zł |     0 zł |
+| motor/samochód                                              |    4 zł |    50 zł |
+| zwierzaki, łącznie ze słoniami i wielorybami                |    0 zł |     0 zł |
 
 Zniżki:
 - 10% zniżki za **pobyt** dla tych co zarejestrują się do 15 maja
