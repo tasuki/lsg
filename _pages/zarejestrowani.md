@@ -28,6 +28,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jarek Bębenek - 4k
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Marcin Kulczycki - 4k
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
@@ -38,6 +39,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
+- Jakub Ligienza - 15k
 - Olek Bodnr - 16k
 - Anna Seget - 17k
 - Jacek Chroboczek (czifo) - 17k
@@ -94,6 +96,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tima Bodnar - ng
 - Sveta Saltan - ng
 - Magda Walkiewicz - ng
+- Karol Krause (ambak) - ng
   
 
 
