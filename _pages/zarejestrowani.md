@@ -9,7 +9,7 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
-- Stanisław Frejlak (sasio) - 1P
+- Stanisław Frejlak (sasio) - 1 PRO
 - Vít Brunner (tasuki) - 4d
 - Marcin Majka (higaki) - 4d
 - Oleksandr Yeroshkin - 4d
