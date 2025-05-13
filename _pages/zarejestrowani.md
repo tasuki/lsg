@@ -29,6 +29,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Artur Barcicki - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
+- Klaus Blumberg - 4k
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
