@@ -54,6 +54,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomaszek Cieśla - 30k
 - Basia Cieśla - 30k
 - Jan Marusarz - 30k
+- Agnieszka Warzeszak - 30k
 - Hana Brunner - 42k
 - Gaja Mudel - 45
 - Małgorzata Palej (shaa) - ng
@@ -97,6 +98,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Sveta Saltan - ng
 - Magda Walkiewicz - ng
 - Karol Krause (ambak) - ng
+- Łukasz Bandach - ng
   
 
 
