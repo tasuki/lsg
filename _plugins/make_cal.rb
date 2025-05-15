@@ -147,7 +147,7 @@ module Jekyll
     def generate(site)
       files = ["cal-1", "cal-2"]
       files.each do |fid|
-        content = File.read("calendar/#{fid}.md")
+        content = File.read("_includes/#{fid}.md")
         File.write("_includes/#{fid}.html", make_table(content))
       end
     end
