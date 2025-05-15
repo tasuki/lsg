@@ -18,42 +18,15 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 ~
-16 Fantom: 1
-17 Fantom: 2
-18 ~
-19 Kolacja
-20 3. wykład Siasia
-
-## Wto 15.7.
-
-08 Hikaru no Go (kino)
-09 Śniadanie
-10 Zajęcia w grupach
-12 Maraton 6-10
-14 Obiad
-15 ~
-16 Fantom: 3
-17 Fantom: 4
-18 Fantom: 5
-19 Kolacja
-20 ~
-
-## Śro 16.7.
-
-08 Hikaru no Go (kino)
-09 Śniadanie
-10 Zajęcia w grupach
-12 Maraton 6-10
-14 Obiad
 15 Blitz 1-2
 16 Blitz 3-4
 17 Blitz 5-6
 18 Blitz 7-8
 19 Kolacja
 20 Blitz 9-10
+21 ~
 
-## Czw 17.7.
+## Wto 15.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -64,6 +37,32 @@
 16 13×13 3-4
 17 13×13 5-6
 18 13×13: 7
+19 Kolacja
+20 3. wykład Siasia
+
+## Śro 16.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 6-10
+14 Obiad
+15 Fantom: 1
+17 Fantom: 2
+19 Kolacja
+20 ~
+
+## Czw 17.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Zajęcia w grupach
+12 Maraton 6-10
+14 Obiad
+15 ~
+16 Fantom: 3
+17 Fantom: 4
+18 Fantom: 5
 19 Kolacja
 20 ~
 
