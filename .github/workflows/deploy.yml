@@ -19,5 +19,5 @@ jobs:
       - run: |
           git config user.name vit.brunner
           git config user.email vit.brunner@gmail.com
-          git remote add prod ssh://deploy_lsg@lsg.tasuki.org:678/var/git/pl.art.go/lsg
+          git remote add prod ssh://deploy_lsg@tasuki.org:678/var/git/pl.art.go/lsg
           git push prod
