@@ -100,6 +100,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Magda Walkiewicz - ng
 - Karol Krause (ambak) - ng
 - Łukasz Bandach - ng
+- Jan Opawski - ng
   
 
 
