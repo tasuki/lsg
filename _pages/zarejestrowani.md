@@ -35,10 +35,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
 - Krzysztof Grygiel - 6k
+- Jakub Gauza (marmez) - 6k
 - Julia Bednarska - 7k
 - Konrad Szymański - 9k
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
+- Jan Opawski - 14k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
 - Jakub Ligienza - 15k
@@ -49,6 +51,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Oliwia Olbryk - 19k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
+- Rufin Gauza - 20k
 - Ula Mudel - 25k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
@@ -101,6 +104,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Karol Krause (ambak) - ng
 - Łukasz Bandach - ng
 - Jan Opawski - ng
+- Ania Cichocka (ridibunda) - ng
+- Inga Gauza -ng
   
 
 
