@@ -106,6 +106,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Opawski - ng
 - Ania Cichocka (ridibunda) - ng
 - Inga Gauza -ng
+- Natalia Burzyńska - ng
   
 
 
