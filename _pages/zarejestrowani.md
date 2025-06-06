@@ -17,6 +17,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Marianna Szychowiak - 1d
 - Andrzej Drzystek - 1d
+- Paweł Frączak (alvar) - 1d
 - Darek Bednarczyk - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
