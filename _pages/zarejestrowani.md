@@ -38,6 +38,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Krzysztof Grygiel - 6k
 - Jakub Gauza (marmez) - 6k
 - Julia Bednarska - 7k
+- Marcin Bałaban - 8k
 - Konrad Szymański - 9k
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
@@ -47,6 +48,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Ligienza - 15k
 - Olek Bodnr - 16k
 - Anna Seget - 17k
+- Michał Sobański - 17k
 - Jacek Chroboczek (czifo) - 17k
 - Leszek Koliński - 20k
 - Oliwia Olbryk - 19k
@@ -60,6 +62,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Basia Cieśla - 30k
 - Jan Marusarz - 30k
 - Agnieszka Warzeszak - 30k
+- Piotr Sobański - 30k
+- Jan Sobański - 30k
 - Hana Brunner - 42k
 - Gaja Mudel - 45
 - Małgorzata Palej (shaa) - ng
