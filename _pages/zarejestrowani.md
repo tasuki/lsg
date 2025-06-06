@@ -46,7 +46,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
 - Jakub Ligienza - 15k
-- Olek Bodnr - 16k
+- Olek Bodnar - 16k
 - Anna Seget - 17k
 - Michał Sobański - 17k
 - Jacek Chroboczek (czifo) - 17k
