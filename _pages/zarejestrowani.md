@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Piotr Andryszek (hajtek) - 2k
 - Mateusz Szeląg (szeląg) - 2k
 - Paweł Skibiński - 3k
+- Patryk Jełowicki (kolorek) - 3k 
 - Wojtek Kaśków - 4k
 - Jarek Bębenek - 4k
 - Artur Barcicki - 4k
@@ -39,6 +40,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Gauza (marmez) - 6k
 - Julia Bednarska - 7k
 - Marcin Bałaban - 8k
+- Ewa Biernot - 8k
 - Konrad Szymański - 9k
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
@@ -112,6 +114,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ania Cichocka (ridibunda) - ng
 - Inga Gauza -ng
 - Natalia Burzyńska - ng
+- puszyste koty Kolorka  - ng :-)
   
 
 
