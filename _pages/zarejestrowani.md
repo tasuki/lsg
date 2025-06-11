@@ -38,9 +38,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomasz Dec (koniu) - 6k
 - Krzysztof Grygiel - 6k
 - Jakub Gauza (marmez) - 6k
+- Marek Kowalski - 6k
 - Julia Bednarska - 7k
 - Marcin Bałaban - 8k
 - Ewa Biernot - 8k
+- Weronika Łacna - 8k
+- Maciej Łacny - 8k
 - Konrad Szymański - 9k
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
@@ -52,11 +55,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Seget - 17k
 - Michał Sobański - 17k
 - Jacek Chroboczek (czifo) - 17k
-- Leszek Koliński - 20k
 - Oliwia Olbryk - 19k
+- Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Bruno Jadach - 20k
 - Rufin Gauza - 20k
+- Filip Łacny - 20k
 - Ula Mudel - 25k
 - Natalia Kolińska - 26k
 - Antek Koliński - 30k
