@@ -25,6 +25,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Adam Siwy - 2k
 - Piotr Andryszek (hajtek) - 2k
 - Mateusz Szeląg (szeląg) - 2k
+- Jakub Miłkowski - 2k
 - Paweł Skibiński - 3k
 - Patryk Jełowicki (kolorek) - 3k 
 - Wojtek Kaśków - 4k
