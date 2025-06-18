@@ -14,10 +14,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Majka (higaki) - 4d
 - Oleksandr Yeroshkin - 4d
 - Andrew Kay (paladyn) - 3d
+- Łukasz Lew - 2d
 - Anna Sośnicka - Cieśla (sosna) - 1d
 - Marianna Szychowiak - 1d
 - Andrzej Drzystek - 1d
 - Paweł Frączak (alvar) - 1d
+- Mateusz Chojnacki (myszcz) - 1d
 - Darek Bednarczyk - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
