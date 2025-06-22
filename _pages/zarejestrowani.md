@@ -43,6 +43,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Gauza (marmez) - 6k
 - Marek Kowalski - 6k
 - Julia Bednarska - 7k
+- Iago Gonzales - 7k
 - Marcin Bałaban - 8k
 - Ewa Biernot - 8k
 - Weronika Łacna - 8k
@@ -50,6 +51,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Konrad Szymański - 9k
 - Michał Świętek - 9k
 - Kacper Barcicki - 13k
+- Ryszard Szopa - 13k
+- Rysio Szopa jr - 13k
 - Jan Opawski - 14k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
