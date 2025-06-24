@@ -42,6 +42,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Krzysztof Grygiel - 6k
 - Jakub Gauza (marmez) - 6k
 - Marek Kowalski - 6k
+- Robert Bugaj - 6k
 - Julia Bednarska - 7k
 - Iago Gonzales - 7k
 - Marcin Bałaban - 8k
@@ -53,6 +54,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki - 13k
 - Ryszard Szopa - 13k
 - Rysio Szopa jr - 13k
+- Zofia Bugaj - 13k
 - Jan Opawski - 14k
 - Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
