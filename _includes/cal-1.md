@@ -46,7 +46,8 @@
 17 Rengo: 2
 18 Rengo: 3
 19 Kolacja
-20 Kolorowy standup (kino)
+20 ~
+21 Kolorowy standup
 
 ## Czw 10.7.
 
