@@ -19,8 +19,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marianna Szychowiak - 1d
 - Andrzej Drzystek - 1d
 - Paweł Frączak (alvar) - 1d
-- Mateusz Chojnacki (myszcz) - 1d
 - Darek Bednarczyk - 1k
+- Robin Stieglitz - 1k
 - Kacper Cieśla (comboy) - 2k
 - Tymek Barcicki - 2k
 - Grzegorz Sobański (silk) - 2k
@@ -126,6 +126,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ania Cichocka (ridibunda) - ng
 - Inga Gauza -ng
 - Natalia Burzyńska - ng
+- Maria Przybylak - ng
+- Patryk Misiakowski - ng
 - puszyste koty Kolorka  - ng :-)
   
 
