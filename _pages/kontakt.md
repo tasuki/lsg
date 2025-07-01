@@ -8,8 +8,10 @@ title: Kontakt
 ## Kontakty
 
 Główny koordynator programu, rozrywek goistycznych i innych, webmaster:  
-Vít "tasuki" Brunner  
+Vít "taski" Brunner  
 e-mail: vit.brunner@gmail.com
+
+Choć większość pracy robią Ewa i Silk ❤️
 
 Główny koordynator rejestracji, noclegów, i wyżywienia:  
 Jacek "Czifu" Chroboczek  

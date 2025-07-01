@@ -3,42 +3,32 @@ layout: page
 title: Dawniej
 ---
 
-## LSG by Tasuki & Czifo
+## LSG by Taski & Czifo (& Ewa & Silk!)
 
 - [LSG 2024](/2024)
-- [LSG 2023](/2023)
-- [LSG 2022](/2022)
-- [LSG 2021](/2021)
-- [LSG 2020](/2020)
-- [LSG 2019](/2019)
-- [LSG 2018](/2018)
-- [LSG 2017](/2017)
-- [LSG 2016](/2016)
-
-
-## Łosie w czasie
-
-- 2023, ChatGPT:
+- [LSG 2023](/2023), łosie ChatGPT:
   [500](/public/losie/2023/500.pdf),
   [2000](/public/losie/2023/2000.pdf)
-- 2021, Chidori: 
+- [LSG 2022](/2022)
+- [LSG 2021](/2021), łosie Chidori:
   [200](/public/losie/2021/200.pdf)
-- 2019, Chidori:
+- [LSG 2020](/2020)
+- [LSG 2019](/2019), łosie Chidori:
   [1](/public/losie/2019/01.pdf),
   [5](/public/losie/2019/05.pdf),
   [10](/public/losie/2019/10.pdf),
   [50](/public/losie/2019/50.pdf)
-- 2018, Marysia:
+- [LSG 2018](/2018), łosie Marysi:
   [1](/public/losie/2018/01.pdf),
   [5](/public/losie/2018/05.pdf),
   [10](/public/losie/2018/10.pdf),
   [50](/public/losie/2018/50.pdf)
-- 2017, Filip Tokarski:
+- [LSG 2017](/2017), łosie Filipa Tokarskigo:
   [1](/public/losie/2017/01.pdf),
   [5](/public/losie/2017/05.pdf),
   [10](/public/losie/2017/10.pdf),
   [50](/public/losie/2017/50.pdf)
-- 2016, tasuki:
+- [LSG 2016](/2016), łosie taskiego:
   [1](/public/losie/2016/01.pdf),
   [5](/public/losie/2016/05.pdf),
   [10](/public/losie/2016/10.pdf),
