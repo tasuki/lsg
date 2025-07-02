@@ -23,14 +23,17 @@ Samochodem! No albo:
 
 ### Łośtaxi
 
-Z pobliskich miejscowości uczestnicy mogą zostać odebrani przez obozowe Łośtaxi. W celu rezerwacji proszę dzwonić *dzień wcześniej* pod numer +48 791 488 599. Na Alasce nie zawsze jest zasięg: jak się nie dodzwonicie, piszcie SMSa z informacją ile ludzi/kiedy/skąd i czekajcie na potwierdzenie.
+Z pobliskich miejscowości uczestnicy mogą zostać odebrani przez obozowe Łośtaxi. W celu rezerwacji proszę się zgłosić do taskiego (+48 570 075 993) *24 godzin wcześniej*. Na Alasce nie zawsze jest zasięg: jak się nie dodzwonicie, piszcie SMSa z informacją ile ludzi/kiedy/skąd i czekajcie na potwierdzenie.
 
-Za **późną rezerwację** może być doliczona **opłata aż 50zł**. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi po was przyjechać...
+Za **późną rezerwację będzie doliczona opłata +50zł**. No albo też przy braku wcześniejszej rezerwacji Łośtaxi nie musi zdążyć przyjechać...
 
-Koszt Łośtaxi:
+Pojemność Łośtaxi w 2025 trochę ograniczona bo jedzie z nami Hania. Dwóch zmieścimy komfortowo, trzech pewnie jakoś też. Koszty:
 
-- Tuchomie, Lipnica -- 40zł za jedną + 10zł za każdą kolejną osobę
-- Bytów -- 60zł za jedną + 15zł za każdą kolejną osobę
-- Miastko -- 80zł za jedną + 20zł za każdą kolejną osobę
+- Tuchomie, Lipnica -- 40zł za wyjazd
+- Bytów -- 120zł za wyjazd
+- Miastko -- 150zł za wyjazd
+
+
+*Tak, Bytów i Miastko specjalnie są takie drogie! Hop na PKS i przyjedzcie do Tuchomia!*
 
 ![spiwor](/public/spiwor.jpg)
