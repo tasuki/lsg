@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
 - Klaus Blumberg - 4k
+- Antoni Hanke - 4k
 - Michał Flach - 5k
 - Daria Kwietniewska (dariatka) - 6k
 - Tomasz Dec (koniu) - 6k
@@ -128,6 +129,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natalia Burzyńska - ng
 - Maria Przybylak - ng
 - Patryk Misiakowski - ng
+- Adam Hanke - ng
+- Natalia Górka - ng
+- Jakub Jasiński - ng??
 - puszyste koty Kolorka  - ng :-)
   
 
