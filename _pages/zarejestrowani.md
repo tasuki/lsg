@@ -57,13 +57,13 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rysio Szopa jr - 13k
 - Zofia Bugaj - 13k
 - Jan Opawski - 14k
-- Bartosz Kaganiec - 15k
 - Ewa Tobór-Świętek - 15k
 - Jakub Ligienza - 15k
 - Olek Bodnar - 16k
 - Anna Seget - 17k
 - Michał Sobański - 17k
 - Jacek Chroboczek (czifo) - 17k
+- Martyna Szalecka - 17k
 - Oliwia Olbryk - 19k
 - Leszek Koliński - 20k
 - Klaudia Srul (sprężynka) - 20k
@@ -79,6 +79,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Agnieszka Warzeszak - 30k
 - Piotr Sobański - 30k
 - Jan Sobański - 30k
+- Kamil Szalecki - 30k
+- Tomasz Meresiński - 30k
 - Hana Brunner - 42k
 - Gaja Mudel - 45
 - Małgorzata Palej (shaa) - ng
