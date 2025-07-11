@@ -50,7 +50,7 @@
 15 Fantom: 1
 17 Fantom: 2
 19 Kolacja
-20 ~
+20 Relay go (Robin)
 
 ## Czw 17.7.
 
@@ -64,7 +64,7 @@
 17 Fantom: 4
 18 Fantom: 5
 19 Kolacja
-20 ~
+20 4. wykład krótki może
 
 ## Pią 18.7.
 
