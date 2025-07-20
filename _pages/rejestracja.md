@@ -8,7 +8,7 @@ title: Jak się zarejestrować
 Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
 > Imię i nazwisko:  
-> Data pobytu: od 6.7.2025 (**niedziela!** lipiec) do 19.7.2025 (sobota)  
+> Data pobytu: od 11.7.2026 (sobota) do 26.7.2026 (niedziela)  
 > Nocleg: (domek, namiot własny,inne)  
 > Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)  
 > Siła gracza: 
