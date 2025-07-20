@@ -5,7 +5,7 @@ title: Polish Summer Go Camp 2026
 
 # Polish Summer Go Camp 2026
 
-*When?* &nbsp; 11--25 July 2026
+*When?* &nbsp; 11--25 July 2026  
 *Where?* &nbsp; [Przystanek Alaska](https://www.google.com/maps?q=glisno+wielkie+3,+lipnica), Gliśno Wielkie 3, Poland  
 *I'm in, how do I get there?* &nbsp; By car or fly to Gdańsk or Warsaw and take a train/bus/catch a ride with someone!  
 
