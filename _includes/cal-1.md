@@ -1,11 +1,22 @@
 # 1. tyd
 
-## Nie 6.7.
+## Sob 11.7.
 
+19 Kolacja
+20 ~
+21 Ognisko
+
+## Nie 12.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Turniej za poznawczy 1-2
+14 Obiad
+15 Turniej za poznawczy 3-4
 19 Kolacja
 20 Otwarcie <br> + podział <br> do grup
 
-## Pon 7.7.
+## Pon 13.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -18,9 +29,8 @@
 18 9×9: finał
 19 Kolacja
 20 ~
-21 Ognisko
 
-## Wto 8.7.
+## Wto 14.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -34,22 +44,18 @@
 19 Kolacja
 20 1. wykład Siasia
 
-## Śro 9.7.
+## Śro 15.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
 10 Zajęcia w grupach
 12 Maraton 1-5
 14 Obiad
-15 ~
-16 Rengo: 1
-17 Rengo: 2
-18 Rengo: 3
+15 Rengo <br> 1-3
 19 Kolacja
 20 ~
-21 Kolorowy standup
 
-## Czw 10.7.
+## Czw 16.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -60,7 +66,7 @@
 19 Kolacja
 20 2. wykład Siasia
 
-## Pią 11.7.
+## Pią 17.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -73,7 +79,7 @@
 19 Kolacja
 20 Licytacja
 
-## Sob 12.7.
+## Sob 18.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie

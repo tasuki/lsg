@@ -1,6 +1,6 @@
 # 2. tyd
 
-## Nie 13.7.
+## Nie 19.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -9,9 +9,8 @@
 14 Memoriał runda 5-6
 19 Kolacja
 20 ~
-21 Męski krąg
 
-## Pon 14.7.
+## Pon 20.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -26,7 +25,7 @@
 20 Blitz 9-10
 21 ~
 
-## Wto 15.7.
+## Wto 21.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -40,7 +39,7 @@
 19 Kolacja
 20 3. wykład Siasia
 
-## Śro 16.7.
+## Śro 22.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -50,9 +49,9 @@
 15 Fantom: 1
 17 Fantom: 2
 19 Kolacja
-20 Relay go (Robin)
+20 ~
 
-## Czw 17.7.
+## Czw 23.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -66,7 +65,7 @@
 19 Kolacja
 20 4. wykład krótki może
 
-## Pią 18.7.
+## Pią 24.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -78,9 +77,19 @@
 18 ~
 19 Kolacja
 20 Licytacja
+
+## Sob 25.7.
+
+08 Hikaru no Go (kino)
+09 Śniadanie
+10 Relay go ?
+14 Obiad
+15 Symultana ?
+19 Kolacja
+20 ~
 21 Ognisko
 
-## Sob 19.7.
+## Nie 26.7.
 
 09 Śniadanie
-10 Uroczyste rozpoczęcie post-LSG
+10 ~
