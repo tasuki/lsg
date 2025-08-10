@@ -20,7 +20,7 @@ title: Organizacja
   - gobany u Czifa na chacie, w magazynie za pokojami luksusowymi -- pogadaj z załogą (tutaj też łosie, paletki do ping ponga i inne nasze rzeczy)
 1. Dogadaj z Jackiem kiełbasy na ognisko.
 1. Wydrukuj kalendarz, [pierwszy](/kalendarz-1) i [drugi](/kalendarz-2) tydzień, powinno być w sam raz na A4.
-1. Zorganizuj [turnieje](/organizacja/turnieje)
+1. Zorganizuj [turnieje](/organizacja/turnieje) (używając [czasu Fischera](/organizacja/fischer))
 
 ## Przypilnuj
 1. Zegary przed deszczem, właściciele są na to wraźliwi
