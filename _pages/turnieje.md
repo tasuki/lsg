@@ -24,7 +24,7 @@ Turnieje rozrywkowe są w większości rozgrywane systemem podwójnej drabinki.
 
 - 9&times;9 (Fischer 3 min + 3 sec), [handicap 9&times;9](/public/handi/handi-9.pdf)
 - [Torus](https://senseis.xmp.net/?ToroidalGo) (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
-- Rengo (Fischer 10 min + 10 sec), drużyny po trzy osoby, pełny handicap
+- ~~Rengo~~ Trash Talk (Fischer 10 min + 10 sec), drużyny po trzy osoby, pełny handicap
 - Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
 - Blitz (Fischer 3 min + 3 sec), pełny handicap
 - 13&times;13 (Fischer 3 min + 10 sec), [handicap 13&times;13](/public/handi/handi-13.pdf)

@@ -49,11 +49,11 @@ Chcemy żeby w turniejach podwójnej drabinki grała liczba graczy, która jest 
 - *turniej dla koneserów, ledwo się mieści - staramy się utrzymać liczbę graczy do 16*
 
 ### Fantom Go (13&times;13, [zapisy](/public/zapisy/zapisy-fantom.pdf))
-- no weź grajcie szybciej (runda na ~godzinę), komi 0.5
+- no weź grajcie szybciej (runda na +- godzinę), komi 0.5
 - knockout (do 32 graczy: 5 rund)
 - *lubiany turniej, który zawsze wszystko opóźnia i potrzebuje sędziów - nie namawiamy ludzi do grania*
 
-### Rengo ([zapisy](/public/zapisy/zapisy-rengo.pdf))
-- Fischer 10 min + 10 sec (runda na ~godzinę), pełny handicap
+### ~~Rengo~~ Trash Talk ([zapisy](/public/zapisy/zapisy-rengo.pdf))
+- Fischer 10 min + 10 sec (runda na +- godzinę), pełny handicap
 - knockout (do 8 teamów: 3 rundy)
 - *wolny turniej, ciężko zebrać zespół, zawsze wszystko opóźnione*
