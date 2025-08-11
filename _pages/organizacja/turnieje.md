@@ -3,7 +3,7 @@ layout: page
 title: Organizacja turniejów
 ---
 
-Mamy [info publiczne o turniejach](/turnieje). Oprócz tego, tutaj jest lista szczegółów dotyczących konkretnych turniejów. Drabinki pojedynczej oraz podwójnej eliminacji:
+Mamy [info publiczne o turniejach](/turnieje) oraz [przemyślenia taskiego systemów turniejowych dotyczące](/organizacja/systemy). Oprócz tego, tutaj jest lista szczegółów dotyczących konkretnych turniejów. Drabinki pojedynczej oraz podwójnej eliminacji:
 
 | Pojedyncza eliminacja                                                   | Podwójna eliminacja                                                     |
 | ---------------------                                                   | -------------------                                                     |
