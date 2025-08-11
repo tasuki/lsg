@@ -22,21 +22,22 @@ Klasa A (Fischer 45 min + 15 sekund za ruch), 6 rund, McMahon, gry równe
 
 Turnieje rozrywkowe są w większości rozgrywane systemem podwójnej drabinki.
 
-- 9&times;9 (Fischer 3 min + 3 sec), [handicap 9&times;9](/public/handi/handi-9.pdf)
-- [Torus](https://senseis.xmp.net/?ToroidalGo) (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
-- ~~Rengo~~ Trash Talk (Fischer 10 min + 10 sec), drużyny po trzy osoby, pełny handicap
-- Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
 - Blitz (Fischer 3 min + 3 sec), [handicap +1](/public/handi/handi-blitz.pdf)
+- 9&times;9 (Fischer 3 min + 3 sec), [handicap 9&times;9](/public/handi/handi-9.pdf)
 - 13&times;13 (Fischer 3 min + 10 sec), [handicap 13&times;13](/public/handi/handi-13.pdf)
+- [Torus](https://senseis.xmp.net/?ToroidalGo) (Fischer 3 min + 10 sec), 13&times;13, komi 2.5
+- Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
+- ~~Rengo~~ Trash Talk (Fischer 10 min + 10 sec), drużyny po trzy osoby, pełny handicap
 
 ![przystanek alaska](/public/drabinka.jpg)
 
 ## Turnieje sportowe
 
+- Piłkarzyki single oraz pary
 - Siatkówka, drużyny trzyosobowe
 - Wyścig pływacki, płyniemy przez jezioro i z powrotem, chyba koło 400 metrów
 - Ping pong
-- Piłkarzyki single oraz pary
-- Bieg KaCa, sztafeta: piwo, rzucanie kamyczkami, tsumego, i oprócz tego każde biega koło stodoły
+- Flanki i inne tam patysie
+- Może jeszcze kiedyś będzie bieg KaCa
 
 ![przystanek alaska](/public/osadniki.jpg)
