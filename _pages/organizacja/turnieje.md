@@ -29,7 +29,7 @@ Namawiamy wszystkich do grania, McMahon to uciągnie. No chyba że nam się sprz
 Chcemy żeby w turniejach podwójnej drabinki grała liczba graczy, która jest *potęgą dwójki lub trochę niższa* -- 14, 15, 16 jest ok, 17, 18 bardzo źle, 24+ znów spoko.
 
 ### Blitz ([zapisy](/public/zapisy/zapisy-blitz.pdf))
-- Fischer 3 min + 3 sec (runda na ~30 minut), pełny handicap
+- Fischer 3 min + 3 sec (runda na ~30 minut), [handicap +1](/public/handi/handi-blitz.pdf)
 - podwójna drabinka (do 32 graczy: 9 rund)
 - *turniej jest szybki i fajny - namawiamy żeby było jak najwięcej graczy*
 
