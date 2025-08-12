@@ -5,14 +5,14 @@ title: Organizacja turniejów
 
 Mamy [info publiczne o turniejach](/turnieje) oraz [przemyślenia taskiego systemów turniejowych dotyczące](/organizacja/systemy). Oprócz tego, tutaj jest lista szczegółów dotyczących konkretnych turniejów. Drabinki pojedynczej oraz podwójnej eliminacji:
 
-| Pojedyncza eliminacja                                                   | Podwójna eliminacja                                                     |
-| ---------------------                                                   | -------------------                                                     |
-| [08 graczy](/public/drabinki/single-elim-08.pdf) (3 rundy, 1 strona A4) | [08 graczy](/public/drabinki/double-elim-08.pdf) (6 rund, 1 strona A4)  |
-| [16 graczy](/public/drabinki/single-elim-16.pdf) (4 rundy, 1 strona A4) | [16 graczy](/public/drabinki/double-elim-16.pdf) (7 rund, 1 strona A4)  |
-| [24 graczy](/public/drabinki/single-elim-24.pdf) (5 rund, 1 strona A4)  | [24 graczy](/public/drabinki/double-elim-24.pdf) (9 rund, 2 strony A4)  |
-| [32 graczy](/public/drabinki/single-elim-32.pdf) (5 rund, 1 strona A4)  | [32 graczy](/public/drabinki/double-elim-32.pdf) (9 rund, 2 strony A4)  |
-| [48 graczy](/public/drabinki/single-elim-48.pdf) (6 rund, 2 strony A4)  | [48 graczy](/public/drabinki/double-elim-48.pdf) (10 rund, 3 strony A4) |
-| [64 graczy](/public/drabinki/single-elim-64.pdf) (6 rund, 2 strony A4)  | [64 graczy](/public/drabinki/double-elim-64.pdf) (10 rund, 3 strony A4) |
+| Pojedyncza eliminacja                                           | Podwójna skrócona                                                     | Podwójna eliminacja                                              |
+| ---------------------                                           | -----------------                                                     | -------------------                                              |
+| [08 graczy (3 rund, 1 A4)](/public/drabinki/single-elim-08.pdf) | [08 graczy (4 rund, 1 A4)](/public/drabinki/double-elim-08-short.pdf) | [08 graczy (6 rund, 1 A4) ](/public/drabinki/double-elim-08.pdf) |
+| [16 graczy (4 rund, 1 A4)](/public/drabinki/single-elim-16.pdf) | [16 graczy (6 rund, 1 A4)](/public/drabinki/double-elim-16-short.pdf) | [16 graczy (7 rund, 1 A4) ](/public/drabinki/double-elim-16.pdf) |
+| [24 graczy (5 rund, 1 A4)](/public/drabinki/single-elim-24.pdf) |                                                                       | [24 graczy (9 rund, 2 A4) ](/public/drabinki/double-elim-24.pdf) |
+| [32 graczy (5 rund, 1 A4)](/public/drabinki/single-elim-32.pdf) |                                                                       | [32 graczy (9 rund, 2 A4) ](/public/drabinki/double-elim-32.pdf) |
+| [48 graczy (6 rund, 2 A4)](/public/drabinki/single-elim-48.pdf) |                                                                       | [48 graczy (10 rund, 3 A4)](/public/drabinki/double-elim-48.pdf) |
+| [64 graczy (6 rund, 2 A4)](/public/drabinki/single-elim-64.pdf) |                                                                       | [64 graczy (10 rund, 3 A4)](/public/drabinki/double-elim-64.pdf) |
 
 Mamy tabelki zapisów [do 16](/public/zapisy/ogolne-zapisy-16.pdf) oraz [do 32](/public/zapisy/ogolne-zapisy-32.pdf) osób. Oprócz tego poszczególne tabelki zapisów poniżej.
 
@@ -55,5 +55,6 @@ Chcemy żeby w turniejach podwójnej drabinki grała liczba graczy, która jest 
 
 ### ~~Rengo~~ Trash Talk ([zapisy](/public/zapisy/zapisy-rengo.pdf))
 - Fischer 10 min + 10 sec (runda na +- godzinę), pełny handicap
-- knockout (do 8 teamów: 3 rundy)
+- podwójna skrócona (do 8 teamów: 4 rundy)
 - *wolny turniej, ciężko zebrać zespół, zawsze wszystko opóźnione*
+- *w drabince przegranych namawiamy do zdropowania się z turnieju* 😉
