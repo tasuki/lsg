@@ -10,6 +10,7 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
+- Julia Bednarska - 6k
 - Jacek Chroboczek (czifo) - 17k
 - Hana Brunner - 42k
 
