@@ -15,6 +15,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jarek Bębenek - 4k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
+- Patryk Rypolc - 8k
 - Jacek Chroboczek (czifo) - 17k
 - Rufin Gauza - 20k
 - Hana Brunner - 42k
