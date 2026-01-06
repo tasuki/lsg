@@ -26,6 +26,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Bednarczyk - ng
 - Oliwia Bednarczyk - ng
 - Wojtek Bednarczyk - ng
-- 
+- Joanna Długosz - ng
+- Julia Bray - ng
+- Anna Seget - ng
+- Eliza Nowacka - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
