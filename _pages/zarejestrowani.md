@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Jarek Bębenek - 4k
+- Wojtek Kaśków - 4k 
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Klaudia Kwietniewska (dariatka) - 6k
