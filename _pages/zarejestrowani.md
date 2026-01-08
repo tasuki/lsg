@@ -19,6 +19,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Gauza (marmez) - 6k
 - Klaudia Kwietniewska (dariatka) - 6k
 - Patryk Rypolc - 8k
+- Michał Świętek - 9k
+- Ewa Tobór-Świętek - 15k
 - Jacek Chroboczek (czifo) - 17k
 - Rufin Gauza - 20k
 - Hana Brunner - 42k
@@ -34,5 +36,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Julia Bray - ng
 - Anna Seget - ng
 - Eliza Nowacka - ng
+- Franek Świętek - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
