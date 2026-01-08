@@ -12,9 +12,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Marianna Szychowiak - 2d
 - Darek Bednarczyk - 1k
+- Grzegorz Sobański (silk) - 2k
 - Jarek Bębenek - 4k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
+- Klaudia Kwietniewska (dariatka) - 6k
 - Patryk Rypolc - 8k
 - Jacek Chroboczek (czifo) - 17k
 - Rufin Gauza - 20k
