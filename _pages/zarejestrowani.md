@@ -10,7 +10,6 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
-- Marianna Szychowiak - 2d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Jarek Bębenek - 4k
