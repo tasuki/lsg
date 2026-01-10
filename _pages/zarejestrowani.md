@@ -39,6 +39,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Franek Świętek - ng
 - Małgorzata Palej (shaa) - ng
 - Paweł Obrok (yapee) - ng
-- Lars .... - ng
+- Lars Obrok - ng
+- Emma Obrok - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
