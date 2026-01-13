@@ -16,7 +16,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wojtek Kaśków - 4k 
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
-- Klaudia Kwietniewska (dariatka) - 6k
+- Daria Kwietniewska (dariatka) - 6k
 - Patryk Rypolc - 8k
 - Michał Świętek - 9k
 - Ewa Tobór-Świętek - 15k
