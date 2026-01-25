@@ -15,7 +15,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
 - Jarek Bębenek - 4k
-- Wojtek Kaśków - 4k 
+- Wojtek Kaśków - 4k
+- Marcin Tomczyk (emtom) - 4k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
@@ -49,5 +50,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Emma Obrok - ng
 - Marta Szeredy- Kolińska - ng
 - Leszek Koliński - ng
+- Monika Sas-Tomczyk - ng
+- Zosia Tomczyk - ng
+- Rozalka Tomczyk - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
