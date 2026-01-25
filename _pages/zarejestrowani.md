@@ -10,8 +10,10 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
+- Anna Sośnicka-Cieśla (sosna) - 1d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
+- Kacper Cieśla (comboy) - 2k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k 
 - Julia Bednarska - 6k
@@ -20,8 +22,13 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Rypolc - 8k
 - Michał Świętek - 9k
 - Ewa Tobór-Świętek - 15k
-- Jacek Chroboczek (czifo) - 17k
+- Natalia Kolińska - 19k
+- Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
+- Antonio Koliński - 29k
+- Staś Koliński - 30k
+- Tomaszek Cieśla - 30k
+- Basia Cieśla - 40k
 - Hana Brunner - 42k
 - Ania Cichocka (ridibunda) - ng
 - Inga Gauza - ng
@@ -40,5 +47,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Obrok (yapee) - ng
 - Lars Obrok - ng
 - Emma Obrok - ng
+- Marta Szeredy- Kolińska - ng
+- Leszek Koliński - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
