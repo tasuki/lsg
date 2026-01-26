@@ -23,12 +23,15 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Rypolc - 8k
 - Michał Świętek - 9k
 - Ewa Tobór-Świętek - 15k
+- Michał Sobański - 17k
 - Natalia Kolińska - 19k
 - Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
 - Antonio Koliński - 29k
 - Staś Koliński - 30k
 - Tomaszek Cieśla - 30k
+- Piotr Sobański - 30k
+- Jan Sobański- 30k
 - Basia Cieśla - 40k
 - Hana Brunner - 42k
 - Ania Cichocka (ridibunda) - ng
