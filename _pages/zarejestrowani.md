@@ -11,9 +11,11 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka-Cieśla (sosna) - 1d
+- Tymoteusz Barcicki (szkielet) - 1d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
+- Artur Barcicki (led) - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
@@ -23,6 +25,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Rypolc - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Michał Świętek - 9k
+- Kacper Barcicki (czaszka) - 11k
 - Ewa Tobór-Świętek - 15k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
@@ -64,6 +67,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Staś Ślusarczyk - ng
 - Natalka Ślusarczyk - ng
 - Emilia Zaremba - ng
-- 
+- Sylwia Barcicka (pasqda) - ng
+  
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
