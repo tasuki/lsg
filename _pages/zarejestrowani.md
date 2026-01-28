@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
 - Patryk Rypolc - 8k
+- Wojciech Ślusarczyk (oro) - 8k
 - Michał Świętek - 9k
 - Ewa Tobór-Świętek - 15k
 - Michał Sobański - 17k
@@ -59,5 +60,10 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Łukasz Grabowski (grasiu) - ng
 - Rafał Bzoma (bzyku) - ng
 - Halinka Bzoma - ng
+- Magdalena Ślusarczyk - ng
+- Staś Ślusarczyk - ng
+- Natalka Ślusarczyk - ng
+- Emilia Zaremba - ng
+- 
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
