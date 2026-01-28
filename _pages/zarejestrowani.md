@@ -56,5 +56,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Monika Sas-Tomczyk - ng
 - Zosia Tomczyk - ng
 - Rozalka Tomczyk - ng
+- Łukasz Grabowski (grasiu) - ng
+- Rafał Bzoma (bzyku) - ng
+- Halinka Bzoma - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
