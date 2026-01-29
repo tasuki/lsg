@@ -22,10 +22,12 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
+- Rysio Szopa - 7k
 - Patryk Rypolc - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Michał Świętek - 9k
 - Kacper Barcicki (czaszka) - 11k
+- Ryszard Szopa - 12k
 - Ewa Tobór-Świętek - 15k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
