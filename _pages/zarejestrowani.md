@@ -16,9 +16,11 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
 - Artur Barcicki (led) - 3k
+- Klaus Blumberg - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Tomasz Dec (koniu) - 5k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
