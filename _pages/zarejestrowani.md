@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natalia Kolińska - 19k
 - Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
+- Klaudia Srul (sprężynka) - 20k
 - Antonio Koliński - 29k
 - Staś Koliński - 30k
 - Tomaszek Cieśla - 30k
@@ -72,6 +73,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Natalka Ślusarczyk - ng
 - Emilia Zaremba - ng
 - Sylwia Barcicka (pasqda) - ng
+- Michał Ślusarczyk (młody) - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
