@@ -9,6 +9,7 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
+- Stanisław Frejlak (sasio) - 2P
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
@@ -20,6 +21,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
+- Marcin Kulczycki - 4k
 - Tomasz Dec (koniu) - 5k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
@@ -74,6 +76,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Emilia Zaremba - ng
 - Sylwia Barcicka (pasqda) - ng
 - Michał Ślusarczyk (młody) - ng
+- Małgorzata Frejlak - ng
+- Jan Frejlak - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
