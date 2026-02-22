@@ -16,6 +16,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
+- Piotr Andryszek (hajtek) - 2k
 - Artur Barcicki (led) - 3k
 - Klaus Blumberg - 3k
 - Jarek Bębenek - 4k
