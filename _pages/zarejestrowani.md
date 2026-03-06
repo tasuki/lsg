@@ -36,6 +36,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ewa Tobór-Świętek - 15k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
+- Asta Kovrowa - 19k
 - Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
 - Klaudia Srul (sprężynka) - 20k
