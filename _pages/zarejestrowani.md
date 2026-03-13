@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
+- Bruno Wałaszewski - 1d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
@@ -40,6 +41,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
 - Klaudia Srul (sprężynka) - 20k
+- Anna Nikulina - 25k
+- Bianka Wałaszewska - 25k
 - Antonio Koliński - 29k
 - Staś Koliński - 30k
 - Tomaszek Cieśla - 30k
@@ -80,6 +83,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Ślusarczyk (młody) - ng
 - Małgorzata Frejlak - ng
 - Jan Frejlak - ng
+- Lidia Wałaszewska - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
