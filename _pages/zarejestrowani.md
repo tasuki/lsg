@@ -35,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Kacper Barcicki (czaszka) - 11k
 - Ryszard Szopa - 12k
 - Ewa Tobór-Świętek - 15k
+- Tima Bodnar - 15k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
 - Asta Kovrowa - 19k
@@ -84,6 +85,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Małgorzata Frejlak - ng
 - Jan Frejlak - ng
 - Lidia Wałaszewska - ng
+- Oleg Bodnar - ng
+- Denys Bodnar - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
