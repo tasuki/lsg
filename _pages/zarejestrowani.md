@@ -20,6 +20,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Piotr Andryszek (hajtek) - 2k
 - Artur Barcicki (led) - 3k
 - Klaus Blumberg - 3k
+- Patryk Jełowicki (kolorek) - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
