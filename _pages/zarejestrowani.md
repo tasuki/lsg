@@ -21,6 +21,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Artur Barcicki (led) - 3k
 - Klaus Blumberg - 3k
 - Patryk Jełowicki (kolorek) - 3k
+- Paweł Skibiński - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
@@ -88,6 +89,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Lidia Wałaszewska - ng
 - Oleg Bodnar - ng
 - Denys Bodnar - ng
+- Magda Walkiewicz - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
