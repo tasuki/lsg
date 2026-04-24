@@ -34,6 +34,6 @@ Pojemność Łośtaxi w 2025 trochę ograniczona bo jedzie z nami Hania. Dwóch
 - Miastko -- 150zł za wyjazd
 
 
-*Tak, Bytów i Miastko specjalnie są takie drogie! Hop na PKS i przyjedzcie do Tuchomia!*
+*Tak, Bytów i Miastko specjalnie są takie drogie! Hop na PKS i przyjedźcie do Tuchomia!*
 
 ![spiwor](/public/foto/spiwor.jpg)
