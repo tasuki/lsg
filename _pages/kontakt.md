@@ -3,7 +3,7 @@ layout: page
 title: Kontakt
 ---
 
-![simul](/public/simul.jpg)
+![simul](/public/foto/simul.jpg)
 
 ## Kontakty
 

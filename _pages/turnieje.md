@@ -3,7 +3,7 @@ layout: page
 title: Turnieje
 ---
 
-![przystanek alaska](/public/go.jpg)
+![przystanek alaska](/public/foto/go.jpg)
 
 Zapisy na turnieje są na tablicy u Holinga (w stodole u góry). Tutaj również się startuje większość turniejów, jest wywieszone parowanie, można czasami złapać sędziów, itd.
 
@@ -29,7 +29,7 @@ Turnieje rozrywkowe są w większości rozgrywane systemem podwójnej drabinki.
 - Fantom Go (no weź grajcie szybciej), 13&times;13, komi 0.5
 - ~~Rengo~~ Trash Talk (Fischer 10 min + 10 sec), drużyny po trzy osoby, pełny handicap
 
-![przystanek alaska](/public/drabinka.jpg)
+![przystanek alaska](/public/foto/drabinka.jpg)
 
 ## Turnieje sportowe
 
@@ -40,4 +40,4 @@ Turnieje rozrywkowe są w większości rozgrywane systemem podwójnej drabinki.
 - Flanki i inne tam patysie
 - Może jeszcze kiedyś będzie bieg KaCa
 
-![przystanek alaska](/public/osadniki.jpg)
+![przystanek alaska](/public/foto/osadniki.jpg)

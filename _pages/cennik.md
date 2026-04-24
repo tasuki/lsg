@@ -40,4 +40,4 @@ Zniżki:
 - 5% zniżki za **noclegi** dla zarejestrowanych do 15 czerwca
 - w tym roku całe LSG wraca do starej wersji,  wyżywienie  startuje  od kolacji sobotniej 11-go a kończy się śniadaniem w niedzielę, 26-go lipca
 
-![licytacja](/public/licytacja.jpg)
+![licytacja](/public/foto/licytacja.jpg)

@@ -36,4 +36,4 @@ Pojemność Łośtaxi w 2025 trochę ograniczona bo jedzie z nami Hania. Dwóch
 
 *Tak, Bytów i Miastko specjalnie są takie drogie! Hop na PKS i przyjedzcie do Tuchomia!*
 
-![spiwor](/public/spiwor.jpg)
+![spiwor](/public/foto/spiwor.jpg)

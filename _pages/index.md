@@ -15,7 +15,7 @@ Od ponad dwudziestu lat Letnia Szkoła Go jest organizowana na terenie gospodars
 
 Na Letniej Szkole Go odbywają się [codzienne zajęcia](/co-gdzie) oraz [wiele turniejów](/turnieje) bardziej i mniej poważnych, goistycznych i niegoistycznych.
 
-![przystanek alaska](/public/palaska2021.jpg)
+![przystanek alaska](/public/foto/palaska2021.jpg)
 
 Na wyposażeniu gospodarstwa znajdują się:
 
@@ -28,10 +28,10 @@ Na wyposażeniu gospodarstwa znajdują się:
 - Ogromna *stodoła przerobiona na salę do tańców, zajęć, gier* i innych
 - Wiele innych atrakcji: jezioro *(pierwsza klasa czystości z prywatną plażą)*, stadnina (możliwość jazdy konnej -- polecana wcześniejsza rezerwacja), kajaki, siatkówka, koszykówka, ping pong, ściana wspinaczkowa, siłownia, szlaki wycieczkowe, kamienne kręgi, i inne.
 
-![karaoke](/public/karaoke.jpg)
+![karaoke](/public/foto/karaoke.jpg)
 
 Klimat tego miejsca jest stylizowany na serial "Przystanek Alaska" -- polityką właścicieli to zapewnienie wysokiej klasy obsługi z elementami survivalu i relaksu.
 
 Bliższe informacje można znaleźć na [stronie Alaski](http://www.alaska.sundar.pl/), gdzie jest dużo zdjęć i dodatkowych informacji. Jest to naprawdę niezwykłe miejsce i polecam je każdemu.
 
-![balony](/public/balony.jpg)
+![balony](/public/foto/balony.jpg)

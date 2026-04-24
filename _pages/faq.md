@@ -31,4 +31,4 @@ Tak.
 
 1. **A z kiełbaskami?**
 
-![ognisko](/public/ognisko.jpg)
+![ognisko](/public/foto/ognisko.jpg)
