@@ -15,6 +15,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
 - Bruno Wałaszewski - 1d
+- Paweł Frączak (alvar) - 1d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
@@ -34,6 +35,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rysio Szopa - 7k
 - Patryk Rypolc - 8k
 - Wojciech Ślusarczyk (oro) - 8k
+- Ewa Śliwicka - 8k
 - Michał Świętek - 9k
 - Kacper Barcicki (czaszka) - 11k
 - Ryszard Szopa - 12k
