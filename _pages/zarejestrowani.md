@@ -11,8 +11,8 @@ title: Zarejestrowani
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 2P
 - Vít Brunner (tasuki) - 4d
+- Maksym Wałaszewski (szlachetny tygrys) - 4d
 - Andrew Kay (paladyn) - 3d
-- Maksym Wałaszewski (szlachetny tygrys) - 3d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
 - Bruno Wałaszewski - 1d
