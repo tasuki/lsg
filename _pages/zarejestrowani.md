@@ -17,6 +17,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tymoteusz Barcicki (szkielet) - 1d
 - Bruno Wałaszewski - 1d
 - Paweł Frączak (alvar) - 1d
+- Adam Siwy - 1d
 - Darek Bednarczyk - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
