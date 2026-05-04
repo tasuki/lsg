@@ -44,6 +44,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ewa Tobór-Świętek - 15k
 - Tima Bodnar - 15k
 - Michał Maszkowski - 15k
+- Bruno Jadach - 16k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
 - Asta Kovrowa - 19k
