@@ -97,6 +97,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Oleg Bodnar - ng
 - Denys Bodnar - ng
 - Magda Walkiewicz - ng
+- Maria Przybylak - ng
+- Patryk Masiakowski - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
