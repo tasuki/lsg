@@ -30,11 +30,14 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
+- Marek Kowalski - 4k
 - Tomasz Dec (koniu) - 5k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
 - Rysio Szopa - 7k
+- Weronika Łacna - 7k
+- Maciej Łacny - 7k
 - Patryk Rypolc - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Ewa Śliwicka - 8k
@@ -51,6 +54,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jacek Chroboczek (czifo) - 20k
 - Rufin Gauza - 20k
 - Klaudia Srul (sprężynka) - 20k
+- Filip Łacny - 20k
 - Anna Nikulina - 25k
 - Bianka Wałaszewska - 25k
 - Antonio Koliński - 29k
