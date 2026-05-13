@@ -26,6 +26,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Klaus Blumberg - 3k
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Skibiński - 3k
+- Michał Flach - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
