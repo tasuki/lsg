@@ -49,6 +49,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tima Bodnar - 15k
 - Michał Maszkowski - 15k
 - Bruno Jadach - 16k
+- Ola Flach - 16k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
 - Asta Kovrowa - 19k
@@ -56,6 +57,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rufin Gauza - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Filip Łacny - 20k
+- Aleksander Wajs - 20k 
 - Anna Nikulina - 25k
 - Bianka Wałaszewska - 25k
 - Antonio Koliński - 29k
@@ -104,6 +106,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Magda Walkiewicz - ng
 - Maria Przybylak - ng
 - Patryk Masiakowski - ng
+- Łukasz Bandach - ng
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
