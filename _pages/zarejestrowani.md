@@ -19,6 +19,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paweł Frączak (alvar) - 1d
 - Adam Siwy - 1d
 - Darek Bednarczyk - 1k
+- Mateusz Szeląg - 1k
+- Jakub Miłkowski - 1k
 - Grzegorz Sobański (silk) - 2k
 - Kacper Cieśla (comboy) - 2k
 - Piotr Andryszek (hajtek) - 2k
