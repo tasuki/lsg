@@ -33,7 +33,14 @@ Pojemność Łośtaxi w 2025 trochę ograniczona bo jedzie z nami Hania. Dwóch
 - Bytów -- 120zł za wyjazd
 - Miastko -- 150zł za wyjazd
 
-
 *Tak, Bytów i Miastko specjalnie są takie drogie! Hop na PKS i przyjedźcie do Tuchomia!*
 
 ![spiwor](/public/foto/spiwor.jpg)
+
+### Biegi na orientację
+
+Jeżeli akurat już jesteście w pobliżu, i chcecie trafić na Alaskę, tutaj są mapy od Jugglera z roku 2018:
+
+- [Jezioro Kamieniczno, 1:25k](/public/mapy/2018_Jezioro_Kamieniczno.pdf)
+- [Przystanek Alaska Okolice, 1:10k](/public/mapy/2018_Przystanek_Alaska.pdf)
+- [Przystanek Alaska Ośrodek, 1:2k](/public/mapy/2018_Przystanek_Alaska_Osrodek.pdf)
