@@ -77,7 +77,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Paulina Bednarczyk - ng
 - Oliwia Bednarczyk - ng
 - Wojtek Bednarczyk - ng
-- Joanna Długosz - ng
 - Julia Bray - ng
 - Anna Seget - ng
 - Eliza Nowacka - ng
