@@ -13,6 +13,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Maksym Wałaszewski (szlachetny tygrys) - 4d
 - Andrew Kay (paladyn) - 3d
+- Przemysław Dyszczyk - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
 - Bruno Wałaszewski - 1d
@@ -47,6 +48,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Świętek - 9k
 - Kacper Barcicki (czaszka) - 11k
 - Ryszard Szopa - 12k
+- Jan Opawski - 12k
 - Ewa Tobór-Świętek - 15k
 - Tima Bodnar - 15k
 - Michał Maszkowski - 15k
@@ -59,7 +61,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rufin Gauza - 20k
 - Klaudia Srul (sprężynka) - 20k
 - Filip Łacny - 20k
-- Aleksander Wajs - 20k 
+- Aleksander Wajs - 20k
+- Mariia Zinchenko - 20k
 - Anna Nikulina - 25k
 - Bianka Wałaszewska - 25k
 - Antonio Koliński - 29k
