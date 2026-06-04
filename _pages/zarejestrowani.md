@@ -63,6 +63,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Filip Łacny - 20k
 - Aleksander Wajs - 20k
 - Mariia Zinchenko - 20k
+- Anna Straszyńska - 20k
 - Anna Nikulina - 25k
 - Bianka Wałaszewska - 25k
 - Antonio Koliński - 29k
