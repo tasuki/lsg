@@ -10,9 +10,9 @@ title: Zarejestrowani
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Stanisław Frejlak (sasio) - 2P
+- Andrew Kay (paladyn) - 5d
 - Vít Brunner (tasuki) - 4d
 - Maksym Wałaszewski (szlachetny tygrys) - 4d
-- Andrew Kay (paladyn) - 3d
 - Przemysław Dyszczyk - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
