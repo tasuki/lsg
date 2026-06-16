@@ -53,7 +53,7 @@
 14 Obiad
 15 Rengo <br> 1-3
 19 Kolacja
-20 ~
+20 Wieczór komedii (kolorek)
 
 ## Czw 16.7.
 
