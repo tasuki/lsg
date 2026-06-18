@@ -9,7 +9,7 @@ title: Zarejestrowani
 #### Jeśli nie ma Cię na liście koniecznie skontaktuj sie z organizatorem od zapisów (Czifo): chrobjac@poczta.onet.pl
 
 Zarejestrowani uczestnicy, mniej więcej według stopnia:
-- Stanisław Frejlak (sasio) - 2P
+- Stanisław Frejlak (sasio) - 2p
 - Andrew Kay (paladyn) - 5d
 - Vít Brunner (tasuki) - 4d
 - Maksym Wałaszewski (szlachetny tygrys) - 4d
@@ -19,6 +19,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Bruno Wałaszewski - 1d
 - Paweł Frączak (alvar) - 1d
 - Adam Siwy - 1d
+- Jan Frejlak - 1d
 - Darek Bednarczyk - 1k
 - Mateusz Szeląg - 1k
 - Jakub Miłkowski - 1k
@@ -30,24 +31,32 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Jełowicki (kolorek) - 3k
 - Paweł Skibiński - 3k
 - Michał Flach - 3k
+- Paweł Obrok (yapee) - 3k
 - Jarek Bębenek - 4k
 - Wojtek Kaśków - 4k
 - Marcin Tomczyk (emtom) - 4k
 - Marcin Kulczycki - 4k
 - Marek Kowalski - 4k
+- Maciek Mazurek (kotaś) - 4k
+- Małgorzata Palej (shaa) - 4k
 - Tomasz Dec (koniu) - 5k
+- Łukasz Bandach - 5k
+- Sylwia Barcicka (pasqda) - 5k
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
 - Rysio Szopa - 7k
 - Weronika Łacna - 7k
 - Maciej Łacny - 7k
+- Bartłomiej Lisiecki (hino) - 7k
 - Wojciech Ślusarczyk (oro) - 8k
 - Ewa Śliwicka - 8k
 - Michał Świętek - 9k
+- Łukasz Grabowski (grasiu) - 9k
 - Kacper Barcicki (czaszka) - 11k
 - Ryszard Szopa - 12k
 - Jan Opawski - 12k
+- Rafał Bzoma (bzyku) - 12k
 - Ewa Tobór-Świętek - 15k
 - Tima Bodnar - 15k
 - Michał Maszkowski - 15k
@@ -84,37 +93,27 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Anna Seget - ng
 - Eliza Nowacka - ng
 - Franek Świętek - ng
-- Małgorzata Palej (shaa) - ng
-- Paweł Obrok (yapee) - ng
 - Lars Obrok - ng
 - Emma Obrok - ng
-- Marta Szeredy- Kolińska - ng
+- Marta Szeredy-Kolińska - ng
 - Leszek Koliński - ng
 - Monika Sas-Tomczyk - ng
 - Zosia Tomczyk - ng
 - Rozalka Tomczyk - ng
-- Łukasz Grabowski (grasiu) - ng
-- Rafał Bzoma (bzyku) - ng
 - Halinka Bzoma - ng
 - Magdalena Ślusarczyk - ng
 - Staś Ślusarczyk - ng
 - Natalka Ślusarczyk - ng
 - Emilia Zaremba - ng
-- Sylwia Barcicka (pasqda) - ng
 - Michał Ślusarczyk (młody) - ng
 - Małgorzata Frejlak - ng
-- Jan Frejlak - ng
 - Lidia Wałaszewska - ng
 - Oleg Bodnar - ng
 - Denys Bodnar - ng
 - Magda Walkiewicz - ng
 - Maria Przybylak - ng
 - Patryk Masiakowski - ng
-- Łukasz Bandach - ng
-- Maciek Mazurek (kotaś) - ng
-- Kinga Lisiecka - Garbaczewska - ng
-- ....   Lisiecki (chino) - ng 
-  
+- Kinga Lisiecka-Garbaczewska - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
 
