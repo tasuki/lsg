@@ -48,7 +48,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rysio Szopa - 7k
 - Weronika Łacna - 7k
 - Maciej Łacny - 7k
-- Bartłomiej Lisiecki (hino) - 7k
 - Wojciech Ślusarczyk (oro) - 8k
 - Ewa Śliwicka - 8k
 - Michał Świętek - 9k
