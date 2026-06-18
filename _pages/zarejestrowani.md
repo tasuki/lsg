@@ -115,6 +115,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Patryk Masiakowski - ng
 - Kinga Lisiecka-Garbaczewska - ng
 - Bartek Lisiecki - ng
+- Maciek Mazurek (kotaś) - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
 
