@@ -42,7 +42,6 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Rysio Szopa - 7k
 - Weronika Łacna - 7k
 - Maciej Łacny - 7k
-- Patryk Rypolc - 8k
 - Wojciech Ślusarczyk (oro) - 8k
 - Ewa Śliwicka - 8k
 - Michał Świętek - 9k
@@ -112,6 +111,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maria Przybylak - ng
 - Patryk Masiakowski - ng
 - Łukasz Bandach - ng
+- Maciek Mazurek (kotaś) - ng
+- Kinga Lisiecka - Garbaczewska - ng
+- ....   Lisiecki (chino) - ng 
   
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
