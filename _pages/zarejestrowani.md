@@ -62,6 +62,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Michał Maszkowski - 15k
 - Bruno Jadach - 16k
 - Ola Flach - 16k
+- Martyna Meresińska - 16k
 - Michał Sobański - 17k
 - Natalia Kolińska - 19k
 - Asta Kovrowa - 19k
@@ -79,6 +80,8 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Tomaszek Cieśla - 30k
 - Piotr Sobański - 30k
 - Jan Sobański- 30k
+- Tomasz Meresiński - 30k
+- Kamil Szalecki - 30k
 - Basia Cieśla - 40k
 - Hana Brunner - 42k
 - Ania Cichocka (ridibunda) - ng
