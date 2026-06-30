@@ -64,6 +64,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ola Flach - 16k
 - Martyna Meresińska - 16k
 - Michał Sobański - 17k
+- Sławomir Grzesiak - 17k
 - Natalia Kolińska - 19k
 - Asta Kovrowa - 19k
 - Jacek Chroboczek (czifo) - 20k
