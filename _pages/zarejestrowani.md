@@ -57,9 +57,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Ryszard Szopa - 12k
 - Jan Opawski - 12k
 - Rafał Bzoma (bzyku) - 12k
+- Tima Bodnar - 15k
 - Maria Kluziak - 14k
 - Ewa Tobór-Świętek - 15k
-- Tima Bodnar - 15k
 - Michał Maszkowski - 15k
 - Bruno Jadach - 16k
 - Ola Flach - 16k
