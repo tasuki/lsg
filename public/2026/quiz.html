@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Quiz taskiego</title>
+    <link rel="stylesheet" href="/public/css/fonts.css">
+    <style>
+    body { font-family: 'Alegreya Sans'; font-variant-numeric: lining-nums tabular-nums; }
+    .remark-slide-content { font-size: 30px; line-height: 40px; }
+    .answer {
+      box-sizing: border-box;
+      display: inline-flex;
+      align-items: baseline;
+      width: calc(50% - .4em);
+      margin: .25em 0;
+      font-size: 40px;
+    }
+    .label {
+      display: inline-block;
+      min-width: 1.6em;
+      margin-right: .35em;
+      font-weight: 700;
+    }
+    .remark-slide-content img {
+      display: block;
+      width: 100%;
+      margin: .75em auto 0;
+    }
+    ol, ul { line-height: 1.5em; }
+    h1, h2, h3 {
+      margin: .5em 0 .5em 0;
+      line-height: 1em;
+    }
+    </style>
+  </head>
+  <body>
+    <script src="/public/js/remark.min.js"></script>
+    <script>
+    var slideshow = remark.create({
+      sourceUrl: 'quiz.md',
+    });
+    </script>
+  </body>
+</html>
