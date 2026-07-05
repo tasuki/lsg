@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Quiz taskiego</title>
-    <link rel="stylesheet" href="/public/css/fonts.css">
+    <link rel="stylesheet" href="/public/css/wgo.player.css" />
+    <link rel="stylesheet" href="/public/css/fonts.css" />
     <style>
     body { font-family: 'Alegreya Sans'; font-variant-numeric: lining-nums tabular-nums; }
     .remark-slide-content { font-size: 30px; line-height: 40px; }
@@ -34,11 +35,69 @@
     </style>
   </head>
   <body>
+    <script type="text/javascript" src="/public/js/wgo.min.js"></script>
+    <script type="text/javascript" src="/public/js/wgo.player.min.js"></script>
     <script src="/public/js/remark.min.js"></script>
     <script>
     var slideshow = remark.create({
       sourceUrl: 'quiz.md',
     });
+
+    function initWgoDiagram(el) {
+      if (el._wgo_player || !window.WGo || !WGo.BasicPlayer) return;
+
+      var sgf = el.getAttribute('data-wgo-sgf');
+      var autoplay = el.getAttribute('data-wgo-autoplay');
+      el.classList.add('wgo-diagram');
+      el.removeAttribute('data-wgo-sgf');
+
+      el._wgo_player = new WGo.BasicPlayer(el, {
+        sgfFile: sgf,
+        enableWheel: false,
+        enableKeys: false,
+        markLastMove: false,
+        layout: { top: [], right: [], left: [], bottom: [] },
+        update: function(e) {
+          if (e.op !== 'init') return;
+
+          if (autoplay !== null && !e.target._autoplayTimer) {
+            var delay = 1000 / (parseFloat(autoplay) || 5);
+            e.target.first();
+            var playNext = function() {
+              if (e.target.kifuReader.node.children.length) {
+                e.target.next();
+                e.target._autoplayTimer = setTimeout(playNext, e.target.kifuReader.node.children.length ? delay : 1000);
+              } else {
+                e.target.first();
+                e.target._autoplayTimer = setTimeout(playNext, 1000);
+              }
+            };
+            e.target._autoplayTimer = setTimeout(playNext, 1000);
+          } else if (autoplay === null && !e.target._jumpedToLast) {
+            e.target._jumpedToLast = true;
+            requestAnimationFrame(function() {
+              e.target.last();
+              e.target.updateDimensions();
+            });
+          }
+        }
+      });
+    }
+
+    function refreshWgoDiagrams() {
+      requestAnimationFrame(function() {
+        document.querySelectorAll('.remark-visible [data-wgo-sgf]').forEach(initWgoDiagram);
+        document.querySelectorAll('.remark-visible .wgo-diagram').forEach(function(el) {
+          if (el._wgo_player && el._wgo_player.updateDimensions) {
+            el._wgo_player.updateDimensions();
+            setTimeout(function() { el._wgo_player.updateDimensions(); }, 50);
+          }
+        });
+      });
+    }
+
+    slideshow.on('afterShowSlide', refreshWgoDiagrams);
+    window.addEventListener('load', refreshWgoDiagrams);
     </script>
   </body>
 </html>
