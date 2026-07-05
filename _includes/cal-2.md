@@ -37,7 +37,7 @@
 17 13×13 5-6
 18 13×13: 7
 19 Kolacja
-20 3. wykład Siasia
+20 1. wykład Siasia
 
 ## Śro 22.7.
 
@@ -63,7 +63,7 @@
 17 Fantom: 4
 18 Fantom: 5
 19 Kolacja
-20 4. wykład krótki może
+20 2. wykład Siasia
 
 ## Pią 24.7.
 

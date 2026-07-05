@@ -28,7 +28,7 @@
 17 9×9: 5-8
 18 9×9: finał
 19 Kolacja
-20 ~
+20 Najlepszy Quiz Taskiego
 
 ## Wto 14.7.
 
@@ -42,7 +42,7 @@
 17 Torus: 5-6
 18 Torus: 7
 19 Kolacja
-20 1. wykład Siasia
+20 ~
 
 ## Śro 15.7.
 
@@ -64,7 +64,7 @@
 14 Obiad
 15 ~
 19 Kolacja
-20 2. wykład Siasia
+20 ~
 
 ## Pią 17.7.
 
