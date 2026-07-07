@@ -97,7 +97,7 @@ Proszę zapisać wszystkie odpowiedzi 📝
 
 1. D – 2 000 000: Bajkał zawiera 23 000 km^3 wody (Kamieniczno 0.01 km^3)
 2. Pierwsze LSG na Alasce odbyło się roku 2005
-3. Czarek (Cezary, Nickless), Kobuz (Marcin so cool), Murugandi (Muru, Kim Ouweleen), Ignus (M. A. Łukasiewicz) ... *0.25 pkt za każdego*
+3. Czarek (Cezary, Nickless), Kobuz (Marcin so cool), Murugandi (Muru, Kim Ouweleen), Ignus (M. A. Łukasiewicz) ... *ćwierć pkt za każdego*
 
 <div style="float: left; width: 220px; text-align: center;">4. 11×11</div>
 <div style="float: left; width: 220px; text-align: center;">5. nie, nie były</div>
@@ -147,6 +147,13 @@ Druga połowa...
 # 16. 1️⃣🏃‍➡️❌👎
 
 ---
+### 17. Największy turniej na Przystanku Alaska
+
+- Ile w nim grało graczy? (plus minus 10) *(pół pkt)*
+- W którym był roku? *(ćwierć pkt)*
+- Kto go wygrał? *(ćwierć pkt)*
+
+---
 # Przerwa przed końcem ⏳
 
 Proszę zapisać wszystkie odpowiedzi 📝
@@ -161,23 +168,23 @@ Proszę zapisać wszystkie odpowiedzi 📝
 ```
 Most games played
 -----------------
- 1. Fraczak Pawel (14650768)                 251
- 2. Majka Marcin (14713413)                  231
- 3. Frejlak Jan (12801591)                   192
- 4. Blumberg Klaus (10486124)                191
- 5. Walaszewski Maksym (15050673)            184
- 6. Frejlak Stanislaw (12837594)             179
- 7. Palej Malgorzata (13925032)              160
- 8. Cieslak Karol (14649228)                 159
- 9. Beltowska Katarzyna (13013968)           147
-10. Kwietniewska Daria (16062684)            143
+ 1. Fraczak Pawel (14650768)         251
+ 2. Majka Marcin (14713413)          231
+ 3. Frejlak Jan (12801591)           192
+ 4. Blumberg Klaus (10486124)        191
+ 5. Walaszewski Maksym (15050673)    184
+ 6. Frejlak Stanislaw (12837594)     179
+ 7. Palej Malgorzata (13925032)      160
+ 8. Cieslak Karol (14649228)         159
+ 9. Beltowska Katarzyna (13013968)   147
+10. Kwietniewska Daria (16062684)    143
 ```
 
 ### 8. Alvar 251 gier!
 
 - 240-260: 1 pkt
-- 230-270: 0.5 pkt
-- 200-300: 0.25 pkt
+- 230-270: pół pkt
+- 200-300: ćwierć pkt
 
 ---
 class: compact-answers
@@ -200,6 +207,29 @@ class: compact-answers
 ### 16. 1️⃣🏃‍➡️❌👎 "One point jump is never bad"
 
 Małe wariacje co do powyższych są ok, jak nie wiadomo to pytajcie!
+
+---
+
+### 17.
+
+```
+; EV[J. Sacharewicz Memorial]
+; DT[2006-07-12,2006-07-13]
+  1 Brunner Vit        4d CZ Brn   22 5  13+  5+  6+  3+  2+  0=
+  2 Zyzak Andrzej      1d PL Wodz  21 4   4+  3- 10+  8+  1-  7+
+  3 Jachym Radoslaw    2d PL Tych  21 4  11+  2+ 14+  1-  6+  4-
+  4 Wieczorek Wojciech 3d PL Zory  21 4   2- 17+  5+  6- 11+  3+
+  5 Chwedyna Kamil     2d PL Kedz  21 4  15+  1-  4- 16+ 12+  6+
+  6 Bozek Krzysztof    2d PL Kato  20 3   7+  9+  1-  4+  3-  5-
+  7 Mex Gerd           2d DE GOE   20 3   6- 14- 21+  9+  8+  2-
+```
+
+- 86 graczy *(jak macie 76-96: pół pkt)*
+- rok 2006 *(ćwierć pkt)*
+- ja wygrał! *(ćwierć pkt)*
+
+Mając pewne pierwsze miejsce 🏆  
+Bezczelnie się zdropował z ostatniej rundy 🇨🇿
 
 ---
 
