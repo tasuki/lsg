@@ -48,3 +48,5 @@ title: Dawniej
 - <a href="https://gallery.tasuki.org/2008/07-LSG"> IX LSG -- 2008 (galeria Tasukiego) </a>
 - <a href="https://www.youtube.com/watch?v=Crbzi0MnyIs"> IX LSG -- 2008 (filmik Comboya) </a>
 - <a href="https://photos.app.goo.gl/a9Zh9Bxa83WhSD6W9">VIII LSG -- 2007 (galeria Yapiego)</a>
+
+## [Analizy historii turniejów i rejestracji](https://github.com/tasuki/lsg-analyze/blob/master/notebooks/Insights.ipynb)
