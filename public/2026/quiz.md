@@ -1,10 +1,17 @@
 # Quiz taskiego 🤯
 
-- Utworzcie grupy po 3-6 osób
-- Będziecie potrzebowali: kartkę 🗒️ i pisak 🖊️
-- Nie można korzystać z internetu i LLMów i inaczej oszukiwać – używajcie swoich głów
+- Utworzcie grupy po 3-5 osób
+  - może być mniej lub więcej jeśli bardzo chcecie
+- Będziecie potrzebowali:
+  - kartkę 🗒️
+  - pisak 🖊️
+  - mósk 🧠
+- Nie można korzystać z internetów i LLMów
+  - ... i inaczej oszukiwać
+  - używajcie swoich głów!
 - Można podpuszczać przeciwników
-- Poprawna odpowiedź 1 punkt, chyba że napisane/powiedziane inaczej
+- Poprawna odpowiedź 1 punkt
+  - chyba że napisane/powiedziane inaczej
 
 ---
 Jezioro Kamieniczno ma powierzchnie 120 hektarów (1.2 km^2) i zawiera koło 11 milionów kubików wody 🌊
