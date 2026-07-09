@@ -14,6 +14,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Vít Brunner (tasuki) - 4d
 - Maksym Wałaszewski (szlachetny tygrys) - 4d
 - Przemysław Dyszczyk - 2d
+- Łukasz Lew - 2d
 - Anna Sośnicka-Cieśla (sosna) - 1d
 - Tymoteusz Barcicki (szkielet) - 1d
 - Bruno Wałaszewski - 1d
@@ -45,6 +46,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Julia Bednarska - 6k
 - Jakub Gauza (marmez) - 6k
 - Daria Kwietniewska (dariatka) - 6k
+- Krzysztof Grygiel 6k
 - Rysio Szopa - 7k
 - Weronika Łacna - 7k
 - Maciej Łacny - 7k
@@ -84,6 +86,7 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Jan Sobański- 30k
 - Tomasz Meresiński - 30k
 - Kamil Szalecki - 30k
+- Szymon Brozio - 30k
 - Basia Cieśla - 40k
 - Hana Brunner - 42k
 - Ania Cichocka (ridibunda) - ng
@@ -119,6 +122,9 @@ Zarejestrowani uczestnicy, mniej więcej według stopnia:
 - Maria Przybylak - ng
 - Patryk Masiakowski - ng
 - Kinga Lisiecka-Garbaczewska - ng
+- Monika Skowrońska-Grygiel - ng
+- Piotrek Brozio - ng
+- Kinga Grygiel - ng
 
 Twoja siła się nie zgadza? Albo o zgrozo nie ma Cię na liście? Zapisz się albo molestuj Czifa żeby się ogarnął i Cię wpisał!
 
