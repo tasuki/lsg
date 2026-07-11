@@ -32,10 +32,10 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 13×13 1-2
-16 13×13 3-4
-17 13×13 5-6
-18 13×13: 7
+15 ~
+16 9×9: 1-4
+17 9×9: 5-8
+18 9×9: finał
 19 Kolacja
 20 1. wykład Siasia
 
