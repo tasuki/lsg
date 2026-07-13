@@ -5,6 +5,7 @@ title: Dawniej
 
 ## LSG by Taski & Czifo (& Ewa & Silk!)
 
+- [LSG 2026](/2026)
 - [LSG 2025](/2025)
 - [LSG 2024](/2024)
 - [LSG 2023](/2023), łosie ChatGPT:
