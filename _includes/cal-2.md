@@ -49,7 +49,7 @@
 15 Fantom: 1
 17 Fantom: 2
 19 Kolacja
-20 ~
+20 Męski Krąg (Grasiu)
 
 ## Czw 23.7.
 

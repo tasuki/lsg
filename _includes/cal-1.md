@@ -62,9 +62,10 @@
 10 Zajęcia w grupach
 12 Maraton 1-5
 14 Obiad
-15 ~
+15 Turniej Teamów <br> / <br> Biegi na Orient
 19 Kolacja
 20 ~
+21 Rekiny
 
 ## Pią 17.7.
 
