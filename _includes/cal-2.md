@@ -32,12 +32,12 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 ~
-16 9×9: 1-4
-17 9×9: 5-8
-18 9×9: finał
+15 1. wykład Siasia
+17 9×9: 1-4
+18 9×9: 5-8
 19 Kolacja
-20 1. wykład Siasia
+20 9×9: finał
+21 ~
 
 ## Śro 22.7.
 
@@ -58,12 +58,11 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 ~
+15 Wykład
 16 Fantom: 3
-17 Fantom: 4
-18 Fantom: 5
+18 Fantom: 4
 19 Kolacja
-20 2. wykład Siasia
+20 Fantom: 5
 
 ## Pią 24.7.
 
@@ -72,24 +71,23 @@
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 ~
-16 Konkurs tsumego
-18 ~
+15 Konkurs tsumego
+17 Licytacja dla dzieci
 19 Kolacja
-20 Licytacja
+20 Licytacja 18+
 
 ## Sob 25.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
-10 Relay go ?
+10 Tulejer <br> / <br> MPP
 14 Obiad
-15 Symultana ?
+15 Symultana <br> / <br> MPP
 19 Kolacja
-20 ~
-21 Ognisko
+20 Ognisko
 
 ## Nie 26.7.
 
+08 Hikaru no Go (kino)
 09 Śniadanie
 10 ~
