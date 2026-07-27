@@ -1,6 +1,6 @@
 # 2. tyd
 
-## Nie 19.7.
+## Nie 18.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -10,7 +10,7 @@
 19 Kolacja
 20 ~
 
-## Pon 20.7.
+## Pon 19.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -25,21 +25,21 @@
 20 Blitz 9-10
 21 ~
 
-## Wto 21.7.
+## Wto 20.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
 10 Zajęcia w grupach
 12 Maraton 6-10
 14 Obiad
-15 1. wykład Siasia
+15 Wykład
 17 9×9: 1-4
 18 9×9: 5-8
 19 Kolacja
 20 9×9: finał
 21 ~
 
-## Śro 22.7.
+## Śro 21.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -49,9 +49,9 @@
 15 Fantom: 1
 17 Fantom: 2
 19 Kolacja
-20 Męski Krąg (Grasiu)
+20 ~
 
-## Czw 23.7.
+## Czw 22.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -59,12 +59,13 @@
 12 Maraton 6-10
 14 Obiad
 15 Wykład
-16 Fantom: 3
+17 Fantom: 3
 18 Fantom: 4
 19 Kolacja
 20 Fantom: 5
+21 ~
 
-## Pią 24.7.
+## Pią 23.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -72,21 +73,21 @@
 12 Maraton 6-10
 14 Obiad
 15 Konkurs tsumego
-17 Licytacja dla dzieci
+17 Licytacja dla małych
 19 Kolacja
-20 Licytacja 18+
+20 Licytacja dla dużych
 
-## Sob 25.7.
+## Sob 24.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
-10 Tulejer <br> / <br> MPP
+10 ~
 14 Obiad
-15 Symultana <br> / <br> MPP
+15 Symultana
 19 Kolacja
 20 Ognisko
 
-## Nie 26.7.
+## Nie 25.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie

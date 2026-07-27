@@ -1,12 +1,11 @@
 # 1. tyd
 
-## Sob 11.7.
+## Sob 10.7.
 
 19 Kolacja
-20 ~
-21 Ognisko
+20 Ognisko
 
-## Nie 12.7.
+## Nie 11.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -14,9 +13,9 @@
 14 Obiad
 15 Turniej za poznawczy 3-4
 19 Kolacja
-20 Otwarcie <br> + podział <br> do grup
+20 Otwarcie <br> i podział <br> do grup
 
-## Pon 13.7.
+## Pon 12.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -28,9 +27,9 @@
 17 13×13 5-6
 18 13×13: 7
 19 Kolacja
-20 Najlepszy Quiz Taskiego
+20 ~
 
-## Wto 14.7.
+## Wto 13.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -44,7 +43,7 @@
 19 Kolacja
 20 ~
 
-## Śro 15.7.
+## Śro 14.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -53,21 +52,20 @@
 14 Obiad
 15 Rengo <br> 1-3
 19 Kolacja
-20 Wieczór komedii (kolorek)
+20 ~
 
-## Czw 16.7.
+## Czw 15.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
 10 Zajęcia w grupach
 12 Maraton 1-5
 14 Obiad
-15 Turniej Teamów <br> / <br> Biegi na Orient
+15 ~
 19 Kolacja
 20 ~
-21 Rekiny
 
-## Pią 17.7.
+## Pią 16.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -80,7 +78,7 @@
 19 Kolacja
 20 Licytacja
 
-## Sob 18.7.
+## Sob 17.7.
 
 08 Hikaru no Go (kino)
 09 Śniadanie
@@ -88,5 +86,4 @@
 13 Obiad
 14 Memoriał runda 2-3
 19 Kolacja
-20 ~
-21 Ognisko
+20 Ognisko
