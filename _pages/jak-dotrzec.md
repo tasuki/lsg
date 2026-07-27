@@ -16,10 +16,9 @@ Gliśno Wielkie 3
 
 Samochodem! No albo:
 
-1. PKP do Chojnic, następnie PKS do Lipnicy.
-2. PKP do Miastka, następnie PKS do Tuchomia.
-2. PKS do Lipnicy (przez Bydgoszcz).
-3. PKS/Flixbus do Bytowa.
+1. PKP do Gdańska, potem PKS do Bytowa, potem do Tuchomia.
+2. PKP do Miastka, potem PKS do Tuchomia.
+2. PKP do Chojnic, potem PKS do Lipnicy (z Chojnic, jedzie tylko w dni powszednie).
 
 ### Łośtaxi
 
