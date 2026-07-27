@@ -14,6 +14,12 @@ bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
+Można też użyć Dockera:
+
+```
+docker run -p 4000:4000 lsg
+```
+
 ## Develop
 
 ```
