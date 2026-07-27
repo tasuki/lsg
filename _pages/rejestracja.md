@@ -7,13 +7,15 @@ title: Jak się zarejestrować
 
 Wyślij do organizatora: chrobjac@poczta.onet.pl e-mail, wklejając i uzupełniając poniższy formularz:  
 
-> Imię i nazwisko:  
-> Data pobytu: od 11.7.2026 (sobota) do 26.7.2026 (niedziela)  
-> Nocleg: (domek, namiot własny,inne)  
-> Wyżywienie: (śniadania, obiady, kolacje, jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)  
-> Siła gracza: 
->  
-> Inne uwagi: (np nazwiska osób z którymi chce się zająć domek)  
+> Imię i nazwisko:
+> Data pobytu: od 10.7.2027 (sobota) do 25.7.2027 (niedziela)
+> Nocleg: (domek, namiot własny, inne)
+> Wyżywienie: (śniadania, obiady, kolacje; jedzenie wegetariańskie -- UWAGA: wegetariańskie będą tylko śniadania i kolacje, nie ma obiadów wege, wege jest zupa)
+> Planuję uczestniczyć w zajęciach grupowych: tak / nie wiem / nie
+> Stopień gracza:
+> 
+> Inne uwagi: (np nazwiska osób z którymi chce się zająć domek)
+
 
 ### Gdzie przelać pieniądze w ramach przedpłaty za domek lub opłaty za całość LSG?
 
