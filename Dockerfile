@@ -16,8 +16,8 @@ RUN bundle install
 # Copy the rest of the application
 COPY . .
 
-# Expose the default Jekyll port
-EXPOSE 4000
+# Expose the default Jekyll port and LiveReload port
+EXPOSE 4000 35729
 
 # Run Jekyll serve by default, allowing external connections
-CMD bundle exec jekyll serve --host 0.0.0.0
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--force_polling", "--livereload", "--livereload-port", "35729"]

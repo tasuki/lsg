@@ -16,8 +16,8 @@ bundle install
 
 Można też użyć Dockera:
 
-```
-docker run -p 4000:4000 lsg
+```powershell
+docker compose up
 ```
 
 ## Develop
