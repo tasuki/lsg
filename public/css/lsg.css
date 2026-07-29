@@ -95,5 +95,5 @@ table.cal .other { background-color: #CFE2F3; }
 
 @media (min-width: 48em) {
   #menu-toggle, #hamburger { display: none; }
-  .sidebar { min-height: 1200px; text-align: right; }
+  .sidebar { min-height: 900px; text-align: right; }
 }

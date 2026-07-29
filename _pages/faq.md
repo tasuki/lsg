@@ -17,9 +17,6 @@ W prysznicach jest ciepła woda rano i wieczorem. Jak da łoś, jest też o inny
 1. <strong>Gdzie można sobie coś ugotować?</strong><br>
 Kuchnia dostępna dla obozowiczów jest dobrze wyposażona. Są lodówki, kuchenka, czajnik elektryczny, toster. Za to nie ma naczyń: jeżeli chcecie gotować, warto przywieźć swoje garnki/patelnie/talerze/sztućce/etc. Sklepik obozowy jest dobrze zaopatrzony i można kupić nie tylko zupki chińskie, ale i mąkę, jaja, ziemniaki, konserwy i wiele innych. 
 
-1. <strong>Czy moge otrzymać za LSG rozliczenie na potrzeby dofinansowania z zakładu pracy?</strong><br>
-Tak. Należy jednak uprzednio sprawdzić w swojej firmie zasady rozliczania a następnie zgłosić się do organizatora przed lub na samej LSG z danymi do faktury. 
-
 1. <strong>Czy osoby niegrające w Go mogą przyjechać na LSG?</strong><br>
 Tak. LSG oferuje dużo niegoistycznych atrakcji. Dlatego też członkowie rodzin nie grajacy w go na pewno znajdą dla siebie zajęcie.
 
