@@ -39,6 +39,7 @@ title: Dawniej
 
 ## Zdjęcia sprzed roku 2015:
 
+- Nowsze *zdjęcia pod linkami wyżej* razem z rezultatami i takimi tam!
 - <a href="https://picasaweb.google.com/101344519657364273322/2012Go">XIII LSG -- 2012 (go, czyje?)</a>
 - <a href="https://picasaweb.google.com/101344519657364273322/2012">XIII LSG -- 2012 (niego, czyje?)</a>
 - <a href="https://gallery.tasuki.org/2011/08-lsg"> XII LSG -- 2011 (galeria Tasukiego)</a>
