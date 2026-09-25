@@ -14,6 +14,12 @@ bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
+Można też użyć Dockera:
+
+```powershell
+docker compose up
+```
+
 ## Develop
 
 ```
